@@ -1,0 +1,32 @@
+@font-face {
+  font-family: 'Century Gothic';
+  src:url("/assets/fonts/GOTHIC.TTF") format('truetype');
+}
+
+@font-face {
+  font-family: 'Galdeano';
+  font-style: normal;
+  font-weight: 400;
+  src: local('Galdeano Regular'), local('Galdeano-Regular'), url("/assets/fonts/Galdeano.woff") format('woff');
+}
+
+@font-face {
+  font-family: 'Electrolize';
+  font-style: normal;
+  font-weight: 400;
+  src: local('Electrolize'), local('Electrolize-Regular'), url("/assets/fonts/Electrolize.woff") format('woff');
+}
+
+@font-face {
+  font-family: 'Cuprum';
+  font-style: normal;
+  font-weight: 400;
+  src: local('Cuprum'), local('Cuprum-Regular'), url("/assets/fonts/Cuprum.woff") format('woff');
+}
+
+@font-face {
+  font-family: 'Codystar';
+  font-style: normal;
+  font-weight: 400;
+  src: local('Codystar'), url("/assets/fonts/Codystar.woff") format('woff');
+}

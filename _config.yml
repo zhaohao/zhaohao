@@ -1,0 +1,39 @@
+# coding=utf-8
+timezone: Asia/Shanghai
+
+# Site settings
+email: hao@zhao.im
+baseurl: ""
+qrcodeurl: "https://diary.zhao.im"
+paginate: 40
+paginate_path: "/pages/page-:num/"
+cdnlink: ""
+# cdnlink: "https://zhao.im"
+
+# SEO settings
+title: Notepaper...☁...
+description: Notepaper of zhaohao.
+twitter_username: zhaohao
+disqus_username: zhaohao
+
+# Build settings
+include: ["_categories"]
+exclude: ["Gemfile.lock", "README.md", "LICENSE.txt"]
+markdown: kramdown
+highlighter: rouge
+permalink: /:year-:month-:day-:title.html
+
+# Sass
+sass:
+  style: compressed
+
+# html minify
+compress_html:
+  clippings: all
+  comments: all
+  endings: []
+  startings: [html, head, body]
+  profile: false
+
+# Gems
+plugins: [jekyll-paginate, jekyll-sitemap]

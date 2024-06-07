@@ -1,0 +1,45 @@
+---
+title: Notepaper
+layout: default
+permalink: 
+---
+<div>Ξ {{site.title}} ( {{ paginator.total_posts }} posts )  <a href="{{ site.baseurl }}/timeline.html"><span> Timeline </span></a></div>
+<div>　　　　</div>
+{% for post in paginator.posts %}
+  {% capture y %}{{post.date | date:"%Y"}}{% endcapture %}
+  {% if year != y %}
+    {% assign year = y %}
+    <div><li class="listing-seperator">{{ y }}</li></div>
+  {% endif %}
+  <div>
+  <li class="listing-item">
+    <time datetime="{{ post.date | date:"%Y-%m-%d" }}">{{ post.date | date:"%Y-%m-%d" }}</time>
+    <a href="{{ post.url }}" title="{{ post.title }}">{{ post.title }} - {{ post.date | date: "%A" }}</a>
+  </li>
+  </div>
+{% endfor %}
+<div>　　　　</div>
+
+<div id="post-pagination" class="paginator">
+
+ {% if paginator.total_pages > 1 %}
+
+    {% if paginator.page == 1 %}
+      <span class="current-page">1</span>
+      {% else %}
+      <span class="list-page"><a href="/">1</a></span>
+    {% endif %}
+
+    {% for count in (2..paginator.total_pages) %}
+      {% if count == paginator.page %}
+      <span class="current-page">{{count}}</span>
+      {% else %}
+      <span class="list-page"><a href="/pages/page-{{count}}/index.html">{{count}}</a></span>
+      {% endif %}
+    {% endfor %}
+
+  {% endif %}
+<p>Copyright © 2014-2024 zhao.im. All rights reserved.</p>
+<p style="font-size:70%;color:#999;text-align:right;">Powered by <a href="https://github.com/jekyll/jekyll">Jekyll</a> | Update Time：{{site.time | date:"%Y-%m-%d %H:%M:%S %Z"}}</p>
+</div>
+

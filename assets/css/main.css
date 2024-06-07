@@ -1,0 +1,130 @@
+::-webkit-scrollbar {
+	-webkit-appearance: none;
+	width: 8px;
+	height: 8px;
+}
+
+::-webkit-scrollbar-thumb {
+	border-radius: 4px;
+	background-color: rgb(169 196 196);
+	-webkit-box-shadow: 0 0 1px hsla(0,0%,100%,.5);
+}
+
+body {
+	overflow-y: scroll;	
+	padding: 0;
+	margin: 0;
+	/*background:#E4E8EF; */
+	font-size: 14px;
+	font-family: Cuprum,Consolas,Verdana,"Microsoft Yahei","Hiragino Sans GB","Noto Sans S Chinese Thin",sans-serif;
+}
+
+h1 {
+	font-family: "Cuprum", "Hiragino Sans GB", "Microsoft YaHei", "lxgw wenkai screen", sans-serif;
+	font-size: 1.4em;
+	color: #000;
+}
+
+h2 {
+	font-family: "Cuprum", "Hiragino Sans GB", "Microsoft YaHei", "lxgw wenkai screen", sans-serif;
+	font-weight: bold;
+	font-size: 1em;
+	color: #2295b9;
+}
+
+h3 {
+	font-family: "Cuprum", "Hiragino Sans GB", "Microsoft YaHei", "lxgw wenkai screen", sans-serif;
+	font-size: 1.1em;
+	color: #222;
+}
+
+h4 {
+	font-family: "Cuprum", "Hiragino Sans GB", "Microsoft YaHei", "lxgw wenkai screen", sans-serif;
+	font-size: 1.1em;
+	color: #333;
+}
+
+a {
+	color: #0a9d9d;
+	font-weight: bold;
+	text-decoration: none;
+}
+
+a:hover {
+	color: #A0DAD0;
+	transition: color 0.4s ease-in-out;
+}
+
+::selection {
+	color: #fff;
+	background-color: #68c9da;
+	text-shadow: none;
+}
+
+table#Table_zhao {
+	max-width: 1280px;
+	margin: auto;
+}
+
+.post-link {
+	font-family: 'Electrolize', Consolas, 'Microsoft Yahei', monospace, sans-serif;
+	font-size: 100%;
+}
+
+.post-content {
+	font-family: 'Electrolize', Consolas,'lxgw wenkai screen', 'Microsoft Yahei', monospace, sans-serif;
+	font-size: 110%;
+	margin-top: 1em;
+}
+
+.post-content img {
+	width: 100%;
+	height: inherit;
+	display: block;
+	margin: 4px 4px 4px 4px;
+	-webkit-box-shadow: #999 1px 1px 4px;
+	-moz-box-shadow: #999 1px 1px 4px;
+	box-shadow: #999 1px 1px 4px;
+}
+
+li.listing-seperator {
+	font-weight: bold;
+	text-decoration: underline;
+	font-size: 18px;
+	font-family: Consolas;
+}
+
+.list-page a {
+	padding: 1px 8px;
+	text-decoration: none;
+	background: #fff;
+	border: 1px solid #CCC;
+	border-radius: 3px;
+	-moz-border-radius: 3px;
+	-webkit-border-radius: 3px;
+	text-decoration: none;
+}
+
+.list-page a:hover {
+	padding: 1px 8px;
+	text-decoration: none;
+	background: #008090;
+	border: 1px solid #008090;
+	border-radius: 3px;
+	-moz-border-radius: 3px;
+	-webkit-border-radius: 3px;
+	text-decoration: none;
+	color: #ffffff;
+	text-decoration: none;
+}
+
+.current-page {
+	padding: 1px 8px;
+	text-decoration: none;
+	background: #fff;
+	border: 0px solid #CCC;
+	border-radius: 3px;
+	-moz-border-radius: 3px;
+	-webkit-border-radius: 3px;
+	text-decoration: none;
+}
