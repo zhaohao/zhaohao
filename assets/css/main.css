@@ -20,9 +20,8 @@ body {
 }
 
 h1 {
-	font-family: "Cuprum", "Hiragino Sans GB", "Microsoft YaHei", "lxgw wenkai screen", sans-serif;
-	font-size: 1.4em;
-	color: #000;
+	font-size: 1em;
+	color: #9e3636;
 }
 
 h2 {
@@ -55,6 +54,23 @@ a:hover {
 	transition: color 0.4s ease-in-out;
 }
 
+hr {
+  border: none;
+  border-top: 3px double #a9c7c3;
+  color: #367168;
+  overflow: visible;
+  text-align: center;
+  height: 5px;
+}
+
+hr::after {
+  background: #fff;
+  content: 'ʰᵃᵒ';
+  padding: 0 4px;
+  position: relative;
+  top: -13px;
+}
+
 ::selection {
 	color: #fff;
 	background-color: #68c9da;
@@ -85,6 +101,23 @@ table#Table_zhao {
 	-webkit-box-shadow: #999 1px 1px 4px;
 	-moz-box-shadow: #999 1px 1px 4px;
 	box-shadow: #999 1px 1px 4px;
+}
+
+.listing-item,.listing-seperator {
+	list-style-type: none;
+	font-family: Galdeano,"Microsoft YaHei",Verdana,sans-serif;
+}
+
+.listing-item a {
+	padding: .2em 1em;
+}
+
+.listing-item time {
+	color: #404040;
+}
+
+.listing-seperator {
+	font-weight: 700;
 }
 
 li.listing-seperator {

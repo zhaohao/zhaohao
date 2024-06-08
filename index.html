@@ -3,7 +3,7 @@ title: Notepaper
 layout: default
 permalink: 
 ---
-<div>Ξ {{site.title}} ( {{ paginator.total_posts }} posts )  <a href="{{ site.baseurl }}/timeline.html"><span> Timeline </span></a></div>
+<div style="color:#9e3636;font-weight:bold;">Ξ {{site.title}} ( {{ paginator.total_posts }} posts )  <a href="{{ site.baseurl }}/timeline.html"><span> Timeline </span></a></div>
 <div>　　　　</div>
 {% for post in paginator.posts %}
   {% capture y %}{{post.date | date:"%Y"}}{% endcapture %}
@@ -39,7 +39,7 @@ permalink:
     {% endfor %}
 
   {% endif %}
-<p>Copyright © 2014-2024 zhao.im. All rights reserved.</p>
-<p style="font-size:70%;color:#999;text-align:right;">Powered by <a href="https://github.com/jekyll/jekyll">Jekyll</a> | Update Time：{{site.time | date:"%Y-%m-%d %H:%M:%S %Z"}}</p>
+<hr>
+<p style="font-size:70%;color:#999;text-align:right;">Copyright © 2014-2024 <a href="/profile.html">zhao.im</a>. | Powered by <a href="https://github.com/jekyll/jekyll">Jekyll</a> | Update Time：{{site.time | date:"%Y-%m-%d %H:%M:%S %Z"}}</p>
 </div>
 

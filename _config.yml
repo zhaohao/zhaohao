@@ -5,13 +5,13 @@ timezone: Asia/Shanghai
 email: hao@zhao.im
 baseurl: ""
 qrcodeurl: "https://diary.zhao.im"
-paginate: 40
+paginate: 20
 paginate_path: "/pages/page-:num/"
 cdnlink: ""
 # cdnlink: "https://zhao.im"
 
 # SEO settings
-title: Notepaper...☁...
+title: Hao's Notes...☁
 description: Notepaper of zhaohao.
 twitter_username: zhaohao
 disqus_username: zhaohao
@@ -21,7 +21,7 @@ include: ["_categories"]
 exclude: ["Gemfile.lock", "README.md", "LICENSE.txt"]
 markdown: kramdown
 highlighter: rouge
-permalink: /:year-:month-:day-:title.html
+permalink: /posts/:year-:month-:day-:title.html
 
 # Sass
 sass:
