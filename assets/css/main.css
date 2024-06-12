@@ -15,32 +15,40 @@ body {
 	padding: 0;
 	margin: 0;
 	/*background:#E4E8EF; */
+	background-image: url(/assets/template/bgp00.svg);
+	background-size: 100% 100%;
+	background-repeat: repeat;
+	background-attachment: fixed;
 	font-size: 14px;
-	font-family: "Cuprum", "lxgw wenkai screen", "Microsoft Yahei", monospace, sans-serif;
+	font-family: Cuprum, "lxgw wenkai screen", "Microsoft Yahei", monospace, sans-serif;
+}
+
+p  {
+	margin:30px 0 0 0;
 }
 
 h1 {
-	font-family: "Cuprum", "Microsoft Yahei", monospace, sans-serif;
+	font-family: Jua, Cuprum, "Microsoft Yahei", monospace, sans-serif;
 	font-weight: bold;	
 	font-size: 1.4em;
 	color: #9e3636;
 }
 
 h2 {
-	font-family: "Cuprum", "Microsoft Yahei", monospace, sans-serif;
+	font-family: Jua, Cuprum, "Microsoft Yahei", monospace, sans-serif;
 	font-weight: bold;
 	font-size: 1.2em;
 	color: #2295b9;
 }
 
 h3 {
-	font-family: "Cuprum", "Microsoft Yahei", monospace, sans-serif;
+	font-family: Jua, Cuprum, "Microsoft Yahei", monospace, sans-serif;
 	font-size: 1.1em;
 	color: #222;
 }
 
 h4 {
-	font-family: "Cuprum","Microsoft Yahei", monospace, sans-serif;
+	font-family: Jua, Cuprum, "Microsoft Yahei", monospace, sans-serif;
 	font-size: 1.1em;
 	color: #333;
 }
@@ -62,12 +70,12 @@ hr {
   color: #367168;
   overflow: visible;
   text-align: center;
-  height: 5px;
+  height: 15px;
 }
 
 hr::after {
   background: #fff;
-  content: '𒈝';
+  content: 'ℤ'; /*'𒈝';*/
   padding: 0 3px;
   position: relative;
   top: -1.2em;
@@ -84,13 +92,25 @@ table#Table_zhao {
 	margin: auto;
 }
 
-.post-link {
-	font-family: "Cuprum", "lxgw wenkai screen", "Microsoft Yahei", monospace, sans-serif;
+.post-home-link {
+	font-family: Galdeano, Cuprum, "Microsoft Yahei", sans-serif;
 	font-size: 1em;
 }
 
+.post-next-link {
+	font-family: Galdeano, Cuprum, "Microsoft Yahei", sans-serif;
+	font-size: 1em;
+}
+
+.post-pre-link {
+	font-family: Galdeano, Cuprum, "Microsoft Yahei", sans-serif;
+	font-size: 1em;
+	margin-top: 30px;
+	text-align: right;
+}
+
 .post-content {
-	font-family: "Cuprum", "lxgw wenkai screen", "Microsoft Yahei", monospace, sans-serif;
+	font-family: Cuprum, "lxgw wenkai screen", "Microsoft Yahei", sans-serif;
 	font-size: 110%;
 	margin-top: 1em;
 }
@@ -99,7 +119,7 @@ table#Table_zhao {
 	width: 100%;
 	height: inherit;
 	display: block;
-	margin: 4px 4px 4px 4px;
+	margin: 15px 4px 15px 4px;
 	-webkit-box-shadow: #999 1px 1px 4px;
 	-moz-box-shadow: #999 1px 1px 4px;
 	box-shadow: #999 1px 1px 4px;
@@ -107,7 +127,7 @@ table#Table_zhao {
 
 .listing-item,.listing-seperator {
 	list-style-type: none;
-	font-family: Consolas, "Galdeano", monospace, "Microsoft Yahei", sans-serif;
+	font-family: Consolas, Galdeano, monospace, "Microsoft Yahei", sans-serif;
 }
 
 .listing-item a {
@@ -126,7 +146,7 @@ li.listing-seperator {
 	font-weight: bold;
 	text-decoration: underline;
 	font-size: 1.2em;
-	font-family: Consolas, "Galdeano", monospace, "Microsoft Yahei", sans-serif;
+	font-family: Consolas, Galdeano, monospace, "Microsoft Yahei", sans-serif;
 }
 
 .list-page a {

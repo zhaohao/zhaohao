@@ -2,14 +2,14 @@
 layout: default
 ---
 
-<div class="post-link">
-  <a href="{{ site.baseurl }}/index.html">
-    <span> ⭅ HOME </span><span>&nbsp;&nbsp;&nbsp;&nbsp;</span><a href="{{ site.baseurl }}/timeline.html"><span>  TimeLine  </span></a>
+<div class="post-home-link">
+  <a href="{{ site.baseurl }}/">
+    <span> <<< HOME </span><span>&nbsp;&nbsp;&nbsp;&nbsp;</span><a href="{{ site.baseurl }}/timeline.html"><span>  TimeLine  </span></a>
   </a>
 </div>
 
 {% if page.next.url %}
-<div class="post-link">
+<div class="post-next-link">
   <a href="{{page.next.url | prepend: site.baseurl }}">
     <span>▲ Newer Post  : {{page.next.title}}</span>
   </a>   
@@ -22,19 +22,22 @@ layout: default
 </div>
 <table border="0">
 <tr>
-  <td>
-  <div id="qrcode" style="box-shadow: inset #287a7b 0px 0px 6px 6px; float: left; padding: 10px; margin:.5em 1em .5em 0;" ></div>
+  <td style="border-top: #00a8a8 .5em solid;">
+  <div id="qrcode" style="box-shadow: inset #287a7b 0px 0px 6px 6px; float: left; padding: 10px; margin:10px 10px 10px 0;" ></div>
   </td>
   
-  <td>
-    <span class="">Update Time: 【{{page.date | date:"%Y-%m-%d %H:%M:%S %Z"}}】</span>
+  <td style="border-top: #bc265e .5em solid;">
+    <span class="">Update Time: 【 {{page.date | date:"%Y-%m-%d %H:%M:%S %Z"}} 】</span>
     <br>
-    <span class="">Permanent Link: <a href="{{ site.url }}{{ page.url }}">【{{ site.url }}{{ page.url }}】</a></span>
+    <span class="">Permanent Link: <a href="{{ site.url }}{{ page.url }}">【 {{ site.url }}{{ page.url | remove: "/posts/"}} 】</a></span>
   </td>
 </tr>
 </table>
+{% if site.comments %}
+{% include comments.md %}
+{% endif %}
 {% if page.previous.url %}
-<div class="post-link">
+<div class="post-pre-link">
   <a href="{{page.previous.url | prepend: site.baseurl }}">
     <span>▼ Older Post  : {{page.previous.title}}</span>
   </a>   

@@ -15,6 +15,7 @@ title: Hao's Notes ☁
 description: Notepaper of zhaohao.
 twitter_username: zhaohao
 disqus_username: zhaohao
+comments: true
 
 # Build settings
 include: ["_categories"]
