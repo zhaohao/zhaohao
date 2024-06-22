@@ -4,7 +4,7 @@ layout: default
 permalink: 
 ---
 <div>Ξ {{site.title}} Timeline</div>
-<div><a href="{{ site.baseurl }}/index.html"><span>	<< Back To Posts</span></a></div>
+<nav><a href="{{ site.baseurl }}/index.html"><span>	<< Back To Posts</span></a></nav>
 <div>　　　　</div>
 {% for post in site.posts %}
     {% capture year %}{{ post.date | date: "%Y" }}{% endcapture %}
@@ -38,4 +38,4 @@ permalink:
 </div>
 
 <div>　　　　</div>
-<div><a href="{{ site.baseurl }}/index.html"><span>	<< Back To Posts</span></a></div>
+<nav><a href="{{ site.baseurl }}/index.html"><span>	<< Back To Posts</span></a></nav>

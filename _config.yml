@@ -6,13 +6,13 @@ email: hao@zhao.im
 baseurl: ""
 qrcodeurl: "https://diary.zhao.im"
 paginate: 20
-paginate_path: "/pages/page-:num/"
+paginate_path: "/p:num/"
 cdnlink: ""
 # cdnlink: "https://zhao.im"
 
 # SEO settings
 title: Hao's Notes ☁
-description: Notepaper of zhaohao.
+description: Notes of zhaohao.
 twitter_username: zhaohao
 disqus_username: zhaohao
 comments: true

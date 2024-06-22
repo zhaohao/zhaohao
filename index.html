@@ -3,7 +3,7 @@ title: 原来你也在这里
 layout: default
 permalink: 
 ---
-<div class="post-home-link" style="color:#9e3636;font-weight:bold;">Ξ {{site.title}} ( {{ paginator.total_posts }} posts )  <a href="{{ site.baseurl }}/timeline.html"><span> Timeline </span></a></div>
+<nav class="post-home-link"><a href="/"  style="font-weight:bold;">Ξ ℤ{{site.title}} ( {{ paginator.total_posts }} posts )</a>  <a href="{{ site.baseurl }}/timeline.html"><span> Timeline </span></a></nav>
 <div>　　　　</div>
 {% for post in paginator.posts %}
   {% capture y %}{{post.date | date:"%Y"}}{% endcapture %}
@@ -34,7 +34,7 @@ permalink:
       {% if count == paginator.page %}
       <span class="current-page">{{count}}</span>
       {% else %}
-      <span class="list-page"><a href="/pages/page-{{count}}/index.html">{{count}}</a></span>
+      <span class="list-page"><a href="/p{{count}}/">{{count}}</a></span>
       {% endif %}
     {% endfor %}
 
