@@ -3,15 +3,11 @@ layout: default
 ---
 
 <nav class="post-home-link">
-  <a href="/">
-    <span> ↸ HOME </span>
-  </a>
+  <a href="/"  style="font-weight:bold;"> <i class="fa fa-home" aria-hidden="true"></i>  HOME </a>
   <span>&nbsp;</span>
-  <a href="{{ site.baseurl }}/timeline.html">
-    <span>  TimeLine  </span>
-  </a>
+  <a href="{{ site.baseurl }}/feed.xml"><i class="fa fa-rss fa-fw" aria-hidden="true"></i></a>
 </nav>
-
+  <a  onclick="(() => (history.length === 1) ? window.location = '/' : history.back())()"><i class="fa fa-arrow-left" aria-hidden="true"></i> Go back </a>
 {% if page.next.url %}
 <div class="post-next-link">
   <a href="{{page.next.url | prepend: site.baseurl }}">
@@ -26,19 +22,19 @@ layout: default
 </div>
 <table border="0">
 <tr>
-  <td style="border-top: #00a8a8 .5em solid;">
+  <td style="border-top: #008090 .5em solid;">
   <div id="qrcode" style="box-shadow: inset #287a7b 0px 0px 6px 6px; float: left; padding: 10px; margin:10px 10px 10px 0;" ></div>
   </td>
   
-  <td style="border-top: #bc265e .5em solid;">
+  <td style="border-top: #9e3636 .5em solid;">
     <span class="">Update Time: 【 {{page.date | date:"%Y-%m-%d %H:%M:%S %Z"}} 】</span>
     <br>
-    <span class="">Permanent Link: <a href="{{ site.url }}{{ page.url }}">【 {{ site.url }}{{ page.url | remove: "/posts/"}} 】</a></span>
+    <span class="">Permanent Link: <a href="{{ site.url }}{{ page.url }}">【 {{ site.url }}{{ page.url | remove: "/"}} 】</a></span>
   </td>
 </tr>
 </table>
 {% if site.comments %}
-{% include comments.md %}
+{% include comments.html %}
 {% endif %}
 {% if page.previous.url %}
 <div class="post-pre-link">
@@ -48,4 +44,4 @@ layout: default
 </div>
 {% endif %}
 <hr>
-<p style="font-size:70%;color:#999;text-align:right;">Copyright © 2014-2024 <a href="/profile.html">zhao.im</a>. | Update Time：{{page.date | date:"%Y-%m-%d %H:%M:%S %Z"}} | <a href="#"> ▲Back To Top</a></p>
+{% include footer-post.html %}

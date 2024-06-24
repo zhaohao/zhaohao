@@ -20,17 +20,15 @@ body {
 	overflow-y: scroll;	
 	padding: 0;
 	margin: 0;
-	/*background:#E4E8EF; */
-	background-image: url(/assets/template/bgp00.svg);
-	background-size: 100% 100%;
-	background-repeat: repeat;
-	background-attachment: fixed;
+	background:#E4E8EF url(/assets/template/bgp00.svg);
 	font-size: 14px;
 	font-family: Cuprum, "lxgw wenkai screen", "Microsoft Yahei", monospace, sans-serif;
 }
 
 p  {
 	margin:30px 0 0 0;
+	/*color: #265088;*/
+	color: #134f5c;
 }
 
 h1 {
@@ -44,7 +42,7 @@ h2 {
 	font-family: Jua, Cuprum, "Microsoft Yahei", monospace, sans-serif;
 	font-weight: bold;
 	font-size: 1.2em;
-	color: #2295b9;
+	color: #9e3636;
 }
 
 h3 {
@@ -60,7 +58,7 @@ h4 {
 }
 
 a {
-	color: #0a9d9d;
+	color: #008090;
 	font-weight: bold;
 	text-decoration: none;
 	transition: all 1s ease-in-out;
@@ -118,6 +116,7 @@ table#Table_zhao {
 .post-home-link {
 	font-family: Galdeano, Cuprum, "Microsoft Yahei", sans-serif;
 	font-size: 1em;
+	float: right;
 }
 
 .post-next-link {

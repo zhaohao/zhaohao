@@ -3,7 +3,11 @@ title: 原来你也在这里
 layout: default
 permalink: 
 ---
-<nav class="post-home-link"><a href="/"  style="font-weight:bold;">Ξ ℤ{{site.title}} ( {{ paginator.total_posts }} posts )</a>  <a href="{{ site.baseurl }}/timeline.html"><span> Timeline </span></a></nav>
+<a href="/"  style="font-weight:bold;"><i class="fa fa-connectdevelop fa-spin fa-fw"></i> {{site.title}} ( {{ paginator.total_posts }} posts )</a>
+<nav class="post-home-link">
+  <a href="{{ site.baseurl }}/timeline.html"><i class="fa fa-list-ul" aria-hidden="true"></i> Timeline</a>
+  <a href="{{ site.baseurl }}/feed.xml"><i class="fa fa-rss fa-fw" aria-hidden="true"></i></a>
+</nav>
 <div>　　　　</div>
 {% for post in paginator.posts %}
   {% capture y %}{{post.date | date:"%Y"}}{% endcapture %}
@@ -40,6 +44,8 @@ permalink:
 
   {% endif %}
 <hr>
-<p style="font-size:70%;color:#999;text-align:right;">Copyright ©2014-2024 <a href="/profile.html">zhao.im</a> | Powered by <a href="https://github.com/jekyll/jekyll">Jekyll</a></p>
+
+<p></p>
+{% include footer-post.html %}
 </div>
 
