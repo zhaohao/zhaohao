@@ -1,5 +1,5 @@
 ---
-title: tags
+title: Tags
 layout: page
 date: 2020-02-20 20:20:20 +0800
 ---
