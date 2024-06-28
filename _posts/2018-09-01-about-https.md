@@ -3,9 +3,8 @@ layout: post
 title: 关于https
 date: 2018-09-01 08:30:00 +800
 author: zhaohao
-categories: [weblog]
-tags: 
-  - net
+categories: [Weblog]
+tags: [net]
 comments: true 
 ---
 

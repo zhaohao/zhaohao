@@ -3,9 +3,8 @@ layout: post
 title: 做了一个Jekyll的信纸主题
 date: 2018-08-11 12:10:00 +800
 author: zhaohao
-categories: [weblog]
-tags: 
-  - Jekyll
+categories: [Weblog]
+tags: [Jekyll]
 comments: true 
 ---
 

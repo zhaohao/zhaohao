@@ -3,7 +3,7 @@ layout: post
 title: 假如将太阳系行星放在月球的位置
 date: 2016-07-01 23:59
 author: zhaohao
-categories: [Featured, weblog]
+categories: [Featured, Weblog]
 comments: true 
 ---
 <p>在地球上看月亮  <br/>

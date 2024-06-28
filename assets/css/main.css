@@ -32,27 +32,27 @@ p  {
 }
 
 h1 {
-	font-family: Jua, Cuprum, "Microsoft Yahei", monospace, sans-serif;
+	font-family: Cuprum, "Microsoft Yahei", monospace, sans-serif;
 	font-weight: bold;	
 	font-size: 1.4em;
 	color: #9e3636;
 }
 
 h2 {
-	font-family: Jua, Cuprum, "Microsoft Yahei", monospace, sans-serif;
+	font-family: Cuprum, "Microsoft Yahei", monospace, sans-serif;
 	font-weight: bold;
 	font-size: 1.2em;
 	color: #9e3636;
 }
 
 h3 {
-	font-family: Jua, Cuprum, "Microsoft Yahei", monospace, sans-serif;
+	font-family: Cuprum, "Microsoft Yahei", monospace, sans-serif;
 	font-size: 1.1em;
 	color: #222;
 }
 
 h4 {
-	font-family: Jua, Cuprum, "Microsoft Yahei", monospace, sans-serif;
+	font-family: Cuprum, "Microsoft Yahei", monospace, sans-serif;
 	font-size: 1.1em;
 	color: #333;
 }
@@ -107,12 +107,13 @@ hr::after {
   position: relative;
   top: -1.2em;
 }
-
+#tag_cloud {
+  padding: .9em 0;
+}
 table#Table_zhao {
 	max-width: 1280px;
 	margin: auto;
 }
-
 .post-home-link {
 	font-family: Galdeano, Cuprum, "Microsoft Yahei", sans-serif;
 	font-size: 1em;

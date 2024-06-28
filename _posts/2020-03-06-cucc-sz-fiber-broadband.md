@@ -4,9 +4,9 @@ title: 深圳联通宽带小折腾
 subtitle: 
 date: 2020-03-06 10:55:22 +0800 
 categories:
-  - weblog
+  - Weblog
 tags: net
-comments: true 
+comments: true  
 ---
 
 双十一期间深圳联通单宽带半价优惠，100M宽带480+200一年，正好需要宽带，小区又有联通接入，于是果断下单安装。

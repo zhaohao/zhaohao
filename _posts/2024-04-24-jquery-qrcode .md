@@ -3,7 +3,7 @@ layout: post
 title: 日志里添加二维码
 date: 2024-04-24 23:55:00 +0800 
 author: zhaohao
-categories: [weblog]
+categories: [Weblog]
 tags: 
   - Jekyll
   - QRcode

@@ -1,7 +1,6 @@
 ---
 layout: default
 ---
-
 <nav class="post-home-link">
   <a href="/"  style="font-weight:bold;"> <i class="fa fa-home" aria-hidden="true"></i>  HOME </a>
   <span>&nbsp;</span>
@@ -16,8 +15,23 @@ layout: default
 </div>
 {% endif %}
 <div class="post-content">
-<span><time datetime="{{ page.date | date_to_xmlschema }}" itemprop="datePublished">{{ page.date | date: "%A, %B %-d | Week %W & Day %j of Year %Y" }}</time></span>
-<h2>{{ page.title }}</h2>
+<div id='tag_cloud'><time datetime="{{ page.date | date_to_xmlschema }}" itemprop="datePublished">{{ page.date | date: "%A, %B %-d | Week %W & Day %j of Year %Y" }}</time></div>
+<h2>{{ page.title }}</h2>  
+<div style="margin: -1em 0 0 0;float: right;">
+  {% if page.categories %}
+  <i class="fa fa-folder" aria-hidden="true"></i>
+    {% for cat in page.categories %}
+    <a href="/categories/index.html#{{ cat }}" title="{{ cat }}">{{ cat }}</a>&nbsp;
+    {% endfor %}
+  {% endif %}
+  {% if page.tags %}
+  <i class="fa fa-hashtag" aria-hidden="true"></i> 
+    {% for tag in page.tags %}
+    <a href="/tags/index.html#{{ tag }}" title="{{ tag }}">{{ tag }}</a>&nbsp;
+    {% endfor %}
+  {% endif %}
+</div> 
+
 {{ content }}
 </div>
 <table border="0">
@@ -25,7 +39,6 @@ layout: default
   <td style="border-top: #008090 .5em solid;">
   <div id="qrcode" style="box-shadow: inset #287a7b 0px 0px 6px 6px; float: left; padding: 10px; margin:10px 10px 10px 0;" ></div>
   </td>
-  
   <td style="border-top: #9e3636 .5em solid;">
     <span class="">Update Time: 【 {{page.date | date:"%Y-%m-%d %H:%M:%S %Z"}} 】</span>
     <br>

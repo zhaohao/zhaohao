@@ -4,7 +4,7 @@ title: VSCode中插入jekyll文章模版
 subtitle:  
 date: 2021-01-04 19:53:00 +0800 
 categories: 
-  - weblog
+  - Weblog
 tags: 
   - Jekyll
 comments: true 
