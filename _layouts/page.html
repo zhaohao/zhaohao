@@ -7,6 +7,8 @@ layout: default
   <a href="{{ site.baseurl }}/feed.xml"><i class="fa fa-rss fa-fw" aria-hidden="true"></i></a>
 </nav>
   <a  onclick="(() => (history.length === 1) ? window.location = '/' : history.back())()"><i class="fa fa-arrow-left" aria-hidden="true"></i> Go back </a>
+
+<span>Ξ {{site.title}} {{page.title}} <a class="button" href="https://zhao.im" target="\_blank"> <i class="fa fa-book fa-fw" aria-hidden="true"></i></a></span>
 <div class="post-content">
 <div id="tag_cloud"><time datetime="{{ page.date | date_to_xmlschema }}" itemprop="datePublished">{{ page.date | date: "%A, %B %-d | Week %W & Day %j of Year %Y" }}</time></div>
 {{ content }}
