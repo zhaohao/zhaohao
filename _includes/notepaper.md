@@ -1,4 +1,4 @@
-<body>
+<body style="background:url(/assets/template/bgp00.svg);">
 <table id="Table_zhao" width="100%" border="0" cellpadding="0" cellspacing="0" style="line-height:160%;background:#fff">
 <tr>
 <td width="98" valign="top" background="/assets/tablebgimg-paper/tl.gif"><img src="/assets/tablebgimg-paper/spacer.gif" width="98" height="60" /></td>
