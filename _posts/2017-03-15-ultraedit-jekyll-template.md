@@ -3,10 +3,8 @@ layout: post
 title: 使用UltraEdit快速插入Jekyll日志模板
 subtitle: 
 date: 2017-03-15 19:57:27 +0800
-categories:
-  - Weblog
-tags:
-  - Jekyll
+categories: [Weblog]
+tags: [Html, Jekyll, Theme]
 comments: true 
 ---
 使用UltraEdit的模板功能，可以快捷的插入Jekyll日志所需的头文件。

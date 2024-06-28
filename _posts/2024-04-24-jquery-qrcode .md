@@ -4,9 +4,7 @@ title: 日志里添加二维码
 date: 2024-04-24 23:55:00 +0800 
 author: zhaohao
 categories: [Weblog]
-tags: 
-  - Jekyll
-  - QRcode
+tags: [Html, Jekyll, QRCode, Theme]
 comments: true 
 ---
 今天一个博客上看到有文章的二维码链接，通过搜索知道了可以通过 jquery.qrcode.js在前端实时生成字符串的二维码。所以试着在这里也加了这个功能。  

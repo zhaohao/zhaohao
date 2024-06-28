@@ -3,10 +3,8 @@ layout: post
 title: VSCode中插入jekyll文章模版  
 subtitle:  
 date: 2021-01-04 19:53:00 +0800 
-categories: 
-  - Weblog
-tags: 
-  - Jekyll
+categories: [Weblog]
+tags: [Html, Jekyll, Theme]
 comments: true 
 ---
 

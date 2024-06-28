@@ -4,7 +4,7 @@ title: 做了一个Jekyll的信纸主题
 date: 2018-08-11 12:10:00 +800
 author: zhaohao
 categories: [Weblog]
-tags: [Jekyll]
+tags: [Html, Jekyll, Theme]
 comments: true 
 ---
 
