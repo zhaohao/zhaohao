@@ -107,8 +107,12 @@ hr::after {
   top: -1.2em;
 }
 
-ul {
+ul.task-list {
     margin: 2em 0 0 -1em;
+}
+
+ul.listing {
+    margin:1em 0 0 -1em;
 }
 
 #tag_cloud {
