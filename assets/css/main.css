@@ -106,13 +106,20 @@ hr::after {
   position: relative;
   top: -1.2em;
 }
+
+ul {
+    margin: 2em 0 0 -1em;
+}
+
 #tag_cloud {
   padding: .9em 0;
 }
+
 table#Table_zhao {
 	max-width: 1280px;
 	margin: auto;
 }
+
 .post-home-link {
 	font-family: Galdeano, Cuprum, "Microsoft Yahei", sans-serif;
 	font-size: 1em;
