@@ -16,10 +16,11 @@ description: Notes of zhaohao.
 twitter_username: zhaohao
 disqus_username: zhaohao
 comments: true
-
+commentsdiv: comments-gitalk
+# comments-gitalk
 # Build settings
-template: notebook
-#template: notepaper
+#template: notebook
+template: notepaper
 include: ["_categories"]
 exclude: ["Gemfile.lock", "README.md", "LICENSE.txt"]
 markdown: kramdown

@@ -47,7 +47,7 @@ layout: default
 </tr>
 </table>
 {% if site.comments %}
-{% include comments.html %}
+{% include {{site.commentsdiv}}.html %}
 {% endif %}
 {% if page.previous.url %}
 <div class="post-pre-link">
