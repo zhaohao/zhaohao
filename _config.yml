@@ -4,7 +4,6 @@ timezone: Asia/Shanghai
 # Site settings
 email: hao@zhao.im
 baseurl: ""
-qrcodeurl: "https://hao.zhao.im"
 paginate: 20
 paginate_path: "/p:num/"
 cdnlink: ""

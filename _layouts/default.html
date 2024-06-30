@@ -6,16 +6,17 @@ layout:
 {% include head.html %}
 {% include {{site.template}}.md %}
 <script>
-    jQuery(function() {
-        jQuery('#qrcode').qrcode({
-            render: "table",
-            width: 90,
-            height: 90,
-            foreground: "#337778",
-            background: "#efefef",
-            text: "{{site.qrcodeurl}}{{ page.url }}"
-        });
-    })
+  var permanentlink = window.location.href;
+  jQuery(function() {
+      jQuery('#qrcode').qrcode({
+          render: "table",
+          width: 90,
+          height: 90,
+          foreground: "#337778",
+          background: "#efefef",
+          text: permanentlink
+      });
+  })
 </script>
 {% include footer.html %}
 </html>
