@@ -14,7 +14,7 @@ tags: [Jekyll,Theme,Html]
 - [x] 配置了**Github Pages**以及**Cloudflare Pages**，Github中更新后会同步在Github&Cloudflare Pages发布。
 - [x] 添加了**页面地址二维码动态生成显示**功能。   
 - [x] ~~因为需要绝对路径，绑定多个域名后页面二维码切换有待解决，现在需要在配置中设置域名。~~
-    - [x] 通过JS获取了当前页面的url，解决多域名问题。
+- [x] 通过JS获取了当前页面的url，解决多域名问题。
 - [x] 整合了**装订纸背景**和**打孔纸背景**两种主题，在主配置文件中设置切换。   
    
 Friday, June 28, 2024
