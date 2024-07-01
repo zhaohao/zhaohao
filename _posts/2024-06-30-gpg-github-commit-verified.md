@@ -8,7 +8,7 @@ comments: true
 ---
 本文为在Github Desktop下配置提交签名的操作步骤。   
 
-通过[GPG4WIN](https://www.gpg4win.org/)下载Windows版本的GnuPG软件包。**导入已有证书或者生成新的证书密钥**。邮箱地址需要为Github提交所需邮箱地址。证书管理里找到相应公钥的ID，后续配置文件需要用到。如果Gpg4Win为默认路径安装，会在<code> C:\Program Files (x86)\</code> 目录下增加GnuPG和Gpg4win两个文件夹。在GnuPG文件夹中的bin文件夹里有配置文件所需的gpg.exe文件。   
+通过 [GPG4WIN](https://www.gpg4win.org/) 下载Windows版本的GnuPG软件包。**导入已有证书或者生成新的证书密钥**。邮箱地址需要为Github提交所需邮箱地址。证书管理里找到相应公钥的ID，后续配置文件需要用到。如果Gpg4Win为默认路径安装，会在<code> C:\Program Files (x86)\</code> 目录下增加<code> GnuPG </code>和<code> Gpg4win </code>两个文件夹。在<code> GnuPG </code>文件夹中的<code> bin </code>文件夹里有配置文件所需的<code> gpg.exe </code>文件。   
 
 使用文本工具打开<code> C:\Users\*UserName*\Documents\GitHub\*RepoName*\.git\config </code>文件。
 在其中添加配置项（如下为自己的邮箱证书密钥ID）:
