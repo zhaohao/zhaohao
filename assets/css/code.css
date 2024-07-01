@@ -1,29 +1,28 @@
-
-blockquote, q {
+blockquote {
     font-style: italic;
     border-left: 5px solid #008090;
-    margin: 30px 0;
-    padding: 10px 20px 10px 30px;
-    background-color: rgba(78, 183, 212, 0.33);
+    margin: 10px 0 10px 0;
+    padding: 0px 10px 0px 20px;
+    background-color: rgb(78 183 212 / 11%);
 }
 
-code, kbd, pre, samp {
+pre {
+    font-family: 'DejaVu Sans Mono', Consolas, 'lxgw wenkai screen', 'Microsoft Yahei', monospace, sans-serif;
+    color: #eee;
+    background: #000000; /*#006d8c;*/
+    border-radius: 10px;
+    font-size: 0.875em;
+    padding: 1em 0 1em 1em;
+    margin: 0 0 0 0;
+}
+
+code {
   font-family: 'DejaVu Sans Mono', Consolas, 'lxgw wenkai screen','Microsoft Yahei', monospace, sans-serif;
+  color: #eee;
+  background: #000000; /*#006d8c;*/
+  border-radius: 4px;
   font-size: 0.875em;
   white-space: pre-wrap;
-  word-break: break-all;
-  word-wrap: break-word;
-    line-height: 30px;
-}
-
- pre {
-  color: #eee;
-  background: #000;/*#006d8c;*/
-  width:100%;
-  padding:15px 15px;
-    /* max-width: 60rem;
-  margin-left: auto; */
-  margin: 10px 0 10px 0;
   word-break: break-all;
   word-wrap: break-word;
 }
@@ -145,7 +144,7 @@ code, kbd, pre, samp {
   color: #cd9804;
 }
 .highlight .s {
-  color: #cd9804;
+  color: #b9fdff;
 }
 .highlight .na {
   color: #a6e22e;
