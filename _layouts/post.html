@@ -10,7 +10,7 @@ layout: default
 {% if page.next.url %}
 <div class="post-next-link">
   <a href="{{page.next.url | prepend: site.baseurl }}">
-    <span>▲ Newer Post  : {{page.next.title}}</span>
+    <span>▲ Newer Post  : {{page.next.title}} [J/←]</span>
   </a>   
 </div>
 {% endif %}
@@ -31,7 +31,6 @@ layout: default
     {% endfor %}
   {% endif %}
 </div> 
-
 {{ content }}
 </div>
 <table border="0">
@@ -52,7 +51,7 @@ layout: default
 {% if page.previous.url %}
 <div class="post-pre-link">
   <a href="{{page.previous.url | prepend: site.baseurl }}">
-    <span>▼ Older Post  : {{page.previous.title}}</span>
+    <span>▼ Older Post  : {{page.previous.title}} [K/→]</span>
   </a>   
 </div>
 {% endif %}

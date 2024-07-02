@@ -5,6 +5,7 @@
 <meta name="author" content="zhao.im" />
 <meta name="description" content="ZHao's Notes">
 <meta name="theme-color" content="#008090">
+{% capture mytitle%}{{page.title}}{%endcapture%}<title>{% if mytitle %}{{ mytitle | escape }} | {{ site.title }}{% else %}{{ site.title | escape }} | {{ site.description }}{% endif %}</title>
 <link rel="shortcut icon" href="/favicon.ico" type="image/x-icon" />
 <link rel="apple-touch-icon" href="/apple-touch-icon.png" />
 <link rel="stylesheet" href="/assets/css/main.css">
@@ -17,7 +18,38 @@
 <script type="text/javascript" src="/assets/js/gitalk.min.js"></script>
 <script type="text/javascript" src="/assets/js/jquery-3.7.1.min.js"></script>
 <script type="text/javascript" src="/assets/js/jquery.qrcode.min.js"></script>
-{% capture mytitle%}{{page.title}}{%endcapture%}
-<title>{% if mytitle %}{{ mytitle | escape }} | {{ site.title }}{% else %}{{ site.title | escape }} | {{ site.description }}{% endif %}</title>
+<script>
+  var permanentlink = window.location.href;
+  jQuery(function() {
+      jQuery('#qrcode').qrcode({
+          render: "table",
+          width: 90,
+          height: 90,
+          foreground: "#337778",
+          background: "#efefef",
+          text: permanentlink
+      });
+  })
+</script>
+<script type="text/javascript">
+  $(function () {
+      $(document).keydown(function (e) {
+          var url = false;
+          if (e.which == 39 || e.which == 75) {  // Right arrow and K
+              {% if page.previous %}
+              url = '{{ site.url }}{{ page.previous.url }}';
+              {% endif %}
+          }
+          else if (e.which == 37 || e.which == 74) {  // Left arrow and J
+              {% if page.next %}
+              url = '{{ site.url }}{{ page.next.url }}';
+              {% endif %}
+          }
+          if (url) {
+              window.location = url;
+          }
+  });
+  })
+</script>
 <style type="text/css"></style>
 </head>
