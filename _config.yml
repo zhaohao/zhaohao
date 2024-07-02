@@ -15,8 +15,6 @@ description: Notes of zhaohao.
 twitter_username: zhaohao
 disqus_username: zhaohao
 comments: true
-commentsdiv: comments-gitalk
-# comments-gitalk
 # Build settings
 #template: notebook
 template: notepaper

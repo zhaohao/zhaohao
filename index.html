@@ -23,17 +23,13 @@ permalink:
   </div>
 {% endfor %}
 <div>　　　　</div>
-
 <div id="post-pagination" class="paginator">
-
  {% if paginator.total_pages > 1 %}
-
     {% if paginator.page == 1 %}
       <span class="current-page">1</span>
       {% else %}
       <span class="list-page"><a href="/">1</a></span>
     {% endif %}
-
     {% for count in (2..paginator.total_pages) %}
       {% if count == paginator.page %}
       <span class="current-page">{{count}}</span>
@@ -41,11 +37,6 @@ permalink:
       <span class="list-page"><a href="/p{{count}}/">{{count}}</a></span>
       {% endif %}
     {% endfor %}
-
   {% endif %}
-<hr>
-
-<p></p>
-{% include footer-post.html %}
 </div>
 
