@@ -2,9 +2,9 @@
 timezone: Asia/Shanghai
 
 # Site settings
-email: hao@zhao.im
+email: zhaohao@zhaohao.online
 baseurl: ""
-paginate: 15
+paginate: 25
 paginate_path: "/p:num/"
 cdnlink: ""
 # cdnlink: "https://cdn.zhaohao.online"
@@ -16,8 +16,8 @@ twitter_username: zhaohao
 disqus_username: zhaohao
 comments: true
 # Build settings
-#template: notebook
-template: notepaper
+template: notebook
+#template: notepaper
 include: ["_categories"]
 exclude: ["Gemfile.lock", "README.md", "LICENSE.txt"]
 markdown: kramdown
