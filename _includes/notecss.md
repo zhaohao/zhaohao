@@ -36,9 +36,9 @@ hr::after {
 .paper:before {
   content: '';
   position: absolute;
-  top: 30px; 
+  top: 10px; 
   bottom: 30px; 
-  left: 30px;
+  left: 10px;
   width: 60px;
   background: radial-gradient(#afaba757 6px, transparent 7px) repeat-y;
   background-size: 30px 30px;
