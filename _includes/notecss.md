@@ -6,13 +6,16 @@ hr::after {
   background: #f4f2ed;
 }
 .listing-item,.listing-seperator {
-	font-family: Consolas, Galdeano, "Microsoft Yahei", "lxgw wenkai screen", monospace, sans-serif;
+	font-family: Consolas, Galdeano, "Microsoft Yahei", monospace, sans-serif;
 }
 .list-page a {
 	background: #f4f2ed;
 }
 .current-page {
 	background: #f4f2ed;
+}
+#tag_cloud {
+  padding: 1em 0;
 }
 .paper {
   position: relative;
