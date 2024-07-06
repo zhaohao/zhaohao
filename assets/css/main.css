@@ -100,7 +100,7 @@ hr {
 }
 
 hr::after {
-  background: #fff;
+  background: #f8f6f1;
   content: 'ℤ'; /*'𒈝';*/
   padding: 0 3px;
   position: relative;
@@ -187,7 +187,7 @@ li.listing-seperator {
 .list-page a {
 	padding: 1px 8px;
 	text-decoration: none;
-	background: #fff;
+	background: #f8f6f1ba;
 	border: 1px solid #CCC;
 	border-radius: 3px;
 	-moz-border-radius: 3px;
@@ -211,7 +211,7 @@ li.listing-seperator {
 .current-page {
 	padding: 1px 8px;
 	text-decoration: none;
-	background: #fff;
+	background: #f8f6f1ba;
 	border: 0px solid #CCC;
 	border-radius: 3px;
 	-moz-border-radius: 3px;

@@ -16,7 +16,7 @@ twitter_username: zhaohao
 disqus_username: zhaohao
 comments: true
 # Build settings
-template: notebook
+template: notecss
 #template: notepaper
 include: ["_categories"]
 exclude: ["Gemfile.lock", "README.md", "LICENSE.txt"]
