@@ -1,6 +1,6 @@
 <style type="text/css">
 body {
-  background: #e8e7e1  url(/assets/template/bgp00.svg);
+  background: #e7e2d4 url(/assets/template/bgp00.svg);
 }  
 hr::after {
   background: #f1eee4;
@@ -37,7 +37,7 @@ hr::after {
   content: '';
   position: absolute;
   top: 15px; 
-  bottom: 30px; 
+  bottom: 15px; 
   left: 10px;
   width: 60px;
   background: radial-gradient(#afaba757 6px, transparent 7px) repeat-y;
