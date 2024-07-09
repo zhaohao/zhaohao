@@ -1,6 +1,6 @@
 <style type="text/css">
 body {
-  background: #e7e2d4 url(/assets/template/bgp00.svg);
+  background: #dcd9d2 url(/assets/template/bgp00.svg);
 }  
 hr::after {
   background: #f1eee4;
