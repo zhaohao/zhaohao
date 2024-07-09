@@ -166,6 +166,7 @@ table#Table_zhao {
 
 .listing-item a {
 	padding: .2em 1em;
+	font-weight: normal;
 }
 
 .listing-item time {

@@ -5,9 +5,6 @@ body {
 hr::after {
   background: #f1eee4;
 }
-.listing-item,.listing-seperator {
-	font-family: Consolas, Galdeano, "Microsoft Yahei", monospace, sans-serif;
-}
 .list-page a {
 	background: #f1eee4;
 }
