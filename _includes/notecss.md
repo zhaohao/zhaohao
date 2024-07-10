@@ -17,7 +17,7 @@ hr::after {
 .paper {
   position: relative;
   width: 97%;
-  max-width: 960px;
+  max-width: 1200px;
   min-width: 360px;
   height: auto;
   margin: 30px auto;
