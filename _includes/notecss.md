@@ -25,7 +25,7 @@ hr::after {
   box-shadow: 0 2px 8px rgba(0,0,0,.3);
   overflow: hidden;
   line-height: 30px;
-  background: #f1eee4;
+  background: #f1eee4a0;
   -webkit-backdrop-filter: blur(20px);
   -moz-backdrop-filter: blur(20px);
   backdrop-filter: blur(20px);
@@ -39,12 +39,12 @@ hr::after {
   width: 60px;
   background: radial-gradient(#afaba757 6px, transparent 7px) repeat-y;
   background-size: 30px 30px;
-  border-right: 0px solid #f1eee4;
+  border-right: 0px solid #f1eee4a0;
   box-sizing: border-box;
 }
 .paper-content {
   margin: 60px 30px 30px 75px;
-  background: linear-gradient(transparent, transparent 29px, #e5e4e1 28px);
+  background: linear-gradient(transparent, transparent 29px, #cccccc 28px);
   background-size: 30px 30px;
 }
 </style>
