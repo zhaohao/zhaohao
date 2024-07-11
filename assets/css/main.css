@@ -124,6 +124,21 @@ table#Table_zhao {
 	margin: auto;
 }
 
+.hide {
+  display: none;
+}
+ 
+.qricon {
+  float:right; 
+  color:#008090;
+}
+ 
+.qricon:hover + .hide {
+  display: block;
+  transition: all 1s ease-in-out;
+  color: #008090;
+}
+
 .post-home-link {
 	font-family: Galdeano, Cuprum, "Microsoft Yahei", sans-serif;
 	font-size: 1em;

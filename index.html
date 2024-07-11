@@ -10,6 +10,8 @@ permalink:
   <a href="{{ site.baseurl }}/feed.xml"><i class="fa fa-rss fa-fw" aria-hidden="true"></i></a>
 </nav>
 <div>　　　　</div>
+<div class="qricon"><i class="fa fa-qrcode fa-2x" aria-hidden="true"></i></div>
+<div class="hide" id="qrcode" style="box-shadow: inset #287a7b 0px 0px 6px 6px; float: right; padding: 10px; margin:10px 0px 10px 10px;" ></div>
 {% for post in paginator.posts %}
   {% capture y %}{{post.date | date:"%Y"}}{% endcapture %}
   {% if year != y %}
