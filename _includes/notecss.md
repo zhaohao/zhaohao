@@ -1,7 +1,50 @@
 <style type="text/css">
-body {
-  background: #dcd9d2 url(/assets/template/bgp00.svg);
-}  
+:root{
+--bgcolor:#dcd9d2;
+--buttoncolor:#111;
+--buttontxt:#f1eee1;
+--darknumer:0;
+--darkdegree:0deg;
+}
+[data-theme="dark"] {
+--darknumer:1;
+--darkdegree:180deg;
+--bgcolor:#0e0e0e;
+--buttoncolor:#f1eee1;
+}
+[data-theme="light"] {
+--darknumer:0;
+--darkdegree:0deg;
+--bgcolor:#dcd9d2;
+--buttoncolor:#111;
+}
+.toggle{
+    font-size: 14px;
+    background-color: #555; /*var(--buttoncolor)*/;
+    width: 3rem;
+    height: 3rem;
+    position: fixed;
+    border-radius: 50%;
+    right: 3%;
+    top: 12px;
+    left: unset;
+    cursor: pointer;
+    transition: all 0.5s ease;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    z-index: 50;
+}
+body{
+    background: var(--bgcolor) url(/assets/template/bgp00.svg);
+    filter: invert(var(--darknumer)) hue-rotate(var(--darkdegree));
+    transition: all 0.5s ease-in-out;
+}
+img,
+video,
+pre {
+    filter: invert(var(--darknumer)) hue-rotate(var(--darkdegree));
+}
 hr::after {
   background: #f1eee4;
 }
@@ -48,6 +91,7 @@ hr::after {
   background-size: 30px 30px;
 }
 </style>
+<button onclick="toggle()" class="toggle">🌓</button>
 <div class="paper">
 <div class="paper-content">
 {{ content }}

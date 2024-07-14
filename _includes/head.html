@@ -19,6 +19,21 @@
 <script type="text/javascript" src="/assets/js/jquery-3.7.1.min.js"></script>
 <script type="text/javascript" src="/assets/js/jquery.qrcode.min.js"></script>
 <script>
+  let html = document.querySelector('html');
+  html.setAttribute('data-theme', localStorage.getItem("themeName"));
+  function toggle() {
+    let html = document.querySelector('html');
+    let currentTheme = html.getAttribute('data-theme');
+    if (currentTheme === "light") {
+        html.setAttribute('data-theme', 'dark');
+        localStorage.setItem("themeName", 'dark');
+    } else {
+        html.setAttribute('data-theme', 'light');
+        localStorage.setItem("themeName", 'light');
+    }
+}
+</script>
+<script>
   var permanentlink = window.location.href;
   jQuery(function() {
       jQuery('#qrcode').qrcode({
