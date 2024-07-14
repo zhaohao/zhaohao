@@ -35,7 +35,7 @@
 */
 
 .toggle{
-    font-size: 30px;
+    font-size: 20px;
     color: #33b3c3;
     background-color: #111;
     border: 0px;
@@ -112,7 +112,7 @@ hr::after {
 </style>
 <div class="paper">
 <div class="paper-content">
-<button onclick="toggle()" class="toggle"><i class="fa fa-adjust" aria-hidden="true"></i></button>
+<button onclick="toggle()" class="toggle"><i class="fa fa-connectdevelop fa-spin fa-fw"></i></button>
 {{ content }}
 </div>
 </div>
