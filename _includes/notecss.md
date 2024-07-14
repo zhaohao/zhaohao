@@ -112,7 +112,7 @@ hr::after {
 </style>
 <div class="paper">
 <div class="paper-content">
-<button onclick="toggle()" class="toggle">◐</button>
+<button onclick="toggle()" class="toggle"><i class="fa fa-adjust" aria-hidden="true"></i></button>
 {{ content }}
 </div>
 </div>
