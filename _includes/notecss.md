@@ -43,8 +43,8 @@
     height: 30px;
     position: fixed;
     border-radius: 50%;
-    right: 15px;
-    top: 15px;
+    right: 5px;
+    top: 5px;
     left: unset;
     cursor: pointer;
     transition: all 0.5s ease;
