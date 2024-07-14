@@ -38,12 +38,13 @@
     font-size: 30px;
     color: #33b3c3;
     background-color: #111;
+    border: 0px;
     width: 30px;
     height: 30px;
     position: fixed;
     border-radius: 50%;
-    right: 3%;
-    top: 1px;
+    right: 15px;
+    top: 15px;
     left: unset;
     cursor: pointer;
     transition: all 0.5s ease;
@@ -109,9 +110,9 @@ hr::after {
   background-size: 30px 30px;
 }
 </style>
-<button onclick="toggle()" class="toggle">◐</button>
 <div class="paper">
 <div class="paper-content">
+<button onclick="toggle()" class="toggle">◐</button>
 {{ content }}
 </div>
 </div>
