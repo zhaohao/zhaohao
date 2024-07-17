@@ -119,6 +119,25 @@ ul.listing {
   padding: .9em 0;
 }
 
+#backbutton {
+	color: #008090;
+	font-weight: bold;
+	/* background: #9e3636; */
+	font-family: Galdeano, Cuprum, "Microsoft Yahei", sans-serif;
+	border-radius: 15px;
+	cursor: pointer;
+	border: 0;
+	transition: all 1s ease-in-out;
+}
+
+#backbutton:hover {
+	color: #eee;
+	padding: .5em 1em;
+	background: #008090;
+	border-radius: 15px;
+	border: 0;
+}
+
 table#Table_zhao {
 	max-width: 1280px;
 	margin: auto;

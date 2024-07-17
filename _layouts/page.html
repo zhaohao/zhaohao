@@ -6,8 +6,7 @@ layout: default
   <span>&nbsp;</span>
   <a href="{{ site.baseurl }}/feed.xml"><i class="fa fa-rss fa-fw" aria-hidden="true"></i></a>
 </nav>
-  <a  onclick="(() => (history.length === 1) ? window.location = '/' : history.back())()"><i class="fa fa-arrow-left" aria-hidden="true"></i> Go back </a>
-
+<button id="backbutton"  onclick="(() => (history.length === 1) ? window.location = '/' : history.back())()"><i class="fa fa-arrow-left" aria-hidden="true"></i> Go back </button>
 <div style="font-weight:bold; color: #9e3636; margin-left:1em; "><i class="fa fa-file-text-o" aria-hidden="true"></i> {{page.title}}</div>
 <div class="post-content">
 {{ content }}

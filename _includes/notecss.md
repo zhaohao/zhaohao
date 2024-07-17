@@ -35,34 +35,42 @@
 */
 
 .toggle{
-    font-size: 20px;
-    color: #33b3c3;
-    background-color: #111;
-    border: 0px;
-    width: 30px;
-    height: 30px;
-    position: fixed;
-    border-radius: 50%;
-    right: 5px;
-    top: 5px;
-    left: unset;
-    cursor: pointer;
-    transition: all 0.5s ease;
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    z-index: 50;
+  font-size: 20px;
+  color: #33b3c3;
+  background-color: #111;
+  border: 0px;
+  width: 25px;
+  height: 25px;
+  position: fixed;
+  border-radius: 50%;
+  right: 5px;
+  top: 5px;
+  left: unset;
+  cursor: pointer;
+  transition: all 0.5s ease;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  z-index: 50;
 }
 
+.toggle:hover {
+  transform:rotate(360deg);
+  -ms-transform:rotate(360deg); 	/* IE 9 */
+  -moz-transform:rotate(360deg); 	/* Firefox */
+  -webkit-transform:rotate(360deg); /* Safari  Chrome */
+  -o-transform:rotate(360deg); 	/* Opera */
+
+
 body{
-    background: var(--bgcolor) url(/assets/template/bgp00.svg);
-    filter: invert(var(--darknumer)) hue-rotate(var(--darkdegree));
-    transition: all 0.5s ease-in-out;
+  background: var(--bgcolor) url(/assets/template/bgp00.svg);
+  filter: invert(var(--darknumer)) hue-rotate(var(--darkdegree));
+  transition: all 0.5s ease-in-out;
 }
 img,
 video,
 pre {
-    filter: invert(var(--darknumer)) hue-rotate(var(--darkdegree));
+  filter: invert(var(--darknumer)) hue-rotate(var(--darkdegree));
 }
 hr::after {
   background: #f1eee4;
@@ -112,7 +120,7 @@ hr::after {
 </style>
 <div class="paper">
 <div class="paper-content">
-<button onclick="toggle()" class="toggle"><i class="fa fa-connectdevelop fa-spin fa-fw"></i></button>
+<button onclick="toggle()" class="toggle"><i class="fa fa-adjust fa-rotate-180 fa-fw"></i></button>
 {{ content }}
 </div>
 </div>
