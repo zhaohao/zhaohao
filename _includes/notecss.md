@@ -60,7 +60,7 @@
   -moz-transform:rotate(360deg); 	/* Firefox */
   -webkit-transform:rotate(360deg); /* Safari  Chrome */
   -o-transform:rotate(360deg); 	/* Opera */
-
+}
 
 body{
   background: var(--bgcolor) url(/assets/template/bgp00.svg);
