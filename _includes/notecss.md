@@ -14,25 +14,6 @@
 --darkdegree:0deg;
 --bgcolor:#dcd9d2;
 }
-/*
-.toggle{
-    font-size: 14px;
-    background-color: #555;
-    width: 3rem;
-    height: 3rem;
-    position: fixed;
-    border-radius: 50%;
-    right: 3%;
-    top: 12px;
-    left: unset;
-    cursor: pointer;
-    transition: all 0.5s ease;
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    z-index: 50;
-}
-*/
 
 .toggle{
   font-size: 20px;
