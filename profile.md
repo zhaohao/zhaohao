@@ -23,9 +23,8 @@ permalink:
 <p><i class="fa fa-envelope fa-fw" aria-hidden="true"></i> : zhaohao@zhaohao.online </p>
 </div>
 
-```ini   
-zhaohao_0x9CD49100_public.asc
-
+<p><i class="fa fa-certificate fa-fw" aria-hidden="true"></i> : zhaohao@zhaohao.online_0x9CD49100_public.asc </p>
+```txt   
 -----BEGIN PGP PUBLIC KEY BLOCK-----
 
 mJMEZquXiBMFK4EEACMEIwQAeb+1kzbhr9sOiCKN+47+KFQvsOD5J0WNq9yBsbw+
