@@ -15,7 +15,7 @@ permalink:
 <p>你嘴角微翘，我看见阳光满地…… 你回眸一望，我看见晴空万里……</p>
 <p>仅仅为了记录，记下消逝和即将消逝的点点滴滴，在回首的时候，能够知道，我曾经来过……</p>
 <p>看未来 一步步来了~~~</p>
-</ br>
+--------------------
 <p>
 <i class="fa fa-check-square-o fa-fw" aria-hidden="true"></i> 不完全认同进化理论，对之持理性怀疑态度。<br />
 <i class="fa fa-check-square-o fa-fw" aria-hidden="true"></i> 期待AI时代乃至硅基文明到来，尽管对人类自身是场灾难。<br />
