@@ -7,8 +7,8 @@ blockquote {
 }
 
 pre {
-    font-family: 'DejaVu Sans Mono', Consolas, 'lxgw wenkai screen', 'Microsoft Yahei', monospace, sans-serif;
-    color: #eee;
+    font-family: 'DejaVu Sans Mono', Consolas, Hack, 'lxgw wenkai screen', 'Microsoft Yahei', monospace, sans-serif;
+    color: #00c0de;
     background: #000000; /*#006d8c;*/
     border-radius: 10px;
     font-size: 0.875em;
@@ -17,8 +17,8 @@ pre {
 }
 
 code {
-  font-family: 'DejaVu Sans Mono', Consolas, 'lxgw wenkai screen','Microsoft Yahei', monospace, sans-serif;
-  color: #eee;
+  font-family: 'DejaVu Sans Mono', Consolas, Hack, 'lxgw wenkai screen','Microsoft Yahei', monospace, sans-serif;
+  color: #00c0de;
   background: #000000; /*#006d8c;*/
   border-radius: 4px;
   font-size: 0.875em;
