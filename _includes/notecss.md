@@ -1,6 +1,6 @@
 <style type="text/css">
 :root{
---bgcolor:#dcd9d2;
+--bgcolor:#dcd9d299;
 --darknumer:0;
 --darkdegree:0deg;
 }
@@ -12,7 +12,7 @@
 [data-theme="light"] {
 --darknumer:0;
 --darkdegree:0deg;
---bgcolor:#dcd9d2;
+--bgcolor:#dcd9d299;
 }
 
 .toggle{
@@ -76,7 +76,7 @@ hr::after {
   box-shadow: 0 2px 8px rgba(0,0,0,.3);
   overflow: hidden;
   line-height: 30px;
-  background: #f1eee4;
+  background: #f1eee400;
   -webkit-backdrop-filter: blur(20px);
   -moz-backdrop-filter: blur(20px);
   backdrop-filter: blur(20px);
@@ -90,7 +90,7 @@ hr::after {
   width: 60px;
   background: radial-gradient(#aaaaaa 6px, transparent 7px) repeat-y;
   background-size: 30px 30px;
-  border-right: 0px solid #f1eee4;
+  border-right: 0px solid #f1eee400;
   box-sizing: border-box;
 }
 .paper-content {
