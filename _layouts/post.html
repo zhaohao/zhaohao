@@ -15,7 +15,7 @@ layout: default
 </div>
 {% endif %}
 <div class="post-content">
-<div id='tag_cloud'><time datetime="{{ page.date | date_to_xmlschema }}" itemprop="datePublished">{{ page.date | date: "%A, %B %-d | Week %W & Day %j of Year %Y" }}</time></div>
+<div id='tag_cloud'><time datetime="{{ page.date | date_to_xmlschema }}" itemprop="datePublished" style="font-family: 'Courier New', Courier, monospace;">{{ page.date | date: "%A, %B %-d | Week %W & Day %j of Year %Y" }}</time></div>
 <h2>{{ page.title }}</h2>  
 <div style="margin: -1em 0 0 0;float: right;">
   {% if page.categories %}
