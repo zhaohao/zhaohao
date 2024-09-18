@@ -12,7 +12,7 @@
 [data-theme="light"] {
 --darknumer:0;
 --darkdegree:0deg;
---bgcolor:#dcd9d299;
+--bgcolor:#f1eeed;
 }
 
 .toggle{
@@ -54,13 +54,13 @@ pre {
   filter: invert(var(--darknumer)) hue-rotate(var(--darkdegree));
 }
 hr::after {
-  background: #f1eee4;
+  background: #f1eeed;
 }
 .list-page a {
-	background: #f1eee4;
+	background: #f1eeed;
 }
 .current-page {
-	background: #f1eee4;
+	background: #f1eeed;
 }
 #tag_cloud {
   padding: 1em 0;
@@ -76,7 +76,7 @@ hr::after {
   box-shadow: 0 2px 8px rgba(0,0,0,.3);
   overflow: hidden;
   line-height: 30px;
-  background: #f1eee400;
+  background: #f1eeed;
   -webkit-backdrop-filter: blur(20px);
   -moz-backdrop-filter: blur(20px);
   backdrop-filter: blur(20px);
@@ -90,7 +90,7 @@ hr::after {
   width: 60px;
   background: radial-gradient(#aaaaaa 6px, transparent 7px) repeat-y;
   background-size: 30px 30px;
-  border-right: 0px solid #f1eee400;
+  border-right: 0px solid #f1eeed00;
   box-sizing: border-box;
 }
 .paper-content {
