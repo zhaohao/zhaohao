@@ -44,7 +44,7 @@
 }
 
 body{
-  background: var(--bgcolor) url(/assets/template/bgp00.svg);
+  background: var(--bgcolor) /* url(/assets/template/bgp00.svg) */;
   filter: invert(var(--darknumer)) hue-rotate(var(--darkdegree));
   transition: all 0.5s ease-in-out;
 }
