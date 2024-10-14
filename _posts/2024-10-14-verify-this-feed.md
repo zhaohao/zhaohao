@@ -1,7 +1,7 @@
 ---
 layout: post
 title: verify this feed
-date: 2024-07-10 15:27:35 +0800 
+date: 2024-10-14 14:55:35 +0800 
 categories: [Diary]
 tags: [Life]
 comments: true 
