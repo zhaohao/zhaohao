@@ -4,7 +4,7 @@ timezone: Asia/Shanghai
 # Site settings
 email: zhaohao@zhaohao.online
 baseurl: ""
-paginate: 25
+paginate: 50
 paginate_path: "/p:num/"
 cdnlink: ""
 # cdnlink: "https://cdn.zhaohao.online"
