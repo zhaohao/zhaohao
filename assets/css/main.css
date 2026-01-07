@@ -100,7 +100,7 @@ hr {
 }
 
 hr::after {
-  background: #f8f6f1;
+  background: #fefefe;
   content: 'ℤ'; /*'𒈝';*/
   padding: 0 3px;
   position: relative;
@@ -122,7 +122,7 @@ ul.listing {
 #backbutton {
 	color: #008090;
 	font-weight: bold;
-	background: #f1eee1; /*#9e3636; */
+	background: #e4eded; /*#9e3636; */
 	font-family: Galdeano, Cuprum, "Microsoft Yahei", sans-serif;
 	border-radius: 15px;
 	cursor: pointer;
