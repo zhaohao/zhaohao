@@ -1,0 +1,15 @@
+---
+title: "通过电子邮件向haozhao.tumblr.com发布日志"
+date: 2013-11-09
+categories: 
+  - "weblog"
+---
+
+Please add the following unique email address to your contacts　for easy access.  
+【smyv23numtiut＠tumblr.com】  
+You can then start publishing directly to “haozhao” by emailing the  
+address.Learn more about how this works.  
+Love,  
+Tumblr
+
+stardust@live.com

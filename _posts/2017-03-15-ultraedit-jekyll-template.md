@@ -1,17 +1,13 @@
 ---
-layout: post
-title: 使用UltraEdit快速插入Jekyll日志模板
-subtitle: 
-date: 2017-03-15 19:57:27 +0800
-categories: [Weblog]
-tags: [Html, Jekyll, Theme]
-comments: true 
+title: "使用UltraEdit快速插入Jekyll日志模板"
+date: 2017-03-15
+categories: 
+  - "weblog"
 ---
-使用UltraEdit的模板功能，可以快捷的插入Jekyll日志所需的头文件。
-以下为自己所用的模板。
+
+使用UltraEdit的模板功能，可以快捷的插入Jekyll日志所需的头文件。 以下为自己所用的模板。
 
 ```ruby
-comments: true 
 ---
 layout: post
 title: ^  
@@ -22,11 +18,9 @@ date: [DATE_USER]yyyy-MM-dd[DATE_USER_END] [TIME_USER]HH':'mm':'ss[TIME_USER_END
 categories:
   - Diary
 description: 
-image: /media/images/.jpg 
+image: /resource/img/.jpg 
 #模板中调用的图片
-comments: true 
 ---
-
 
 [DATE_TEXT] 
 #自己习惯结尾插入的日期记录
@@ -34,4 +28,5 @@ comments: true
 [DATE_USER]yyyy-MM-dd[DATE_USER_END]-.md
 #编辑完成后剪切此处作为保存时候的文件名部分
 ```
+
 Wednesday, March 15, 2017

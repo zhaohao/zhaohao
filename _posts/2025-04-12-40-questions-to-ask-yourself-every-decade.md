@@ -1,32 +1,21 @@
 ---
-layout: post
-cid: 29
-title: 40 questions to ask yourself every decade
-date: 2025-04-12 16:55:09
-updated: 2025-04-12 16:55:09
-status: publish
-author: LetterZ
+title: "40 questions to ask yourself every decade"
+date: 2025-04-12
 categories: 
-  - 默认分类
-  - 片语只言
-tags: 
-description: 
-keyword: 
-thumbnail: 
+  - "memos"
 ---
 
+[https://stephango.com/40-questions-decade](https://stephango.com/40-questions-decade)
 
-https://stephango.com/40-questions-decade
-
-1.  若生命只剩最后六个月，你会去做什么？
-2.  若拥有亿万财富，你会做什么？
-3.  现在的你会给十年前的你一些什么建议？
-4.  你希望十年之后，什么依旧保持一致？
-5.  你希望十年之后，什么是发生了变化？
-6.  在你心中什么是最完美的幸福？
-7.  何时何地，你最幸福过？
-8.  为什么每天要起床？
-9.  什么是最痛苦的？
+1. 若生命只剩最后六个月，你会去做什么？
+2. 若拥有亿万财富，你会做什么？
+3. 现在的你会给十年前的你一些什么建议？
+4. 你希望十年之后，什么依旧保持一致？
+5. 你希望十年之后，什么是发生了变化？
+6. 在你心中什么是最完美的幸福？
+7. 何时何地，你最幸福过？
+8. 为什么每天要起床？
+9. 什么是最痛苦的？
 10. 你的性格是什么？
 11. 你最害怕的是什么？
 12. 你最想培养的特质是什么？

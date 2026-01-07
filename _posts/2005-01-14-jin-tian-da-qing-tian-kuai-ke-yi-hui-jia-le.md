@@ -1,0 +1,10 @@
+---
+title: "今天大晴天。快可以回家了"
+date: 2005-01-14
+categories: 
+  - "weblog"
+---
+
+今天大晴天。快可以回家了。
+
+stardust@live.com

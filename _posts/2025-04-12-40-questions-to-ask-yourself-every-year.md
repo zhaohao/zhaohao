@@ -1,22 +1,11 @@
 ---
-layout: post
-cid: 28
-title: 40 questions to ask yourself every year
-date: 2025-04-12 16:53:00
-updated: 2025-04-12 16:56:54
-status: publish
-author: LetterZ
+title: "40 questions to ask yourself every year"
+date: 2025-04-12
 categories: 
-  - 默认分类
-  - 片语只言
-tags: 
-description: 
-keyword: 
-thumbnail: 
+  - "memos"
 ---
 
-
-https://stephango.com/40-questions
+[https://stephango.com/40-questions](https://stephango.com/40-questions)
 
 1. 你今年做了哪些之前从未做过的事？
 2. 你有没有遵守年初时和自己许下的约定？
