@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "中秋时节"
 date: 2008-09-14
 categories: 

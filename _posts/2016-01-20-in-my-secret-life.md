@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "In My Secret Life"
 date: 2016-01-20
 categories: 

@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "无聊的时候总是很多"
 date: 2007-02-24
 categories: 

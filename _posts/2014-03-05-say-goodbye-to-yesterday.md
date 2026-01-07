@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "Say Goodbye To Yesterday"
 date: 2014-03-05
 categories: 

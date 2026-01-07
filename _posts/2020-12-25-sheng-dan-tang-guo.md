@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "圣诞糖果"
 date: 2020-12-25
 categories: 

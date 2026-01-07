@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "Will You Be There"
 date: 2007-03-18
 categories: 

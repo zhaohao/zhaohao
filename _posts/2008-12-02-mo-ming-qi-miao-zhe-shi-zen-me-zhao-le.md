@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "莫名其妙这是怎么着了……"
 date: 2008-12-02
 categories: 

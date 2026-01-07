@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "菊次郎の夏"
 date: 2008-11-23
 categories: 

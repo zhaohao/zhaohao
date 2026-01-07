@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "叽歪二零零八年五月"
 date: 2008-05-01
 categories: 

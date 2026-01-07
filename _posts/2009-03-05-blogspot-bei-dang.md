@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "Blogspot被挡"
 date: 2009-03-05
 categories: 

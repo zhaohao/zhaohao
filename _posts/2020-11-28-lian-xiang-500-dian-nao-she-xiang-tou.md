@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "联想500电脑摄像头"
 date: 2020-11-28
 categories: 

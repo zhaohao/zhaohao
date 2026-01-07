@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "时间已经快到一点半了，很是安静，风不时吹动窗帘"
 date: 2009-03-01
 categories: 

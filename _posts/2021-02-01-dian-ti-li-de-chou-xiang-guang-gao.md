@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "电梯里的抽象广告"
 date: 2021-02-01
 categories: 

@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "感到有点孤单和无奈"
 date: 2008-01-11
 categories: 

@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "Great Heat (12th solar term)"
 date: 2008-07-22
 categories: 

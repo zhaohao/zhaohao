@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "取消了短号集群网"
 date: 2016-01-25
 categories: 

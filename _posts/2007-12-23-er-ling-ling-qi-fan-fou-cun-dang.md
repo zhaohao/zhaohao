@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "二零零七-饭否-存档"
 date: 2007-12-23
 categories: 

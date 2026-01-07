@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "不明白"
 date: 2007-03-21
 categories: 

@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "或大或小的梦想"
 date: 2010-01-04
 categories: 

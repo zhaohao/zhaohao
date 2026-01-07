@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "LUX光照度"
 date: 2013-12-14
 categories: 

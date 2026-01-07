@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "几米－下雨的日子"
 date: 2007-03-11
 categories: 

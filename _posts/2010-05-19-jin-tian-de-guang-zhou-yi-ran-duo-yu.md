@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "今天的广州依然多雨"
 date: 2010-05-19
 categories: 

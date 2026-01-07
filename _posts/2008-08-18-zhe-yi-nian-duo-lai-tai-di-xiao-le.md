@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "这一年多来太低效了"
 date: 2008-08-18
 categories: 

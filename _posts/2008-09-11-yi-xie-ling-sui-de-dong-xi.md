@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "一些零碎的东西"
 date: 2008-09-11
 categories: 

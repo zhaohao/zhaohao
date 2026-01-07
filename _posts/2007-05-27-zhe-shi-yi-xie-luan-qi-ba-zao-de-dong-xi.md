@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "这是一些乱七八糟的东西"
 date: 2007-05-27
 categories: 

@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "只言片语二零一零年十月"
 date: 2010-10-31
 categories: 

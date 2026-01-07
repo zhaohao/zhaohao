@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "十一点钟，感觉挺累"
 date: 2008-07-08
 categories: 

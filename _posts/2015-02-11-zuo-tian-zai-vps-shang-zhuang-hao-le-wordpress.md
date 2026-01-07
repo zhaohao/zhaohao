@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "昨天在VPS上装好了Wordpress"
 date: 2015-02-11
 categories: 

@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "折腾域名"
 date: 2009-04-20
 categories: 

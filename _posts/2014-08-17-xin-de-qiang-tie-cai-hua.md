@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "新的墙贴彩画"
 date: 2014-08-17
 categories: 

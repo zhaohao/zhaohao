@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "纪念又一个未在家过的元宵节"
 date: 2007-03-03
 categories: 

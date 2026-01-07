@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "无聊而已"
 date: 2009-04-15
 categories: 

@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "言葉之庭"
 date: 2014-12-08
 categories: 

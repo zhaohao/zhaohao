@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "Bye Olympic 2008&假如-世界之大"
 date: 2008-08-24
 categories: 

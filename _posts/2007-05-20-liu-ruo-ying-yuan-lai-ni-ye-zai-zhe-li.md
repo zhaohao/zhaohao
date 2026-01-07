@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "刘若英-原来你也在这里"
 date: 2007-05-20
 categories: 

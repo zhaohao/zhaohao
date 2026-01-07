@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "微信-Windows-Phone"
 date: 2011-12-21
 categories: 

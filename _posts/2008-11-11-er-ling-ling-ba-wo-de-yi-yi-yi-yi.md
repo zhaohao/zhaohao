@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "贰零零八我的壹壹壹壹"
 date: 2008-11-11
 categories: 

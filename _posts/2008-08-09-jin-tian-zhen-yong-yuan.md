@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "今天-真永远"
 date: 2008-08-09
 categories: 

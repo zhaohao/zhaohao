@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "新的一年过去了一周"
 date: 2008-01-07
 categories: 

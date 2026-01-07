@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "中午的鸡蛋汤面"
 date: 2014-09-21
 categories: 

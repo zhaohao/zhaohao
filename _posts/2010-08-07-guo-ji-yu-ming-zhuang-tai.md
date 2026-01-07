@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "国际域名状态"
 date: 2010-08-07
 categories: 

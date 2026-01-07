@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "梦想虚荣-改变-现实"
 date: 2007-11-25
 categories: 

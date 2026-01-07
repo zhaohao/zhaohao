@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "海阔天空"
 date: 2010-09-11
 categories: 

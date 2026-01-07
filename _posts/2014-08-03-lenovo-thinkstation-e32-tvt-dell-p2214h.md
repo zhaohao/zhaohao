@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "Lenovo ThinkStation E32 TVT & DELL P2214H"
 date: 2014-08-03
 categories: 

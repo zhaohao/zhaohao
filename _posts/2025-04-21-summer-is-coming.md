@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "到了夏天"
 date: 2025-04-21
 categories: 

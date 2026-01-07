@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "Jekyll主题Trophy"
 date: 2016-10-11
 categories: 

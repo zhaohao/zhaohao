@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "微信-摇一摇"
 date: 2011-12-15
 categories: 

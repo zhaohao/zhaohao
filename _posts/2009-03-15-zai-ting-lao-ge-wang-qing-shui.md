@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "再听老歌-忘情水"
 date: 2009-03-15
 categories: 

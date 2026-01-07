@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "很久没有写过日记了"
 date: 2009-07-23
 categories: 

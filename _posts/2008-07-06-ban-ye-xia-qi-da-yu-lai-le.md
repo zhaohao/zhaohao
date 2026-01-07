@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "半夜下起大雨来了"
 date: 2008-07-06
 categories: 

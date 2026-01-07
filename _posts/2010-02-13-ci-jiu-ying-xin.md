@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "辞旧迎新"
 date: 2010-02-13
 categories: 

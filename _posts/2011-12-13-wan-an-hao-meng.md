@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "晚安，好梦！"
 date: 2011-12-13
 categories: 

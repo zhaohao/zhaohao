@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "Android L Developer Preview"
 date: 2014-10-23
 categories: 

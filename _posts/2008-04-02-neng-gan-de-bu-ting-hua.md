@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "能干的不听话"
 date: 2008-04-02
 categories: 

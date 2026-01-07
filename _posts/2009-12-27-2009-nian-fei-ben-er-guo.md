@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "2009年飞奔而过"
 date: 2009-12-27
 categories: 

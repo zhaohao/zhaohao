@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "明天是母亲节，谢谢父母"
 date: 2009-05-09
 categories: 

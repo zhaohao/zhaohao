@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "Alizee,the first sight"
 date: 2009-03-08
 categories: 

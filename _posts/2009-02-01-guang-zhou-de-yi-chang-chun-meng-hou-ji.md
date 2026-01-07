@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "《广州的一场春梦》后记"
 date: 2009-02-01
 categories: 

@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "笑忘书"
 date: 2016-03-30
 categories: 

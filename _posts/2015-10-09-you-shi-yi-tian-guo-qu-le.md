@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "又是一天过去了"
 date: 2015-10-09
 categories: 

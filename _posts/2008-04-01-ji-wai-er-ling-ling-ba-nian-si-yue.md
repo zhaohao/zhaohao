@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "叽歪二零零八年四月"
 date: 2008-04-01
 categories: 

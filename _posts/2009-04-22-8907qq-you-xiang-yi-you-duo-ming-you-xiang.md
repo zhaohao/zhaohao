@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "[8907]QQ邮箱一邮多名&邮箱"
 date: 2009-04-22
 categories: 

@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "[8901]明显肥了不少"
 date: 2009-04-16
 categories: 

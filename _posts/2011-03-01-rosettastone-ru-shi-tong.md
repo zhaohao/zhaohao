@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "Rosetta.Stone 如师通"
 date: 2011-03-01
 categories: 

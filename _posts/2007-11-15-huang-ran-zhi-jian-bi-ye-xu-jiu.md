@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "恍然之间毕业许久……"
 date: 2007-11-15
 categories: 

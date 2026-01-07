@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "我的十年之一九九九"
 date: 2008-11-19
 categories: 

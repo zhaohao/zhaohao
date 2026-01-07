@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "中大码头-天字码头-中大码头"
 date: 2007-06-11
 categories: 

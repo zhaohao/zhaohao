@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "[8886]夜里，静静的"
 date: 2009-04-01
 categories: 

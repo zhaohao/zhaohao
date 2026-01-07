@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "夜晚的清河东路"
 date: 2016-05-08
 categories: 

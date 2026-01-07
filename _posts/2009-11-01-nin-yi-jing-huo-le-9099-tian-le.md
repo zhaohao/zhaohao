@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "您已经活了9099天了"
 date: 2009-11-01
 categories: 

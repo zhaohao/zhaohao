@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "健康宝宝~"
 date: 2012-07-04
 categories: 

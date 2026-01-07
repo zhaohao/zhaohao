@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "今天是我的生日"
 date: 2004-12-03
 categories: 

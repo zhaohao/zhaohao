@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "Let’s Encrypt"
 date: 2015-12-30
 categories: 

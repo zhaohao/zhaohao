@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "最亮的月光"
 date: 2014-07-13
 categories: 

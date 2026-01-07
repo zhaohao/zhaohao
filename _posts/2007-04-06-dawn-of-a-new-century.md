@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "Dawn of a New Century"
 date: 2007-04-06
 categories: 

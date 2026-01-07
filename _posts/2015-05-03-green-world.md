@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "Green World"
 date: 2015-05-03
 categories: 

@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "Welcome to the Google Domains invite-only beta!"
 date: 2014-08-07
 categories: 

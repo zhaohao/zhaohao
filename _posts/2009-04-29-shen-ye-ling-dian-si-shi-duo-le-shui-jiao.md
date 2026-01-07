@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "深夜，零点四十多了，睡觉……"
 date: 2009-04-29
 categories: 

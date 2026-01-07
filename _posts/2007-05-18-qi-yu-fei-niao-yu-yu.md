@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "齐豫-飞鸟与鱼"
 date: 2007-05-18
 categories: 

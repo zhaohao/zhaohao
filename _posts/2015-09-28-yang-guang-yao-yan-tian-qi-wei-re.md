@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "阳光耀眼，天气微热"
 date: 2015-09-28
 categories: 

@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "2007年的十一假期"
 date: 2007-10-05
 categories: 

@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "又是一些ANBB的只言片语"
 date: 2007-05-23
 categories: 

@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "[8915]什么呢？不知道，时间匆匆……"
 date: 2009-04-30
 categories: 

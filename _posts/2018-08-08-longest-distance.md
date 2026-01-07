@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "世界上最远的距离"
 date: 2018-08-08
 categories: 

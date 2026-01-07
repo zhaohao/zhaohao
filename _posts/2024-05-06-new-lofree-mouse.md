@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "新的小鼠标"
 date: 2024-05-06
 categories: 

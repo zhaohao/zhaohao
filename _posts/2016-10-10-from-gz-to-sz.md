@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "离开广州去深圳"
 date: 2016-10-10
 categories: 

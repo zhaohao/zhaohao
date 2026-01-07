@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "Naruto-青鸟"
 date: 2008-08-06
 categories: 

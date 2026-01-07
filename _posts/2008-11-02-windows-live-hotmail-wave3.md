@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "Windows Live Hotmail Wave3"
 date: 2008-11-02
 categories: 

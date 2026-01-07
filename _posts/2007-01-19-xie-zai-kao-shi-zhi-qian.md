@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "写在考试之前"
 date: 2007-01-19
 categories: 

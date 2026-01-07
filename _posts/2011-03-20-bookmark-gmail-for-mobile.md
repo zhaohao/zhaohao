@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "Bookmark - Gmail for mobile"
 date: 2011-03-20
 categories: 

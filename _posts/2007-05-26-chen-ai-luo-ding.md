@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "尘埃落定"
 date: 2007-05-26
 categories: 

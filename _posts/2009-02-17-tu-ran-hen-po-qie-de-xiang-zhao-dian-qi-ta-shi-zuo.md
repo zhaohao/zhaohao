@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "突然很迫切的想找点其他事做"
 date: 2009-02-17
 categories: 

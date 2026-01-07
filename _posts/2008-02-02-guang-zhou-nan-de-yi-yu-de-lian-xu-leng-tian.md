@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "广州难得一遇的连续冷天"
 date: 2008-02-02
 categories: 

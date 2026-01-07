@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "能听到外面的雨声"
 date: 2008-12-27
 categories: 

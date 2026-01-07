@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "我真的不知道该如何选择"
 date: 2008-06-30
 categories: 

@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "联想入门机械键盘MK100"
 date: 2015-06-19
 categories: 

@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "又已经两点多了"
 date: 2007-06-02
 categories: 

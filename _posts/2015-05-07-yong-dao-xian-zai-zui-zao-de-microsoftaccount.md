@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "用到现在最早的Microsoft Account"
 date: 2015-05-07
 categories: 

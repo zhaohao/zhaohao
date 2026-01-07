@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "[8919]明天立夏，阳光耀眼"
 date: 2009-05-04
 categories: 

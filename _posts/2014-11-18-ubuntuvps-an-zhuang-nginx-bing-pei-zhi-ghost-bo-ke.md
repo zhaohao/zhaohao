@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "ubuntu VPS安装Nginx并配置Ghost博客"
 date: 2014-11-18
 categories: 

@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "只言片语二零一零年五月"
 date: 2010-05-28
 categories: 

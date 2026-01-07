@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "第一次看到海"
 date: 2005-02-27
 categories: 

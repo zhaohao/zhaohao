@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "记忆考验"
 date: 2006-03-15
 categories: 

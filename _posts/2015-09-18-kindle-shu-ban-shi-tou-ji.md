@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "Kindle竖版石头记"
 date: 2015-09-18
 categories: 

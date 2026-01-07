@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "Your Google Apps account now works more like a full Google Account"
 date: 2010-09-14
 categories: 

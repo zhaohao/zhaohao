@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "太阳花和沙漠玫瑰"
 date: 2014-07-11
 categories: 

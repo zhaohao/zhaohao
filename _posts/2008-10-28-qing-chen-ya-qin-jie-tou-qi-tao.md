@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "清尘雅琴&街头乞讨"
 date: 2008-10-28
 categories: 

@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "试着添加了HTTPS的支持"
 date: 2015-07-16
 categories: 

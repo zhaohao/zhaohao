@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "虞美人开花"
 date: 2015-02-07
 categories: 

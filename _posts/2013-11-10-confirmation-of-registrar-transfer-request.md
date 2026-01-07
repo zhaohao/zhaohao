@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "Confirmation of Registrar Transfer Request"
 date: 2013-11-10
 categories: 

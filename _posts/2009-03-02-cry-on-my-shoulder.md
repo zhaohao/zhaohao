@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "Cry on my Shoulder"
 date: 2009-03-02
 categories: 

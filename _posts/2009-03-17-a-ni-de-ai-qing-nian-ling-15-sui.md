@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "A-你的爱情年龄15岁"
 date: 2009-03-17
 categories: 

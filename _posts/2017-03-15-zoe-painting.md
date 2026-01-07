@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "Zoe的那些画儿"
 date: 2017-03-15
 categories: 

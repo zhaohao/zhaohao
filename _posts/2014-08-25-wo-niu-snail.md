@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "蜗牛 Snail"
 date: 2014-08-25
 categories: 

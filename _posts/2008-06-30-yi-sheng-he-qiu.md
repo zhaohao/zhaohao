@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "一生何求"
 date: 2008-06-30
 categories: 

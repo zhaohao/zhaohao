@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "前世是谁埋的你？"
 date: 2007-04-07
 categories: 

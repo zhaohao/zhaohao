@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "迎接二零二六"
 date: 2025-12-31
 categories: 

@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "在HX最后一个工作日"
 date: 2011-02-28
 categories: 

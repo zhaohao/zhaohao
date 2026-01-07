@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "最圆最大月亮3月20日凌晨现身"
 date: 2011-03-20
 categories: 

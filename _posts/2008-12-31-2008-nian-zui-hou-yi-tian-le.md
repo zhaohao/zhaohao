@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "2008年最后一天了"
 date: 2008-12-31
 categories: 

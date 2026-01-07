@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "那些年拿过的那些域名"
 date: 2014-10-30
 categories: 

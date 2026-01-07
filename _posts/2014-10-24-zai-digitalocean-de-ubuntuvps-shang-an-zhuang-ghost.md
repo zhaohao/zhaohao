@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "在DigitalOcean的Ubuntu VPS上安装Ghost"
 date: 2014-10-24
 categories: 

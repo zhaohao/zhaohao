@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "一些小事202109"
 date: 2021-09-21
 categories: 

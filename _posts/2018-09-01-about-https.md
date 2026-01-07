@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "关于https"
 date: 2018-09-01
 categories: 

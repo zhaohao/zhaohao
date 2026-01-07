@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "一句话二零零九年尾"
 date: 2009-12-27
 categories: 

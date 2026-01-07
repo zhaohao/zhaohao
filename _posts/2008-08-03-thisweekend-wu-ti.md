@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "This weekend 无题"
 date: 2008-08-03
 categories: 

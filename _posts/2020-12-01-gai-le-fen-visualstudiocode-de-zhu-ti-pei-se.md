@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "改了份Visual Studio Code的主题配色"
 date: 2020-12-01
 categories: 

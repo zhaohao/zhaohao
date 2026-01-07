@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "曾经MSN动态头像"
 date: 2015-10-18
 categories: 

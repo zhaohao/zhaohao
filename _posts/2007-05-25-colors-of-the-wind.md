@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "Colors of the wind"
 date: 2007-05-25
 categories: 

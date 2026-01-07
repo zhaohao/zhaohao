@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "外面又下起了雨19:30"
 date: 2007-02-24
 categories: 

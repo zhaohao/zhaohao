@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "在三个地方显示的邮件"
 date: 2007-02-25
 categories: 

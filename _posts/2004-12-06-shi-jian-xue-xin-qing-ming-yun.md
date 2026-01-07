@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "时间、雪、心情、命运"
 date: 2004-12-06
 categories: 

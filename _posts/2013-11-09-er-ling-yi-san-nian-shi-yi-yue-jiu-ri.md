@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "二零一三年十一月九日"
 date: 2013-11-09
 categories: 

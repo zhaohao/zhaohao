@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "清远漂流"
 date: 2009-07-12
 categories: 

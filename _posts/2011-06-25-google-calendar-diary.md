@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "Google Calendar Diary"
 date: 2011-06-25
 categories: 

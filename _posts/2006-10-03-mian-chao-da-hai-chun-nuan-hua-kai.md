@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "面朝大海, 春暖花开"
 date: 2006-10-03
 categories: 

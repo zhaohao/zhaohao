@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "雅虎裁员指导文件-沟通的语言技巧"
 date: 2010-01-10
 categories: 

@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "随想……随思……"
 date: 2007-11-04
 categories: 

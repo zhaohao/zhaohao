@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "建行优惠"
 date: 2020-12-01
 categories: 

@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "你可以骗我，但"
 date: 2008-07-01
 categories: 

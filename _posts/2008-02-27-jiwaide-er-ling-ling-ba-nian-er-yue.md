@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "JIWAI.DE二零零八年二月"
 date: 2008-02-27
 categories: 

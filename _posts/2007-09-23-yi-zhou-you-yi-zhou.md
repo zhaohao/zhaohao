@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "一周又一周……"
 date: 2007-09-23
 categories: 

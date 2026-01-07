@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "上传了几首歌到skydrive"
 date: 2007-12-08
 categories: 

@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "不知道做了什么"
 date: 2008-03-22
 categories: 

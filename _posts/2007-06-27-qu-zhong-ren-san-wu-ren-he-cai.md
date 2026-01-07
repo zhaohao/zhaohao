@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "曲终人散，无人喝彩"
 date: 2007-06-27
 categories: 

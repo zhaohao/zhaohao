@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "最初的时刻。。。"
 date: 2006-02-26
 categories: 

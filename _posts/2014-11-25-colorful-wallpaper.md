@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "Colorful Wallpaper"
 date: 2014-11-25
 categories: 

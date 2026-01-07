@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "秋雨小记"
 date: 2008-10-14
 categories: 

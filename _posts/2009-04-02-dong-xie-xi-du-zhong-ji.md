@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "东邪西毒终极"
 date: 2009-04-02
 categories: 

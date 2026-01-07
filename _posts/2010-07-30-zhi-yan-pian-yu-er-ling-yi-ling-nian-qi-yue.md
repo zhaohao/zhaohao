@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "只言片语二零一零年七月"
 date: 2010-07-30
 categories: 

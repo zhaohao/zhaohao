@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "阳光暗淡了下去，稍微收拾了一下屋子"
 date: 2011-12-04
 categories: 

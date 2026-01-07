@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "R_51345762 档案挂靠续费问题 天河软件园"
 date: 2011-04-21
 categories: 

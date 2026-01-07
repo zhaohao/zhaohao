@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "开还是不开Wordpress"
 date: 2014-11-18
 categories: 

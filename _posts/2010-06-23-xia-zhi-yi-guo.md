@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "夏至已过"
 date: 2010-06-23
 categories: 

@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "Unrequited Love"
 date: 2011-05-30
 categories: 

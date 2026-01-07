@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "Github配置GPG提交签名"
 date: 2024-06-30
 categories: 

@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "五四青年节，自己在做什么呢？"
 date: 2012-05-04
 categories: 

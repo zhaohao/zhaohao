@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "一年很快过去"
 date: 2008-05-17
 categories: 

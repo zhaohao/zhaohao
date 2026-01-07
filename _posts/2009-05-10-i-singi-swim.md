@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "I sing,I swim"
 date: 2009-05-10
 categories: 

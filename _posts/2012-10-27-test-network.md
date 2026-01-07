@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "Test Network"
 date: 2012-10-27
 categories: 

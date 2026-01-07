@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "Will you still love me tomorrow?"
 date: 2008-08-15
 categories: 

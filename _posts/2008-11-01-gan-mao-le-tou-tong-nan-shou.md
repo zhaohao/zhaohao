@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "感冒了，头痛难受"
 date: 2008-11-01
 categories: 

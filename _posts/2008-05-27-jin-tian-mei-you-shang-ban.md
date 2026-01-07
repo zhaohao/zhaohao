@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "今天没有上班"
 date: 2008-05-27
 categories: 

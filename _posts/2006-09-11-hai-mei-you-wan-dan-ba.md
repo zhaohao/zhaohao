@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "还没有完蛋吧？"
 date: 2006-09-11
 categories: 

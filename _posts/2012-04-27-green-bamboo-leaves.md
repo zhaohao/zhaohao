@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "Green bamboo leaves"
 date: 2012-04-27
 categories: 

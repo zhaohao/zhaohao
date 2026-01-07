@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "[9424]雨，天气清凉~"
 date: 2010-09-21
 categories: 

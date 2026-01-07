@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "悲剧的公式"
 date: 2010-06-23
 categories: 

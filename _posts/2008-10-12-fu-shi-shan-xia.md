@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "富士山下"
 date: 2008-10-12
 categories: 

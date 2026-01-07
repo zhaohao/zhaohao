@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "Start My New Journey"
 date: 2008-08-01
 categories: 

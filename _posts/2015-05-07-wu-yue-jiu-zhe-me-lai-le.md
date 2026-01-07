@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "五月就这么来了"
 date: 2015-05-07
 categories: 

@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "关于stardust"
 date: 2008-07-07
 categories: 

@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "New WordPress.com Site: Howardzhao.wordpress.com"
 date: 2011-03-06
 categories: 

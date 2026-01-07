@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "Windows Live search background"
 date: 2008-08-03
 categories: 

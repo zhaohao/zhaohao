@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "Android Lollipop 5.0.1 OTA"
 date: 2014-12-19
 categories: 

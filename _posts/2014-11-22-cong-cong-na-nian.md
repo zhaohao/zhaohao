@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "匆匆那年"
 date: 2014-11-22
 categories: 

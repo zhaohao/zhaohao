@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "午餐，大葱，豆酱炒饭。"
 date: 2011-12-09
 categories: 

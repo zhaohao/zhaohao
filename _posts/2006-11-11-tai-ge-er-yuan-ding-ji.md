@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "泰戈尔-园丁集"
 date: 2006-11-11
 categories: 

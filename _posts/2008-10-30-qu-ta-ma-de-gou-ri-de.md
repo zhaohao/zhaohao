@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "去它-妈-的狗日-的……"
 date: 2008-10-30
 categories: 

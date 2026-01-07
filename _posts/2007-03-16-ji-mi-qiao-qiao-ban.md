@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "幾米 - 跷跷板"
 date: 2007-03-16
 categories: 

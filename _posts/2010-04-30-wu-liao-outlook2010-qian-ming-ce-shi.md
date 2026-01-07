@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "无聊，Outlook2010签名测试"
 date: 2010-04-30
 categories: 

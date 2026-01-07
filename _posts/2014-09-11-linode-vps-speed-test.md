@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "Linode VPS Speed Test"
 date: 2014-09-11
 categories: 

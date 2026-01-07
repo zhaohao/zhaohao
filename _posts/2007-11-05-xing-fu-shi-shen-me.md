@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "幸福是什么？"
 date: 2007-11-05
 categories: 

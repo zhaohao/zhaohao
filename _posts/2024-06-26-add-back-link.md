@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "页面设置后退按钮"
 date: 2024-06-26
 categories: 

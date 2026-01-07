@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "Vector RB-100钟控收音机"
 date: 2015-05-01
 categories: 

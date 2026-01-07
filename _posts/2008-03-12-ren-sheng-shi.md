@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "人生是……"
 date: 2008-03-12
 categories: 

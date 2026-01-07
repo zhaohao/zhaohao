@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "痛苦啊，全没鸟了后的再补"
 date: 2008-11-08
 categories: 

@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "无题-时间"
 date: 2010-06-09
 categories: 

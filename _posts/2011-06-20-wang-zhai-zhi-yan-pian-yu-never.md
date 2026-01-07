@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "网摘只言片语Never"
 date: 2011-06-20
 categories: 

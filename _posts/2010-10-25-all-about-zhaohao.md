@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "All about zhaohao"
 date: 2010-10-25
 categories: 

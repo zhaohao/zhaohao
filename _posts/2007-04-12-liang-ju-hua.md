@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "两句话"
 date: 2007-04-12
 categories: 

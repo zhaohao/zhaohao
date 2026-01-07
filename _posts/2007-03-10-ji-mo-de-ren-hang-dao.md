@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "寂寞的人行道"
 date: 2007-03-10
 categories: 

@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "薇罗独语-中国的未来"
 date: 2008-08-12
 categories: 

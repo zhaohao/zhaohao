@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "外面呜呜的风声"
 date: 2011-03-22
 categories: 

@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "将@msn.com的微软账号更新到了@outlook.com"
 date: 2012-08-01
 categories: 

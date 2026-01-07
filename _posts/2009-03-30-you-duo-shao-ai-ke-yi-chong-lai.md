@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "有多少爱可以重来"
 date: 2009-03-30
 categories: 

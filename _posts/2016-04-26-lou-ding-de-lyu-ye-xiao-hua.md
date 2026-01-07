@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "楼顶的绿叶小花"
 date: 2016-04-26
 categories: 

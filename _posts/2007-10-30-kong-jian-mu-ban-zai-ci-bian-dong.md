@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "空间模板再次变动"
 date: 2007-10-30
 categories: 

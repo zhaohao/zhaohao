@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "guangzhou'summer"
 date: 2008-07-27
 categories: 

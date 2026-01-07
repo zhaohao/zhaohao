@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "三月的最后一天"
 date: 2009-03-31
 categories: 

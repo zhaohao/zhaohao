@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "如盛夏般的冬季"
 date: 2020-12-28
 categories: 

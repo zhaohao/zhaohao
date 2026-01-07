@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "News Press Release: Microsoft to Acquire Skype"
 date: 2011-05-10
 categories: 

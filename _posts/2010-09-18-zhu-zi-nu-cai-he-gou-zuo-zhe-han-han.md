@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "主子，奴才和狗 作者：韩寒"
 date: 2010-09-18
 categories: 

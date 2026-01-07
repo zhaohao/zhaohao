@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "无题转载"
 date: 2010-03-29
 categories: 

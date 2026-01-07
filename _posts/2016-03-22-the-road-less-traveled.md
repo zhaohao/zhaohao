@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "The Road Less Traveled"
 date: 2016-03-22
 categories: 

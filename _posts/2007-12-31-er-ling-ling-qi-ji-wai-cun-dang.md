@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "二零零七- 叽歪-存档"
 date: 2007-12-31
 categories: 

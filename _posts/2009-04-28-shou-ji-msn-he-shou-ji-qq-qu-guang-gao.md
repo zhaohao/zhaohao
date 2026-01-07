@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "手机MSN和手机QQ去广告"
 date: 2009-04-28
 categories: 

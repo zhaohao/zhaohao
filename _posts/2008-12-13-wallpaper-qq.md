@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "Wallpaper QQ"
 date: 2008-12-13
 categories: 

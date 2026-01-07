@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "微信8的开屏页面"
 date: 2021-01-21
 categories: 

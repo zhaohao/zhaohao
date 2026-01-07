@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "二零零八年一月"
 date: 2008-01-27
 categories: 

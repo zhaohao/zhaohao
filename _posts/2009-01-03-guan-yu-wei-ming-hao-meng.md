@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "关于”未名灏梦”"
 date: 2009-01-03
 categories: 

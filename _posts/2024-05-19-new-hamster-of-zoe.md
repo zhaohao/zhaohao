@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "小树的仓鼠到了"
 date: 2024-05-19
 categories: 

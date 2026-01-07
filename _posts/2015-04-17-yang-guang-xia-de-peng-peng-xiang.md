@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "阳光下的碰碰香"
 date: 2015-04-17
 categories: 

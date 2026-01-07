@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "日志里添加二维码"
 date: 2024-04-24
 categories: 

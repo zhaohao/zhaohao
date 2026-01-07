@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "最后的折腾系统"
 date: 2015-09-21
 categories: 

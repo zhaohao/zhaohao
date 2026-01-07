@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "逸仙时空之ID"
 date: 2007-06-30
 categories: 

@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "梦 Dream"
 date: 2014-07-27
 categories: 

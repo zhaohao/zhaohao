@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "我要考研。。。"
 date: 2006-08-14
 categories: 

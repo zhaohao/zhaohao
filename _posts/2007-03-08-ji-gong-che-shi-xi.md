@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "挤公车，实习"
 date: 2007-03-08
 categories: 

@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "只言片语"
 date: 2014-08-30
 categories: 

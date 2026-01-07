@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "Happy Lunar Birthday To Myself"
 date: 2007-11-20
 categories: 

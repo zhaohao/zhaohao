@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "They force you to think about yourself~"
 date: 2010-10-05
 categories: 

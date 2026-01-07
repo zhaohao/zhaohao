@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "现在四点多快五点了，还没有睡"
 date: 2007-02-09
 categories: 

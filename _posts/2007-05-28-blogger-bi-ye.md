@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "blogger&毕业"
 date: 2007-05-28
 categories: 

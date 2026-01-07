@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "又是无言的周末"
 date: 2008-11-29
 categories: 

@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "现在时间，凌晨四点整"
 date: 2007-02-26
 categories: 

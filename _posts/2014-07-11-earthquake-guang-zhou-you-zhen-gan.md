@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "Earthquake广州有震感"
 date: 2014-07-11
 categories: 

@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "只言片语二〇一二年十一月"
 date: 2012-11-29
 categories: 

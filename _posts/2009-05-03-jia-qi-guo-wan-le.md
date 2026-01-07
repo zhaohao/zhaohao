@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "假期过完了……"
 date: 2009-05-03
 categories: 

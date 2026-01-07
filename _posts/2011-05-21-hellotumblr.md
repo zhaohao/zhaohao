@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "Hello,tumblr."
 date: 2011-05-21
 categories: 

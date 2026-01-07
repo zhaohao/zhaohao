@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "Start a long journey"
 date: 2015-02-24
 categories: 

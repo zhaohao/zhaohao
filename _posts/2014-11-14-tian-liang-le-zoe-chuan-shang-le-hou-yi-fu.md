@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "天凉了，Zoe穿上了厚衣服。"
 date: 2014-11-14
 categories: 

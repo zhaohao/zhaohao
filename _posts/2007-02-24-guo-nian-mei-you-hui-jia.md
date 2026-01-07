@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "过年，没有回家"
 date: 2007-02-24
 categories: 

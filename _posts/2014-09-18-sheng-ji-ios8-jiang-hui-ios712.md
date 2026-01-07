@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "升级iOS8&降回iOS7.1.2"
 date: 2014-09-18
 categories: 

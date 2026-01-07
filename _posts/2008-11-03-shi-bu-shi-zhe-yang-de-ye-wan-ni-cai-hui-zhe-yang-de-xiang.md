@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "是不是这样的夜晚你才会这样的想起我"
 date: 2008-11-03
 categories: 

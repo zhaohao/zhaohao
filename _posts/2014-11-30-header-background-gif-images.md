@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "Header background gif images"
 date: 2014-11-30
 categories: 

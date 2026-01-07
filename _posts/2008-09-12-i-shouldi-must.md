@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "I should,I must!"
 date: 2008-09-12
 categories: 

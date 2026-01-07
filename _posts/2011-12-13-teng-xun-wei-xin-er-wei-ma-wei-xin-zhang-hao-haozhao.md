@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "腾讯微信二维码。微信帐号：haozhao"
 date: 2011-12-13
 categories: 

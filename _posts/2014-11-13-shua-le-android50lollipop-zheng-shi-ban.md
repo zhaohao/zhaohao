@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "刷了Android 5.0 lollipop正式版"
 date: 2014-11-13
 categories: 

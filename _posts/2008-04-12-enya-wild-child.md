@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "Enya – Wild Child"
 date: 2008-04-12
 categories: 

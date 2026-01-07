@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "点阵样式的LED小时钟"
 date: 2015-09-18
 categories: 

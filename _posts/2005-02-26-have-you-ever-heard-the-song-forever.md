@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "Have you ever heard the song Forever?"
 date: 2005-02-26
 categories: 

@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "周一了，休息"
 date: 2008-12-08
 categories: 

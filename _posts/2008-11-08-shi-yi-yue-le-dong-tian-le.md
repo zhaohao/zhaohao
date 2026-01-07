@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "十一月了，冬天了"
 date: 2008-11-08
 categories: 

@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "今天回了次中大"
 date: 2009-03-08
 categories: 

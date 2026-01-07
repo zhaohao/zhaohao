@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "These Years | These Days"
 date: 2017-01-24
 categories: 

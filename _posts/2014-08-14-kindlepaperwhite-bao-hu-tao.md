@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "Kindle PaperWhite保护套"
 date: 2014-08-14
 categories: 

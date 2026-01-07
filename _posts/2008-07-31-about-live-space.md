@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "About Live Space"
 date: 2008-07-31
 categories: 

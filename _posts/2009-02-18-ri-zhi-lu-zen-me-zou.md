@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "日志：路怎么走"
 date: 2009-02-18
 categories: 

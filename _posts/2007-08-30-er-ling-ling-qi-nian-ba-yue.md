@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "二零零七年八月"
 date: 2007-08-30
 categories: 

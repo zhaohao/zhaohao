@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "The answer is blowing in the wind"
 date: 2009-03-21
 categories: 

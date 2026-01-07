@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "清澈之恋-杉野希妃"
 date: 2008-10-25
 categories: 

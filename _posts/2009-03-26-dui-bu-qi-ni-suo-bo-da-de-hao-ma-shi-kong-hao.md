@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "对不起，你所拨打的号码是空号"
 date: 2009-03-26
 categories: 

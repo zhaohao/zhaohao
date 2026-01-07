@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "使用UltraEdit快速插入Jekyll日志模板"
 date: 2017-03-15
 categories: 

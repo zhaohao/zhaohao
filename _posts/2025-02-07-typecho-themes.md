@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "Typecho主题"
 date: 2025-02-07
 categories: 

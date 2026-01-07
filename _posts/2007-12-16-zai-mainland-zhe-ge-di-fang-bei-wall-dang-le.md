@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "在MainLand这个地方被wall挡了"
 date: 2007-12-16
 categories: 

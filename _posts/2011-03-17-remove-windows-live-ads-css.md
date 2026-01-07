@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "Remove Windows live Ads CSS"
 date: 2011-03-17
 categories: 

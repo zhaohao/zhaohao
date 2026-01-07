@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "迟来的生日短信"
 date: 2006-12-06
 categories: 

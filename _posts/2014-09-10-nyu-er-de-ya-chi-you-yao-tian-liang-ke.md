@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "女儿的牙齿又要添两颗"
 date: 2014-09-10
 categories: 

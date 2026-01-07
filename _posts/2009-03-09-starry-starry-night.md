@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "Starry Starry Night"
 date: 2009-03-09
 categories: 

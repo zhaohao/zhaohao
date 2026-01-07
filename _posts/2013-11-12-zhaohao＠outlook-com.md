@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "ZhaoHao＠Outlook.com"
 date: 2013-11-12
 categories: 

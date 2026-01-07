@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "又是一年毕业时"
 date: 2006-06-23
 categories: 

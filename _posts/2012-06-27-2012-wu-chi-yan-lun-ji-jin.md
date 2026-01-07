@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "2012无耻言论集锦"
 date: 2012-06-27
 categories: 

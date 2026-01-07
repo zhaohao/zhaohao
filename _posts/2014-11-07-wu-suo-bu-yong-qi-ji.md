@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "无所不用其极"
 date: 2014-11-07
 categories: 

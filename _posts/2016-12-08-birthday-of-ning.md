@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "Birthday of Ning"
 date: 2016-12-08
 categories: 

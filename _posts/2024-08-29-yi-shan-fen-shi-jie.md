@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "一山分世界"
 date: 2024-08-29
 categories: 

@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "广州移动记录"
 date: 2021-01-03
 categories: 

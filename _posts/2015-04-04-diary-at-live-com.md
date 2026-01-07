@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "Diary At Live.com"
 date: 2015-04-04
 categories: 

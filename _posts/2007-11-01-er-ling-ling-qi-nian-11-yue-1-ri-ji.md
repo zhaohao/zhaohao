@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "二零零七年11月1日记"
 date: 2007-11-01
 categories: 

@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "Windows live messager 8.0"
 date: 2006-03-06
 categories: 

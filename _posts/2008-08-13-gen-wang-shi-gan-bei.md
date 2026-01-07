@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "跟往事干杯……"
 date: 2008-08-13
 categories: 

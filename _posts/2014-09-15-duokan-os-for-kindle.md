@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "Duokan os for Kindle"
 date: 2014-09-15
 categories: 

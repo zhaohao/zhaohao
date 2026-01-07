@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "又一次降温，又一次离开夏天"
 date: 2008-01-13
 categories: 

@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "梦一场 + 南山南"
 date: 2015-10-14
 categories: 

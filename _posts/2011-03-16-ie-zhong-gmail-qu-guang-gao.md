@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "IE中Gmail去广告"
 date: 2011-03-16
 categories: 

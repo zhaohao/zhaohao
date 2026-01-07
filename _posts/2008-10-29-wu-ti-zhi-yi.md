@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "无题之一"
 date: 2008-10-29
 categories: 

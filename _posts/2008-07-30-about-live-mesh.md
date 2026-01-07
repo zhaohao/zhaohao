@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "About Live Mesh"
 date: 2008-07-30
 categories: 

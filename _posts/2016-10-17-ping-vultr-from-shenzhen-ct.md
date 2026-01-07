@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "深圳电信Vultr测速Ping值"
 date: 2016-10-17
 categories: 

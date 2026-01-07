@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "Akeboshi-Wind"
 date: 2008-05-07
 categories: 

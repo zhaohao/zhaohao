@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "It's time to say goodbye……"
 date: 2007-11-08
 categories: 

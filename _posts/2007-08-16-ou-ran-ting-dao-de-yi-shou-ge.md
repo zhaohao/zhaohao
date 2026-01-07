@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "偶然听到的一首歌"
 date: 2007-08-16
 categories: 

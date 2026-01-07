@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "六月的一些图 202006"
 date: 2020-06-27
 categories: 

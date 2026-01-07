@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "告别了鼠年，明天还要继续"
 date: 2009-01-26
 categories: 

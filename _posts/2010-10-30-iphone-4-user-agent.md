@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "iPhone 4 user agent"
 date: 2010-10-30
 categories: 

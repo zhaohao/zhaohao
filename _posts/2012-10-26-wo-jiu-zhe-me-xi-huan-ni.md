@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "我就这么喜欢你……"
 date: 2012-10-26
 categories: 

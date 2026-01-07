@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "申请免费赛门铁克VeriSign-DV-SSL证书"
 date: 2016-11-12
 categories: 

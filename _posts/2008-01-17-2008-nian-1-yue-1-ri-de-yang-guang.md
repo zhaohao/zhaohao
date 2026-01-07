@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "2008年1月1日的阳光"
 date: 2008-01-17
 categories: 

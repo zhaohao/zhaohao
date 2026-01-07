@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "二〇一〇之五四"
 date: 2010-05-04
 categories: 

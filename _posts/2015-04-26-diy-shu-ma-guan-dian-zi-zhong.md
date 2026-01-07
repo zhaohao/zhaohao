@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "DIY数码管电子钟"
 date: 2015-04-26
 categories: 

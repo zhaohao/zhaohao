@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "Good Night"
 date: 2013-11-15
 categories: 

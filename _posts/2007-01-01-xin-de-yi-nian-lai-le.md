@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "新的一年来了"
 date: 2007-01-01
 categories: 

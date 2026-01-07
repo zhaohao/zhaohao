@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "那些花儿-范玮琪"
 date: 2008-07-20
 categories: 

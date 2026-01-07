@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "若伊又画了些画儿"
 date: 2017-04-15
 categories: 

@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "办公室空空荡荡了"
 date: 2010-05-20
 categories: 

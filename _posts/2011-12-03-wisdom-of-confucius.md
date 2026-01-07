@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "Wisdom of Confucius"
 date: 2011-12-03
 categories: 

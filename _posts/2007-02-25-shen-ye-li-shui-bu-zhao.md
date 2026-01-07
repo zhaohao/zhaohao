@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "深夜里睡不着"
 date: 2007-02-25
 categories: 

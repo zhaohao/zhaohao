@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "外面下雨了"
 date: 2007-04-03
 categories: 

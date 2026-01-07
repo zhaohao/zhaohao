@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "New Google Logo"
 date: 2015-09-03
 categories: 

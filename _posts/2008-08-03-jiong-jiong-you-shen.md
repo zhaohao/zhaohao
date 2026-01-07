@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "囧囧有“神”"
 date: 2008-08-03
 categories: 

@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "鬼迷心窍"
 date: 2011-05-19
 categories: 

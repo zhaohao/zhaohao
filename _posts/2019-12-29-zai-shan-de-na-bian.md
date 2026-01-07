@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "在山的那边"
 date: 2019-12-29
 categories: 

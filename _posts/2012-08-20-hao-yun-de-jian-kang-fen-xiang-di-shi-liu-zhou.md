@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "好孕的健康分享 第十六周"
 date: 2012-08-20
 categories: 

@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "天路遥、爱过流星"
 date: 2007-10-20
 categories: 

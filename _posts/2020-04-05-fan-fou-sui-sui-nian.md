@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "饭否碎碎念"
 date: 2020-04-05
 categories: 

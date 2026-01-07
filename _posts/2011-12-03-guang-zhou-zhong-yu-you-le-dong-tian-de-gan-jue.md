@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "广州终于有了冬天的感觉"
 date: 2011-12-03
 categories: 

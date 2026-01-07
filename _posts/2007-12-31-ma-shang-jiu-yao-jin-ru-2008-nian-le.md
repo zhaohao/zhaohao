@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "马上就要进入2008年了"
 date: 2007-12-31
 categories: 

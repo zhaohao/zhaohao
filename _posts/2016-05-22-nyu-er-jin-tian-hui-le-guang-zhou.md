@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "女儿今天回了广州"
 date: 2016-05-22
 categories: 

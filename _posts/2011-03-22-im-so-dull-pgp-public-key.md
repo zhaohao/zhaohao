@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "I'm so dull PGP Public key"
 date: 2011-03-22
 categories: 

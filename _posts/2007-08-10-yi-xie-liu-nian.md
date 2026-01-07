@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "一些留念"
 date: 2007-08-10
 categories: 

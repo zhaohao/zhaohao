@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "ThinkStation新的系统信息"
 date: 2015-09-18
 categories: 

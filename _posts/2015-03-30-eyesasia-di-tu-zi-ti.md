@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "EyesAsia - 地图字体"
 date: 2015-03-30
 categories: 

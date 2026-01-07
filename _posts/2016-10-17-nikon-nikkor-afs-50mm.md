@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "尼康尼克尔50mm定焦镜头"
 date: 2016-10-17
 categories: 

@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "Goodbaby童车"
 date: 2012-11-26
 categories: 

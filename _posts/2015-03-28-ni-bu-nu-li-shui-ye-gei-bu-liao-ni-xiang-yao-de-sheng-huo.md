@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "你不努力，谁也给不了你想要的生活[转]"
 date: 2015-03-28
 categories: 

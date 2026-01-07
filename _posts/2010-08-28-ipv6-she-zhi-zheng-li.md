@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "IPV6设置整理"
 date: 2010-08-28
 categories: 

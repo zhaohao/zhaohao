@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "Carl King:10 Myths About Introverts"
 date: 2011-04-13
 categories: 

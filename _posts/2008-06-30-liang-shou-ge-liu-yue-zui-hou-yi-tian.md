@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "两首歌-六月最后一天"
 date: 2008-06-30
 categories: 

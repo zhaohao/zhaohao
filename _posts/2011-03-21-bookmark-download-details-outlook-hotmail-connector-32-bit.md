@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "Bookmark-Download details: Outlook Hotmail Connector 32-bit"
 date: 2011-03-21
 categories: 

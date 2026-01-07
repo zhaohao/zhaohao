@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "天落雨了，心情和天气一样"
 date: 2006-11-27
 categories: 

@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "一幅图片"
 date: 2007-02-26
 categories: 

@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "心不定，心不静，状态不好~"
 date: 2010-04-21
 categories: 

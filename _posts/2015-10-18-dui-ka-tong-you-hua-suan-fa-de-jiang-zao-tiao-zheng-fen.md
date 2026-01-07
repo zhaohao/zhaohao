@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "对卡通优化算法的降噪调整分辨率工具"
 date: 2015-10-18
 categories: 

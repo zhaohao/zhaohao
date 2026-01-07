@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "今天难得有很灿烂的阳光"
 date: 2007-04-18
 categories: 

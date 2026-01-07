@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "新冠病毒立体示意图"
 date: 2021-01-23
 categories: 

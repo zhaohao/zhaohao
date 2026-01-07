@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "看到她写下的文字"
 date: 2009-05-15
 categories: 

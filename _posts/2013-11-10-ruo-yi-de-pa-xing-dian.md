@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "若伊的爬行垫"
 date: 2013-11-10
 categories: 

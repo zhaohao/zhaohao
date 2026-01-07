@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "In my Secret Life"
 date: 2008-06-05
 categories: 

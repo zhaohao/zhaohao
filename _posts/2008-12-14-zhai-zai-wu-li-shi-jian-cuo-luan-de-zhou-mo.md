@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "宅在屋里时间错乱的周末"
 date: 2008-12-14
 categories: 

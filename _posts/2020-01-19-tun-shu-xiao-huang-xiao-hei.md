@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "豚鼠小黄小黑"
 date: 2020-01-19
 categories: 

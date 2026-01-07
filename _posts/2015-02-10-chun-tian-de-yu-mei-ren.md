@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "春天的虞美人"
 date: 2015-02-10
 categories: 

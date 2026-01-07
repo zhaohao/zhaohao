@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "New Outlook.com Mail"
 date: 2015-07-26
 categories: 

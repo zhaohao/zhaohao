@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "K歌之王"
 date: 2008-10-11
 categories: 

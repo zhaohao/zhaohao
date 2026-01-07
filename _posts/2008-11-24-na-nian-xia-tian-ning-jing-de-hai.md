@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "那年夏天，宁静的海"
 date: 2008-11-24
 categories: 

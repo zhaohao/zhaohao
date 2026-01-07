@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "Bluehost空间订购"
 date: 2014-07-03
 categories: 

@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "伸手摘星"
 date: 2006-11-26
 categories: 

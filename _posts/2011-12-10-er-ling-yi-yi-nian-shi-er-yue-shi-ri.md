@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "贰零壹壹年拾贰月拾日"
 date: 2011-12-10
 categories: 

@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "[8897]天河棠下，不知还要在这多久"
 date: 2009-04-12
 categories: 

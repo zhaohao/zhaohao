@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "有几个月没有打开过Windows Live Writer"
 date: 2008-02-23
 categories: 

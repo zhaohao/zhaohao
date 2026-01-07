@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "Goagent客户端漏洞"
 date: 2014-12-06
 categories: 

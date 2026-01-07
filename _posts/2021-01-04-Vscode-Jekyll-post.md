@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "VSCode中插入jekyll文章模版"
 date: 2021-01-04
 categories: 

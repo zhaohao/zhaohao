@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "二月二十六小记"
 date: 2007-02-26
 categories: 

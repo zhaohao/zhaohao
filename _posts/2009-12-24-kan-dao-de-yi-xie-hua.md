@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "看到的一些话"
 date: 2009-12-24
 categories: 

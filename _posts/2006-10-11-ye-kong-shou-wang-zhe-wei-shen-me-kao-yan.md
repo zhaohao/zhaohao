@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "夜空守望者－为什么考研？"
 date: 2006-10-11
 categories: 

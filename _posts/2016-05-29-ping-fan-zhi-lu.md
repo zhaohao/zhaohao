@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "平凡之路"
 date: 2016-05-29
 categories: 

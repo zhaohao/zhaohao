@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "叽歪二零零八年六月"
 date: 2008-06-01
 categories: 

@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "[8888]我做过些什么呢？"
 date: 2009-04-03
 categories: 

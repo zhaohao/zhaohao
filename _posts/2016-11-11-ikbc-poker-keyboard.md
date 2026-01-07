@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "IKBC-Poker-Keyboard"
 date: 2016-11-11
 categories: 

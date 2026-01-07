@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "欲无止境"
 date: 2010-12-18
 categories: 

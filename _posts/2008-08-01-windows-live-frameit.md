@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "Windows Live FrameIt"
 date: 2008-08-01
 categories: 

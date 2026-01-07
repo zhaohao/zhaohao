@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "有时候突然找不到自己"
 date: 2010-11-05
 categories: 

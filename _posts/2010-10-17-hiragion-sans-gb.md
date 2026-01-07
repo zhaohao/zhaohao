@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "Hiragion Sans GB"
 date: 2010-10-17
 categories: 

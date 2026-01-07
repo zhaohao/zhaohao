@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "比尔·盖茨哈佛大学毕业典礼演讲翻译"
 date: 2007-08-03
 categories: 

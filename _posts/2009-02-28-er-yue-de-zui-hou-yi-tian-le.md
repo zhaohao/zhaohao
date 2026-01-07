@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "二月的最后一天了"
 date: 2009-02-28
 categories: 

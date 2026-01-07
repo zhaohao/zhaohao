@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "[8905]好像今天一天还是没做什么事情"
 date: 2009-04-21
 categories: 

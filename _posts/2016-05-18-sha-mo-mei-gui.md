@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "沙漠玫瑰"
 date: 2016-05-18
 categories: 

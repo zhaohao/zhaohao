@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "国内域名转移问题"
 date: 2009-04-14
 categories: 

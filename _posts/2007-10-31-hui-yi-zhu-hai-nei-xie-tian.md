@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "回忆珠海、那些天"
 date: 2007-10-31
 categories: 

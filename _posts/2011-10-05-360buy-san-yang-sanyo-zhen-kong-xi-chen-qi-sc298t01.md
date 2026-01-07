@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "360buy 三洋（SANYO）真空吸尘器SC-298T-01"
 date: 2011-10-05
 categories: 

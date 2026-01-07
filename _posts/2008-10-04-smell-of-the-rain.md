@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "Smell of the rain"
 date: 2008-10-04
 categories: 

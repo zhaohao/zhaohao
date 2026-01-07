@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "从此沉默于此。。。"
 date: 2006-09-12
 categories: 

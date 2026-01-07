@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "二〇一五一二〇三"
 date: 2015-12-03
 categories: 

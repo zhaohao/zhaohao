@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "This Weekend"
 date: 2008-07-20
 categories: 

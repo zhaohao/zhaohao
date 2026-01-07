@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "[8890]周末，无所事事……"
 date: 2009-04-05
 categories: 

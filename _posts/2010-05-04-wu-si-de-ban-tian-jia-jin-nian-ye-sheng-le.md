@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "五四的半天假今年也省了"
 date: 2010-05-04
 categories: 

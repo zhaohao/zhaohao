@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "陈奕迅 - 爱情转移"
 date: 2007-09-07
 categories: 

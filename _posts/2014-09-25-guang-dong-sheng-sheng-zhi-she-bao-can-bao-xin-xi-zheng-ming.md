@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "广东省省直社保参保信息证明"
 date: 2014-09-25
 categories: 

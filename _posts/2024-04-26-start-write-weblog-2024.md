@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "重拾这个博客"
 date: 2024-04-26
 categories: 

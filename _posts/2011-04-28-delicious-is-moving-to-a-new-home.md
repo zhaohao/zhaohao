@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "Delicious is moving to a new home"
 date: 2011-04-28
 categories: 

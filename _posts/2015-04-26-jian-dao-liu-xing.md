@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "见到流星"
 date: 2015-04-26
 categories: 

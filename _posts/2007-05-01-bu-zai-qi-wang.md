@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "不再期望"
 date: 2007-05-01
 categories: 

@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "十个半月"
 date: 2014-01-18
 categories: 

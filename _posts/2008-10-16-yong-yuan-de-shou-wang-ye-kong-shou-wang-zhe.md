@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "永远的守望-夜空守望者"
 date: 2008-10-16
 categories: 

@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "为什么这么忧伤"
 date: 2008-07-06
 categories: 

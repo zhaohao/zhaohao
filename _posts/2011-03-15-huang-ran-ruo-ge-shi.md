@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "恍然若隔世"
 date: 2011-03-15
 categories: 

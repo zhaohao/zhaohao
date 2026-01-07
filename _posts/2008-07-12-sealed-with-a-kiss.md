@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "Sealed with a kiss"
 date: 2008-07-12
 categories: 

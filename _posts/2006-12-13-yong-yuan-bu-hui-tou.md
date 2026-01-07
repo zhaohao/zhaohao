@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "永远不回头"
 date: 2006-12-13
 categories: 

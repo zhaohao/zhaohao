@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "[8920]五月五日，立夏Summer begins"
 date: 2009-05-05
 categories: 

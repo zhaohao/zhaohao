@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "等待暑假周记事"
 date: 2024-07-10
 categories: 

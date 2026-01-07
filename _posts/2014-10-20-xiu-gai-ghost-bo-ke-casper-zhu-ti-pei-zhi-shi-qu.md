@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "修改Ghost博客Casper主题，配置时区"
 date: 2014-10-20
 categories: 

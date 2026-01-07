@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "Chrome各版本下载集合"
 date: 2010-12-23
 categories: 

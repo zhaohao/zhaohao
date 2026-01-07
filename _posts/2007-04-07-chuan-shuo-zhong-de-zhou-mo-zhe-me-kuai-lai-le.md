@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "传说中的周末这么快来了？"
 date: 2007-04-07
 categories: 

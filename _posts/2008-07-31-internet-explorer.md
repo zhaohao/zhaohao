@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "Internet Explorer"
 date: 2008-07-31
 categories: 

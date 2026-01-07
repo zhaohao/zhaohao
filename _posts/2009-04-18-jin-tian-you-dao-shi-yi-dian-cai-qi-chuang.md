@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "今天又到十一点才起床"
 date: 2009-04-18
 categories: 

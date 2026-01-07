@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "Misfortunes never come singly"
 date: 2015-01-21
 categories: 

@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "转载: 拖延症 (Procrastination)"
 date: 2011-05-31
 categories: 

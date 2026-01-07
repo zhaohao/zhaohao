@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "阳光明媚"
 date: 2021-01-13
 categories: 

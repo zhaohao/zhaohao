@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "Google Play上又花了$0.99"
 date: 2015-12-11
 categories: 

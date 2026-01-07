@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "2007广州寂寞烟花"
 date: 2007-11-11
 categories: 

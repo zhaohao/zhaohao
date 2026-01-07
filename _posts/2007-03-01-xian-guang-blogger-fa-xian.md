@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "闲逛Blogger发现"
 date: 2007-03-01
 categories: 

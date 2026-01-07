@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "在学校的最后一天"
 date: 2007-07-04
 categories: 

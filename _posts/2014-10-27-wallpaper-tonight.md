@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "WallPaper Tonight"
 date: 2014-10-27
 categories: 

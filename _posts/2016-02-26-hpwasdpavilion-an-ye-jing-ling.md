@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "HP-WASD-Pavilion暗夜精灵"
 date: 2016-02-26
 categories: 

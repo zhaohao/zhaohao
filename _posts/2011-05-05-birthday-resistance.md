@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "Birthday Resistance"
 date: 2011-05-05
 categories: 

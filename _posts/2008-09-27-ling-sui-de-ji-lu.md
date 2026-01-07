@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "零碎的记录"
 date: 2008-09-27
 categories: 

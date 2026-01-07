@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "汆水后的马齿苋"
 date: 2014-08-30
 categories: 

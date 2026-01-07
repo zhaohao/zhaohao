@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "心里很乱"
 date: 2009-03-26
 categories: 

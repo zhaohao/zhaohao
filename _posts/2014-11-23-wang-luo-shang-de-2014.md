@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "网络上的2014"
 date: 2014-11-23
 categories: 

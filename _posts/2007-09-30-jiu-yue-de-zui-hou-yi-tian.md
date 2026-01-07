@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "九月的最后一天"
 date: 2007-09-30
 categories: 

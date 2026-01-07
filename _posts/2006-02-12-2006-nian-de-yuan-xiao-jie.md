@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "2006年的元宵节"
 date: 2006-02-12
 categories: 

@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "从相识相知到走到一起"
 date: 2009-07-18
 categories: 

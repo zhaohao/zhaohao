@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "Day 297 of 2016"
 date: 2016-10-23
 categories: 

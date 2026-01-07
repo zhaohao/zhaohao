@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "一周小记（01）"
 date: 2007-10-11
 categories: 

@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "Windows 7 Mklink"
 date: 2010-10-23
 categories: 

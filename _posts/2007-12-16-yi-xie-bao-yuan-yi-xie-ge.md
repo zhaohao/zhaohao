@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "一些抱怨、一些歌"
 date: 2007-12-16
 categories: 

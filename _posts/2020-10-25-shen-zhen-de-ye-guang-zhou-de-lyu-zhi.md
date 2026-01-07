@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "深圳的夜广州的绿植"
 date: 2020-10-25
 categories: 

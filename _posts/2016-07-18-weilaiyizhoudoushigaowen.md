@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "未来一周都是高温"
 date: 2016-07-18
 categories: 

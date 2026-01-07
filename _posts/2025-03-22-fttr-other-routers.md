@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "目前的网络设置"
 date: 2025-03-22
 categories: 

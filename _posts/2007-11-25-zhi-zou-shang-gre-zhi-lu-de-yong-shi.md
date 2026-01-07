@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "致走上GRE之路的勇士"
 date: 2007-11-25
 categories: 

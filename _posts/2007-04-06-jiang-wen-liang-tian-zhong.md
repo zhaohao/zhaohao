@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "降温两天中"
 date: 2007-04-06
 categories: 

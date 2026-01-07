@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "[8916]已经是五一了"
 date: 2009-05-01
 categories: 

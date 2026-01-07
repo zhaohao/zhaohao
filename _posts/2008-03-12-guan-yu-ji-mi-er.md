@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "關于幾米（二）"
 date: 2008-03-12
 categories: 

@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "雨季,Summer"
 date: 2011-06-17
 categories: 

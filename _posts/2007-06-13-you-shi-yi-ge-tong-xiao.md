@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "又是一个通宵"
 date: 2007-06-13
 categories: 

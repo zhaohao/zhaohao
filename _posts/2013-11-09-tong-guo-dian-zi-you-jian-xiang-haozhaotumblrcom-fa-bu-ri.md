@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "通过电子邮件向haozhao.tumblr.com发布日志"
 date: 2013-11-09
 categories: 

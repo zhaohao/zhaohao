@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "生日快乐歌"
 date: 2009-03-26
 categories: 

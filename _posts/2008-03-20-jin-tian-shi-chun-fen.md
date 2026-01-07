@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "今天是春分"
 date: 2008-03-20
 categories: 

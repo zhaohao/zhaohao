@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "Office Live帐号还没审批下来，白等一天"
 date: 2007-03-02
 categories: 

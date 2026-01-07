@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "iPad User Agent"
 date: 2011-03-12
 categories: 

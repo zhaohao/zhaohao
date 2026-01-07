@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "你不是真正的快乐"
 date: 2008-12-01
 categories: 

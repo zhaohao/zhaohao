@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "百度地图"
 date: 2014-08-12
 categories: 

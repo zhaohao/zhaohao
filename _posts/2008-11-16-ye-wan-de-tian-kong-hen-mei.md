@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "夜晚的天空很美"
 date: 2008-11-16
 categories: 

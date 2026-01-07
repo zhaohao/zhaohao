@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "好孕的健康分享 第十二周"
 date: 2012-07-24
 categories: 

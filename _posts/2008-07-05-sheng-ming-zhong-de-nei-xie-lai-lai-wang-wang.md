@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "生命中的那些来来往往"
 date: 2008-07-05
 categories: 

@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "若伊今天又发烧了"
 date: 2014-09-05
 categories: 

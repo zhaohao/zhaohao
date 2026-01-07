@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "Kindle Paperwhite"
 date: 2014-08-07
 categories: 

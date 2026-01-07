@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "Windows10手动添加OEM信息"
 date: 2015-09-21
 categories: 

@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "清理Google APP Mail"
 date: 2010-12-07
 categories: 

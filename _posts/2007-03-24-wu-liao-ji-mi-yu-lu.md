@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "无聊-几米语录"
 date: 2007-03-24
 categories: 

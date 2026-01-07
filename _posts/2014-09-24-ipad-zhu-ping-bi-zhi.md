@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "iPad主屏壁纸"
 date: 2014-09-24
 categories: 

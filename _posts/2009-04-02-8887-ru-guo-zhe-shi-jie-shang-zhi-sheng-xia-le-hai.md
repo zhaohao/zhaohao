@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "[8887]如果这世界上只剩下了海"
 date: 2009-04-02
 categories: 

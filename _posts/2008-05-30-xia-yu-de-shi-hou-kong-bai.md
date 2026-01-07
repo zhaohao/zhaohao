@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "下雨的时候&空白"
 date: 2008-05-30
 categories: 

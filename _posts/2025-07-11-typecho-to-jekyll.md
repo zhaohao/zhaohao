@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "从Typecho导出到Jekyll"
 date: 2025-07-11
 categories: 

@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "一些人,一些事,一些心情"
 date: 2008-02-29
 categories: 

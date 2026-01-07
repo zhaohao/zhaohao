@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "手机测速记录"
 date: 2021-01-25
 categories: 

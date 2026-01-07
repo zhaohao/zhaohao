@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "又是一天虚无飘渺的生活"
 date: 2006-12-02
 categories: 

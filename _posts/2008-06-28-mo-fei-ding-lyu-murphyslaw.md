@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "墨菲定律(Murphy's Law)"
 date: 2008-06-28
 categories: 

@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "We Are The Champions"
 date: 2014-10-07
 categories: 

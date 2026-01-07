@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "爱乐团-死而无憾"
 date: 2008-06-30
 categories: 

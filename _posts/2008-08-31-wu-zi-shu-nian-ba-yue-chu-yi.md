@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "戊子鼠年八月初一"
 date: 2008-08-31
 categories: 

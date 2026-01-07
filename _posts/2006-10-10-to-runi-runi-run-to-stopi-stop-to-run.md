@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "To Run,I Run,I Run To Stop,I Stop To Run"
 date: 2006-10-10
 categories: 

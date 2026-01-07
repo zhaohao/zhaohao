@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "夜空中最亮的星"
 date: 2014-07-27
 categories: 

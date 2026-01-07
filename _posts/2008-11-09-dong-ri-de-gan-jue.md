@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "冬日的感觉"
 date: 2008-11-09
 categories: 

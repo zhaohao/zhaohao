@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "40 questions to ask yourself every year"
 date: 2025-04-12
 categories: 

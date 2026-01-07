@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "若伊讲故事之狼来了"
 date: 2017-11-07
 categories: 

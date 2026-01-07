@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "真的好想你"
 date: 2007-02-26
 categories: 

@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "北美电话区号一览"
 date: 2014-08-29
 categories: 

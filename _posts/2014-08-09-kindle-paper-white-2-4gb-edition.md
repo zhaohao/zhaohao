@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "Kindle Paper White 2 4GB Edition"
 date: 2014-08-09
 categories: 

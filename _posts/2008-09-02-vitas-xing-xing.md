@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "VITAS-星星"
 date: 2008-09-02
 categories: 

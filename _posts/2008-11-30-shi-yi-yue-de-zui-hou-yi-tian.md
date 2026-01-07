@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "十一月的最后一天"
 date: 2008-11-30
 categories: 

@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "大手握小手"
 date: 2017-01-04
 categories: 

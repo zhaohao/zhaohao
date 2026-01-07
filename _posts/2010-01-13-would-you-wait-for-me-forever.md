@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "would you wait for me forever"
 date: 2010-01-13
 categories: 

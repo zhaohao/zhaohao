@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "人，一定要活在当下！"
 date: 2008-10-06
 categories: 

@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "Fwd: An invitation to ifttt"
 date: 2011-07-28
 categories: 

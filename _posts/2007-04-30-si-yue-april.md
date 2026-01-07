@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "四月 April"
 date: 2007-04-30
 categories: 

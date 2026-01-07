@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "This bunny really wants his bed back!"
 date: 2009-03-03
 categories: 

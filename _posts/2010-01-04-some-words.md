@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "Some Words"
 date: 2010-01-04
 categories: 

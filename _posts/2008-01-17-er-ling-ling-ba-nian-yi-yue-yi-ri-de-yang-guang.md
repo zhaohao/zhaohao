@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "二零零八年一月一日的阳光"
 date: 2008-01-17
 categories: 

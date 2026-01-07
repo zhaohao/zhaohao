@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "Tagore Words"
 date: 2011-03-05
 categories: 

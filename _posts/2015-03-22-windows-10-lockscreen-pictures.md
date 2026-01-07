@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "Windows 10 LockScreen Pictures"
 date: 2015-03-22
 categories: 

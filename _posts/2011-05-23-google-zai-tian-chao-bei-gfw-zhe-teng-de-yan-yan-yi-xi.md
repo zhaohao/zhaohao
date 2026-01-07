@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "Google在兲朝被GFW折腾的奄奄一息"
 date: 2011-05-23
 categories: 

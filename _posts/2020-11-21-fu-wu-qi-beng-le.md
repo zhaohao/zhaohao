@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "服务器崩了"
 date: 2020-11-21
 categories: 

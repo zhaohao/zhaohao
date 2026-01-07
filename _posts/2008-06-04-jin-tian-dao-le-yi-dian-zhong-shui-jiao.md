@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "今天到了一点钟睡觉"
 date: 2008-06-04
 categories: 

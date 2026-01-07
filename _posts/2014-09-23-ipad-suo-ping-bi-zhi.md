@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "iPad锁屏壁纸"
 date: 2014-09-23
 categories: 

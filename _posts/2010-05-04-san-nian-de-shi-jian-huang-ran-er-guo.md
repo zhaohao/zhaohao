@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "三年的时间恍然而过"
 date: 2010-05-04
 categories: 

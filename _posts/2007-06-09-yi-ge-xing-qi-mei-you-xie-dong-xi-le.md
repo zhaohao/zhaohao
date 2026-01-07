@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "一个星期没有写东西了"
 date: 2007-06-09
 categories: 
