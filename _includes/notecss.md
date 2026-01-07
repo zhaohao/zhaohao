@@ -1,6 +1,6 @@
 <style type="text/css">
 :root{
---bgcolor:#e1e1e1;
+--bgcolor:#e9eded;
 --darknumer:0;
 --darkdegree:0deg;
 }
@@ -12,7 +12,7 @@
 [data-theme="light"] {
 --darknumer:0;
 --darkdegree:0deg;
---bgcolor:#e1e1e1;
+--bgcolor:#e9eded;
 }
 
 .toggle{
@@ -54,13 +54,13 @@ pre {
   filter: invert(var(--darknumer)) hue-rotate(var(--darkdegree));
 }
 hr::after {
-  background: #f1eeed;
+  background: #e9eded;
 }
 .list-page a {
-	background: #f1eeed;
+	background: #e9eded;
 }
 .current-page {
-	background: #f1eeed;
+	background: #e9eded;
 }
 #tag_cloud {
   padding: 1em 0;
@@ -76,7 +76,7 @@ hr::after {
   box-shadow: 0 2px 8px rgba(0,0,0,.3);
   overflow: hidden;
   line-height: 30px;
-  background: #f4f4f4;
+  background: #fefefe;
   -webkit-backdrop-filter: blur(20px);
   -moz-backdrop-filter: blur(20px);
   backdrop-filter: blur(20px);
@@ -90,7 +90,7 @@ hr::after {
   width: 60px;
   background: radial-gradient(#aaaaaa 6px, transparent 7px) repeat-y;
   background-size: 30px 30px;
-  border-right: 0px solid #f1eeed00;
+  border-right: 0px solid #e9eded00;
   box-sizing: border-box;
 }
 .paper-content {
