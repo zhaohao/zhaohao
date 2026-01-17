@@ -1,6 +1,7 @@
 ---
-layout: post
+layout: post 
 title: "blogger&毕业"
+draft: false 
 date: 2007-05-28
 categories: 
   - "weblog"

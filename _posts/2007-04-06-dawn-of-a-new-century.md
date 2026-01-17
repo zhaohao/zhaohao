@@ -1,6 +1,7 @@
 ---
-layout: post
+layout: post 
 title: "Dawn of a New Century"
+draft: false 
 date: 2007-04-06
 categories: 
   - "weblog"

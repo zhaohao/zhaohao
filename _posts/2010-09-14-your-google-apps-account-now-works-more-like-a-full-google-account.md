@@ -1,6 +1,7 @@
 ---
-layout: post
+layout: post 
 title: "Your Google Apps account now works more like a full Google Account"
+draft: false 
 date: 2010-09-14
 categories: 
   - "weblog"
@@ -13,12 +14,12 @@ Your Google Apps account has been successfully transitioned to function more lik
 What this change means for you:
 
 - **Access to many more Google products.** You will now be able to use most Google products with your [zhaohao.org](http://zhaohao.org/) accounts. For a sample, see our [list of products](http://www.google.com/options/).
-- **New sign in option.** You can now sign in to Google services from the regular sign-in pages (like [http://mail.google.com](http://mail.google.com/)). Make sure to enter your full [zhaohao.org](http://zhaohao.org/) email address when signing in. [Learn more](http://www.google.com/support/accounts/bin/answer.py?answer=181703).
+- **New sign in option.** You can now sign in to Google services from the regular sign-in pages (like [http://mail.google.com](http://mail.google.com/). Make sure to enter your full [zhaohao.org](http://zhaohao.org/) email address when signing in. [Learn more](http://www.google.com/support/accounts/bin/answer.py?answer=181703).
 - **Data ownership.** All data contained in [zhaohao.org](http://zhaohao.org/) Google Apps accounts continues to be owned by your organization, and is subject to [zhaohao.org](http://zhaohao.org/)'s terms and conditions. [Learn more](http://www.google.com/support/accounts/bin/answer.py?answer=181692)
 
 Common issues:
 
-- **Using multiple accounts.** After the conversion, the process to sign in to multiple accounts simultaneously in your browser ([What is a browser?](http://www.whatbrowser.org/en/)) will change. [Learn more](http://www.google.com/support/accounts/bin/answer.py?answer=182172)
+- **Using multiple accounts.** After the conversion, the process to sign in to multiple accounts simultaneously in your browser ([What is a browser?](http://www.whatbrowser.org/en/) will change. [Learn more](http://www.google.com/support/accounts/bin/answer.py?answer=182172)
 - **Offline support for certain Google products aren't currently available.** [Learn more](http://www.google.com/support/accounts/bin/answer.py?answer=184175)
 
 Still have questions or need more help?

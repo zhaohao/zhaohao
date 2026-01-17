@@ -1,6 +1,7 @@
 ---
-layout: post
+layout: post 
 title: "一周小记（01）"
+draft: false 
 date: 2007-10-11
 categories: 
   - "weblog"

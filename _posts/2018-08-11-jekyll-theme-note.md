@@ -1,6 +1,7 @@
 ---
-layout: post
+layout: post 
 title: "做了一个Jekyll的信纸主题"
+draft: false 
 date: 2018-08-11
 categories: 
   - "weblog"

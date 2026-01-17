@@ -1,6 +1,7 @@
 ---
-layout: post
+layout: post 
 title: "新的一年来了"
+draft: false 
 date: 2007-01-01
 categories: 
   - "weblog"

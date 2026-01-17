@@ -1,6 +1,7 @@
 ---
-layout: post
+layout: post 
 title: "从Typecho导出到Jekyll"
+draft: false 
 date: 2025-07-11
 categories: 
   - "memos"

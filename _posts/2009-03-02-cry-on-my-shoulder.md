@@ -1,6 +1,7 @@
 ---
-layout: post
+layout: post 
 title: "Cry on my Shoulder"
+draft: false 
 date: 2009-03-02
 categories: 
   - "weblog"

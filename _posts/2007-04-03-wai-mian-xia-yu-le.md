@@ -1,6 +1,7 @@
 ---
-layout: post
+layout: post 
 title: "外面下雨了"
+draft: false 
 date: 2007-04-03
 categories: 
   - "weblog"

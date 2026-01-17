@@ -1,6 +1,7 @@
 ---
-layout: post
+layout: post 
 title: "Enya – Wild Child"
+draft: false 
 date: 2008-04-12
 categories: 
   - "weblog"

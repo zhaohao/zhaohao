@@ -1,6 +1,7 @@
 ---
-layout: post
+layout: post 
 title: "若伊讲故事之狼来了"
+draft: false 
 date: 2017-11-07
 categories: 
   - "default"

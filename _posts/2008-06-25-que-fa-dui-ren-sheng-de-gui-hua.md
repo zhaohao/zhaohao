@@ -1,6 +1,7 @@
 ---
-layout: post
+layout: post 
 title: "缺乏对人生的规划"
+draft: false 
 date: 2008-06-25
 categories: 
   - "weblog"

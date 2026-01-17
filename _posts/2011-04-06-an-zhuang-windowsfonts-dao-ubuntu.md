@@ -1,6 +1,7 @@
 ---
-layout: post
+layout: post 
 title: "安装windows Fonts到ubuntu"
+draft: false 
 date: 2011-04-06
 categories: 
   - "weblog"

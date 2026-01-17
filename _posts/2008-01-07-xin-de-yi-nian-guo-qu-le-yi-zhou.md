@@ -1,6 +1,7 @@
 ---
-layout: post
+layout: post 
 title: "新的一年过去了一周"
+draft: false 
 date: 2008-01-07
 categories: 
   - "weblog"

@@ -1,6 +1,7 @@
 ---
-layout: post
+layout: post 
 title: "一些零碎的东西"
+draft: false 
 date: 2008-09-11
 categories: 
   - "weblog"

@@ -1,6 +1,7 @@
 ---
-layout: post
+layout: post 
 title: "二零零七- 叽歪-存档"
+draft: false 
 date: 2007-12-31
 categories: 
   - "weblog"

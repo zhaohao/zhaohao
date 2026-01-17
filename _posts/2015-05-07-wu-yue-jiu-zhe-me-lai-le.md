@@ -1,6 +1,7 @@
 ---
-layout: post
+layout: post 
 title: "五月就这么来了"
+draft: false 
 date: 2015-05-07
 categories: 
   - "weblog"

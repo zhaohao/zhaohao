@@ -1,6 +1,7 @@
 ---
-layout: post
+layout: post 
 title: "体验了一下通宵的感觉"
+draft: false 
 date: 2007-05-30
 categories: 
   - "weblog"

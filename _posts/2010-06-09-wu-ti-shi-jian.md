@@ -1,6 +1,7 @@
 ---
-layout: post
+layout: post 
 title: "无题-时间"
+draft: false 
 date: 2010-06-09
 categories: 
   - "weblog"

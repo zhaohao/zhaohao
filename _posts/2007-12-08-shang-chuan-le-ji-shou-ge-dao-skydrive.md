@@ -1,6 +1,7 @@
 ---
-layout: post
+layout: post 
 title: "上传了几首歌到skydrive"
+draft: false 
 date: 2007-12-08
 categories: 
   - "weblog"

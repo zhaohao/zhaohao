@@ -1,6 +1,7 @@
 ---
-layout: post
+layout: post 
 title: "Naruto-青鸟"
+draft: false 
 date: 2008-08-06
 categories: 
   - "weblog"

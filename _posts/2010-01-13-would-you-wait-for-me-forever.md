@@ -1,6 +1,7 @@
 ---
-layout: post
+layout: post 
 title: "would you wait for me forever"
+draft: false 
 date: 2010-01-13
 categories: 
   - "weblog"

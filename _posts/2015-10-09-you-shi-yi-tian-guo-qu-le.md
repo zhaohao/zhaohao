@@ -1,6 +1,7 @@
 ---
-layout: post
+layout: post 
 title: "又是一天过去了"
+draft: false 
 date: 2015-10-09
 categories: 
   - "weblog"

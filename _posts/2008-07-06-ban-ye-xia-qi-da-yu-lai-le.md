@@ -1,6 +1,7 @@
 ---
-layout: post
+layout: post 
 title: "半夜下起大雨来了"
+draft: false 
 date: 2008-07-06
 categories: 
   - "weblog"

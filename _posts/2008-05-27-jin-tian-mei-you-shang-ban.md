@@ -1,6 +1,7 @@
 ---
-layout: post
+layout: post 
 title: "今天没有上班"
+draft: false 
 date: 2008-05-27
 categories: 
   - "weblog"

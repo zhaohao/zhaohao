@@ -1,6 +1,7 @@
 ---
-layout: post
+layout: post 
 title: "QQ隐身一族"
+draft: false 
 date: 2008-10-10
 categories: 
   - "weblog"

@@ -1,6 +1,7 @@
 ---
-layout: post
+layout: post 
 title: "新的一周，不好的开始……"
+draft: false 
 date: 2007-09-03
 categories: 
   - "weblog"

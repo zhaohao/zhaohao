@@ -1,6 +1,7 @@
 ---
-layout: post
+layout: post 
 title: "[8886]夜里，静静的"
+draft: false 
 date: 2009-04-01
 categories: 
   - "weblog"

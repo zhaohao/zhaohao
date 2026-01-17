@@ -1,6 +1,7 @@
 ---
-layout: post
+layout: post 
 title: "Friday-又是周五，过得太快"
+draft: false 
 date: 2008-09-19
 categories: 
   - "weblog"

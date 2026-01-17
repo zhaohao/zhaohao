@@ -1,6 +1,7 @@
 ---
-layout: post
+layout: post 
 title: "春节过完，明天返校"
+draft: false 
 date: 2007-02-28
 categories: 
   - "weblog"

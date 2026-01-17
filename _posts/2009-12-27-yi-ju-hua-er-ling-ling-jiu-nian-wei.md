@@ -1,6 +1,7 @@
 ---
-layout: post
+layout: post 
 title: "一句话二零零九年尾"
+draft: false 
 date: 2009-12-27
 categories: 
   - "weblog"

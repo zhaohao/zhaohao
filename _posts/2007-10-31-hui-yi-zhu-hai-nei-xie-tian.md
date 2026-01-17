@@ -1,6 +1,7 @@
 ---
-layout: post
+layout: post 
 title: "回忆珠海、那些天"
+draft: false 
 date: 2007-10-31
 categories: 
   - "weblog"

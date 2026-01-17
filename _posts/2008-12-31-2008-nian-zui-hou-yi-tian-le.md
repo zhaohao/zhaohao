@@ -1,6 +1,7 @@
 ---
-layout: post
+layout: post 
 title: "2008年最后一天了"
+draft: false 
 date: 2008-12-31
 categories: 
   - "weblog"
@@ -17,9 +18,9 @@ categories:
 偶然发现一个桌面涂鸦的小软件，无聊的涂了两下……  
   
 还有不到半个小时就要进入另一个年份了，希望一切都会好起来！  
-[![20081231-1-777902](images/20081231-1-777902.png)](https://zme.life/wp-content/uploads/20081231-1-777902.png)  
+![20081231-1-777902](/images/20081231-1-777902.png)  
   
-[![20081231-2-778614](images/20081231-2-778614.png)](https://zme.life/wp-content/uploads/20081231-2-778614.png)  
+![20081231-2-778614](/images/20081231-2-778614.png)  
   
 Posted on 2008-12-31 23:33
 

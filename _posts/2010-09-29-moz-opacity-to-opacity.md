@@ -1,6 +1,7 @@
 ---
-layout: post
+layout: post 
 title: "-moz-opacity to opacity"
+draft: false 
 date: 2010-09-29
 categories: 
   - "weblog"

@@ -1,6 +1,7 @@
 ---
-layout: post
+layout: post 
 title: "This bunny really wants his bed back!"
+draft: false 
 date: 2009-03-03
 categories: 
   - "weblog"

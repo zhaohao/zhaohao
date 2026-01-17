@@ -1,6 +1,7 @@
 ---
-layout: post
+layout: post 
 title: "《越长大越孤单》歌词"
+draft: false 
 date: 2009-09-26
 categories: 
   - "weblog"

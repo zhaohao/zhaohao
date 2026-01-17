@@ -1,6 +1,7 @@
 ---
-layout: post
+layout: post 
 title: "深夜里睡不着"
+draft: false 
 date: 2007-02-25
 categories: 
   - "weblog"

@@ -1,6 +1,7 @@
 ---
-layout: post
+layout: post 
 title: "梦一场 + 南山南"
+draft: false 
 date: 2015-10-14
 categories: 
   - "weblog"

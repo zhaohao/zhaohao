@@ -1,6 +1,7 @@
 ---
-layout: post
+layout: post 
 title: "About Live Space"
+draft: false 
 date: 2008-07-31
 categories: 
   - "weblog"

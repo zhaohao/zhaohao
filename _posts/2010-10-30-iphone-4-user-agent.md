@@ -1,6 +1,7 @@
 ---
-layout: post
+layout: post 
 title: "iPhone 4 user agent"
+draft: false 
 date: 2010-10-30
 categories: 
   - "weblog"

@@ -1,6 +1,7 @@
 ---
-layout: post
+layout: post 
 title: "今天是春分"
+draft: false 
 date: 2008-03-20
 categories: 
   - "weblog"

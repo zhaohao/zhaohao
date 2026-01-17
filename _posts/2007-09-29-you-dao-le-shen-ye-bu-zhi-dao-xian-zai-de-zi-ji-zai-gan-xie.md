@@ -1,6 +1,7 @@
 ---
-layout: post
+layout: post 
 title: "又到了深夜，不知道现在的自己在干些什么"
+draft: false 
 date: 2007-09-29
 categories: 
   - "weblog"

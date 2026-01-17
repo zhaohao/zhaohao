@@ -1,6 +1,7 @@
 ---
-layout: post
+layout: post 
 title: "思虑了好久,最后确定"
+draft: false 
 date: 2008-01-27
 categories: 
   - "weblog"

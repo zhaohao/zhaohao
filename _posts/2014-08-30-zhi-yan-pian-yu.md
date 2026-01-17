@@ -1,6 +1,7 @@
 ---
-layout: post
+layout: post 
 title: "只言片语"
+draft: false 
 date: 2014-08-30
 categories: 
   - "weblog"

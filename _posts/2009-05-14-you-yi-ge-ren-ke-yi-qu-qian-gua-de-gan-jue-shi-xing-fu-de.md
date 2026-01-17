@@ -1,6 +1,7 @@
 ---
-layout: post
+layout: post 
 title: "有一个人可以去牵挂的感觉是幸福的……"
+draft: false 
 date: 2009-05-14
 categories: 
   - "weblog"

@@ -1,12 +1,13 @@
 ---
-layout: post
+layout: post 
 title: "申请免费赛门铁克VeriSign-DV-SSL证书"
+draft: false 
 date: 2016-11-12
 categories: 
   - "weblog"
 ---
 
-![20111111-20161111](images/2016-11-12-symantec-dv-ssl.jpg)
+![20111111-20161111](/images/2016-11-12-symantec-dv-ssl.jpg)
 
 经过了StartSSL风波，最近一直使用acme.sh签署Let's Encrypt的ECC证书。  
 今天偶然发现通过阿里云可以免费签署赛门铁克VeriSign的DV域名验证级别的一年期证书，马上尝试了下。

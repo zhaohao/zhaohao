@@ -1,6 +1,7 @@
 ---
-layout: post
+layout: post 
 title: "Tagore Words"
+draft: false 
 date: 2011-03-05
 categories: 
   - "weblog"

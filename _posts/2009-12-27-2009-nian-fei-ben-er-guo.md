@@ -1,6 +1,7 @@
 ---
-layout: post
+layout: post 
 title: "2009年飞奔而过"
+draft: false 
 date: 2009-12-27
 categories: 
   - "weblog"

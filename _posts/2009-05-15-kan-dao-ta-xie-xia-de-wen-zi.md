@@ -1,6 +1,7 @@
 ---
-layout: post
+layout: post 
 title: "看到她写下的文字"
+draft: false 
 date: 2009-05-15
 categories: 
   - "weblog"

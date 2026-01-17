@@ -1,6 +1,7 @@
 ---
-layout: post
+layout: post 
 title: "尘埃落定"
+draft: false 
 date: 2007-05-26
 categories: 
   - "weblog"

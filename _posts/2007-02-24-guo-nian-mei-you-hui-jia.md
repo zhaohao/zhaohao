@@ -1,6 +1,7 @@
 ---
-layout: post
+layout: post 
 title: "过年，没有回家"
+draft: false 
 date: 2007-02-24
 categories: 
   - "weblog"

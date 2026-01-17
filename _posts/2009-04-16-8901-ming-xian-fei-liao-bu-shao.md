@@ -1,6 +1,7 @@
 ---
-layout: post
+layout: post 
 title: "[8901]明显肥了不少"
+draft: false 
 date: 2009-04-16
 categories: 
   - "weblog"

@@ -1,6 +1,7 @@
 ---
-layout: post
+layout: post 
 title: "Starry Starry Night"
+draft: false 
 date: 2009-03-09
 categories: 
   - "weblog"
@@ -12,7 +13,7 @@ categories:
   
 梵高最受人爱戴的名画之一就是1889年他住在St.Remy精神病院内所画的The Starry Night，也就是Don McLean在《Starry Starry Night》的第一句歌词。这幅名画The Starry Night现放于纽约Museum of Modern Art内，每天开始及完结时，艺术馆都会播放DonMcLean的《Starry Starry Night》这首名曲。  
   
-[![starry-night](images/starry-night.jpg)](https://zme.life/wp-content/uploads/starry-night.jpg)  
+![starry-night](/images/starry-night.jpg)  
 Starry Night  
   
 Posted on 2009-03-09 21:13

@@ -1,6 +1,7 @@
 ---
-layout: post
+layout: post 
 title: "I'm so dull PGP Public key"
+draft: false 
 date: 2011-03-22
 categories: 
   - "weblog"

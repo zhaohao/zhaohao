@@ -1,6 +1,7 @@
 ---
-layout: post
+layout: post 
 title: "Bluehost空间订购"
+draft: false 
 date: 2014-07-03
 categories: 
   - "weblog"

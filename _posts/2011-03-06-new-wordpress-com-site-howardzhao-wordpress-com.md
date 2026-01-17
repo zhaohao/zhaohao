@@ -1,6 +1,7 @@
 ---
-layout: post
+layout: post 
 title: "New WordPress.com Site: Howardzhao.wordpress.com"
+draft: false 
 date: 2011-03-06
 categories: 
   - "weblog"

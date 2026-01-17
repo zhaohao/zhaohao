@@ -1,6 +1,7 @@
 ---
-layout: post
+layout: post 
 title: "About stardust"
+draft: false 
 date: 2008-07-07
 categories: 
   - "weblog"

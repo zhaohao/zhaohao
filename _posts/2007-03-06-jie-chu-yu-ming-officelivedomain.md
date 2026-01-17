@@ -1,6 +1,7 @@
 ---
-layout: post
+layout: post 
 title: "接触域名Office Live Domain"
+draft: false 
 date: 2007-03-06
 categories: 
   - "weblog"

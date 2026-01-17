@@ -1,6 +1,7 @@
 ---
-layout: post
+layout: post 
 title: "你不是真正的快乐"
+draft: false 
 date: 2008-12-01
 categories: 
   - "weblog"

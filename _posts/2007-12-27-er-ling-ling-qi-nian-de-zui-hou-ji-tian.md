@@ -1,6 +1,7 @@
 ---
-layout: post
+layout: post 
 title: "二零零七年的最后几天"
+draft: false 
 date: 2007-12-27
 categories: 
   - "weblog"

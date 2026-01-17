@@ -1,6 +1,7 @@
 ---
-layout: post
+layout: post 
 title: "海阔天空"
+draft: false 
 date: 2010-09-11
 categories: 
   - "weblog"

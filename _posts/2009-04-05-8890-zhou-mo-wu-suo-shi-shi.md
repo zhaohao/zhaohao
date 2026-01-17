@@ -1,6 +1,7 @@
 ---
-layout: post
+layout: post 
 title: "[8890]周末，无所事事……"
+draft: false 
 date: 2009-04-05
 categories: 
   - "weblog"

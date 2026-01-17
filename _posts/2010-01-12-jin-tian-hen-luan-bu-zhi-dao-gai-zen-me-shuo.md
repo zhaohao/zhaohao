@@ -1,6 +1,7 @@
 ---
-layout: post
+layout: post 
 title: "今天很乱，不知道该怎么说"
+draft: false 
 date: 2010-01-12
 categories: 
   - "weblog"

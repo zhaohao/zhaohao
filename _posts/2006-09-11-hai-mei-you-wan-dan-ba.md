@@ -1,6 +1,7 @@
 ---
-layout: post
+layout: post 
 title: "还没有完蛋吧？"
+draft: false 
 date: 2006-09-11
 categories: 
   - "weblog"

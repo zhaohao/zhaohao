@@ -1,6 +1,7 @@
 ---
-layout: post
+layout: post 
 title: "两首歌-六月最后一天"
+draft: false 
 date: 2008-06-30
 categories: 
   - "weblog"

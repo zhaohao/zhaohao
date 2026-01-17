@@ -1,6 +1,7 @@
 ---
-layout: post
+layout: post 
 title: "再听老歌-忘情水"
+draft: false 
 date: 2009-03-15
 categories: 
   - "weblog"

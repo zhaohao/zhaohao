@@ -1,6 +1,7 @@
 ---
-layout: post
+layout: post 
 title: "网摘只言片语Never"
+draft: false 
 date: 2011-06-20
 categories: 
   - "weblog"

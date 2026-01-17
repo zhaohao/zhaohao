@@ -1,6 +1,7 @@
 ---
-layout: post
+layout: post 
 title: "写在考试之前"
+draft: false 
 date: 2007-01-19
 categories: 
   - "weblog"

@@ -1,6 +1,7 @@
 ---
-layout: post
+layout: post 
 title: "随想……随思……"
+draft: false 
 date: 2007-11-04
 categories: 
   - "weblog"

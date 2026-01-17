@@ -1,6 +1,7 @@
 ---
-layout: post
+layout: post 
 title: "夏至已过"
+draft: false 
 date: 2010-06-23
 categories: 
   - "weblog"

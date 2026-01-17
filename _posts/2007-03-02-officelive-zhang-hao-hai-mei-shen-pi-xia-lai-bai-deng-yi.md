@@ -1,6 +1,7 @@
 ---
-layout: post
+layout: post 
 title: "Office Live帐号还没审批下来，白等一天"
+draft: false 
 date: 2007-03-02
 categories: 
   - "weblog"

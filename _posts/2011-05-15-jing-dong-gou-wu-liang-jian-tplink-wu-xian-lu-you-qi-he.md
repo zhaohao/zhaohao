@@ -1,6 +1,7 @@
 ---
-layout: post
+layout: post 
 title: "京东购物两件TP-LINK无线路由器和SAMSUNG内存"
+draft: false 
 date: 2011-05-15
 categories: 
   - "weblog"

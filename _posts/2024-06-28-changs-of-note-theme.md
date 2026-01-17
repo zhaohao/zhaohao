@@ -1,6 +1,7 @@
 ---
-layout: post
+layout: post 
 title: "信纸主题更新日志"
+draft: false 
 date: 2024-06-28
 categories: 
   - "featured"

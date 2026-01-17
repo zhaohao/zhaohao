@@ -1,6 +1,7 @@
 ---
-layout: post
+layout: post 
 title: "收到了live messager工作组的20个邀请权限"
+draft: false 
 date: 2006-03-08
 categories: 
   - "weblog"

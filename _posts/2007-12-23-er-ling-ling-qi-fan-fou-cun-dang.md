@@ -1,6 +1,7 @@
 ---
-layout: post
+layout: post 
 title: "二零零七-饭否-存档"
+draft: false 
 date: 2007-12-23
 categories: 
   - "weblog"

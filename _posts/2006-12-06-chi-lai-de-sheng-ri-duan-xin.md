@@ -1,6 +1,7 @@
 ---
-layout: post
+layout: post 
 title: "迟来的生日短信"
+draft: false 
 date: 2006-12-06
 categories: 
   - "weblog"

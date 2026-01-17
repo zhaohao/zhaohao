@@ -1,6 +1,7 @@
 ---
-layout: post
+layout: post 
 title: "Will you still love me tomorrow?"
+draft: false 
 date: 2008-08-15
 categories: 
   - "weblog"

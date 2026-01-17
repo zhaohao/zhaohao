@@ -1,6 +1,7 @@
 ---
-layout: post
+layout: post 
 title: "想了想一些事情"
+draft: false 
 date: 2008-01-08
 categories: 
   - "weblog"

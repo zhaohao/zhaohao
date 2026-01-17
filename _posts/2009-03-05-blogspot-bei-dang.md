@@ -1,6 +1,7 @@
 ---
-layout: post
+layout: post 
 title: "Blogspot被挡"
+draft: false 
 date: 2009-03-05
 categories: 
   - "weblog"

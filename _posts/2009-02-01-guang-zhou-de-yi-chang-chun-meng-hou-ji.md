@@ -1,6 +1,7 @@
 ---
-layout: post
+layout: post 
 title: "《广州的一场春梦》后记"
+draft: false 
 date: 2009-02-01
 categories: 
   - "weblog"

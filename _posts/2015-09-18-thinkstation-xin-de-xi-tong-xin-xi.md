@@ -1,6 +1,7 @@
 ---
-layout: post
+layout: post 
 title: "ThinkStation新的系统信息"
+draft: false 
 date: 2015-09-18
 categories: 
   - "weblog"

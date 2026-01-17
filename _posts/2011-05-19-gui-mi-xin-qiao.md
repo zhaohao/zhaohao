@@ -1,6 +1,7 @@
 ---
-layout: post
+layout: post 
 title: "鬼迷心窍"
+draft: false 
 date: 2011-05-19
 categories: 
   - "weblog"

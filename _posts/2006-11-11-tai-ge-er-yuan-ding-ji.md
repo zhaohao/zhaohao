@@ -1,6 +1,7 @@
 ---
-layout: post
+layout: post 
 title: "泰戈尔-园丁集"
+draft: false 
 date: 2006-11-11
 categories: 
   - "weblog"

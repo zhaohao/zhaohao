@@ -1,12 +1,13 @@
 ---
-layout: post
+layout: post 
 title: "女儿今天回了广州"
+draft: false 
 date: 2016-05-22
 categories: 
   - "weblog"
 ---
 
-[![DSC-20160513](images/DSC-20160513.jpg)](https://zme.life/wp-content/uploads/DSC-20160513.jpg)  
+![DSC-20160513](/images/DSC-20160513.jpg)  
   
 前些日子在广州家里，Zoe没来由的突然发高烧，没什么其它症状，精力还是很充沛，降了烧都还好，然后就把她留在广州上幼儿园。  
 后面开始断续的咳嗽、发烧，其它症状都不明显。  

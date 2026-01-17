@@ -1,6 +1,7 @@
 ---
-layout: post
+layout: post 
 title: "原来你也在这里"
+draft: false 
 date: 2008-09-01
 categories: 
   - "weblog"

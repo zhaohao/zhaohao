@@ -1,6 +1,7 @@
 ---
-layout: post
+layout: post 
 title: "闲逛Blogger发现"
+draft: false 
 date: 2007-03-01
 categories: 
   - "weblog"

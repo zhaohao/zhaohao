@@ -1,6 +1,7 @@
 ---
-layout: post
+layout: post 
 title: "日志：路怎么走"
+draft: false 
 date: 2009-02-18
 categories: 
   - "weblog"

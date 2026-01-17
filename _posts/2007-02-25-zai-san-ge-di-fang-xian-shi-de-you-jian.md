@@ -1,6 +1,7 @@
 ---
-layout: post
+layout: post 
 title: "在三个地方显示的邮件"
+draft: false 
 date: 2007-02-25
 categories: 
   - "weblog"

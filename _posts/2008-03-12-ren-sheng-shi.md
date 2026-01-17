@@ -1,6 +1,7 @@
 ---
-layout: post
+layout: post 
 title: "人生是……"
+draft: false 
 date: 2008-03-12
 categories: 
   - "weblog"

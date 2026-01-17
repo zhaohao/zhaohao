@@ -1,6 +1,7 @@
 ---
-layout: post
+layout: post 
 title: "陈奕迅 - 爱情转移"
+draft: false 
 date: 2007-09-07
 categories: 
   - "weblog"

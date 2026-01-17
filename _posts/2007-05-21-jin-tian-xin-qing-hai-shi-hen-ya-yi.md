@@ -1,6 +1,7 @@
 ---
-layout: post
+layout: post 
 title: "今天心情还是很压抑"
+draft: false 
 date: 2007-05-21
 categories: 
   - "weblog"

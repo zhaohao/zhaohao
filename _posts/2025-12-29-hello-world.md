@@ -1,6 +1,7 @@
 ---
-layout: post
+layout: post 
 title: "世界，您好！"
+draft: false 
 date: 2025-12-29
 categories: 
   - "default"

@@ -1,12 +1,13 @@
 ---
-layout: post
+layout: post 
 title: "那些年拿过的那些域名"
+draft: false 
 date: 2014-10-30
 categories: 
   - "weblog"
 ---
 
-[![cogs](images/cogs.jpg)](https://zme.life/wp-content/uploads/cogs.jpg)  
+![cogs](/images/cogs.jpg)  
   
 2007-??-??，cn域名对个人开放，并且特价促销1元一个，注册了bluehao.cn，后面什么的都忘记了，好像还尝试了提交备案信息，当时还是很简单的自主网上提交备案信息，完全不似如今的复杂。  
   

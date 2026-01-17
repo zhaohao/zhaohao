@@ -1,6 +1,7 @@
 ---
-layout: post
+layout: post 
 title: "[9437]月四日，天气清凉，有了秋天的感觉~"
+draft: false 
 date: 2010-10-04
 categories: 
   - "weblog"

@@ -1,6 +1,7 @@
 ---
-layout: post
+layout: post 
 title: "半夜又不期而至的疼"
+draft: false 
 date: 2015-03-03
 categories: 
   - "weblog"

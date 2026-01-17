@@ -1,6 +1,7 @@
 ---
-layout: post
+layout: post 
 title: "如盛夏般的冬季"
+draft: false 
 date: 2020-12-28
 categories: 
   - "memos"
@@ -10,4 +11,4 @@ categories:
 
 如盛夏般的冬季。
 
-![](images/2020-12-28-fanfou-wordpress.jpg)
+![](/images/2020-12-28-fanfou-wordpress.jpg)

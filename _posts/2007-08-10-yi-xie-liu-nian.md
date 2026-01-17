@@ -1,6 +1,7 @@
 ---
-layout: post
+layout: post 
 title: "一些留念"
+draft: false 
 date: 2007-08-10
 categories: 
   - "weblog"

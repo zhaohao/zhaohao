@@ -1,6 +1,7 @@
 ---
-layout: post
+layout: post 
 title: "Say Goodbye To Yesterday"
+draft: false 
 date: 2014-03-05
 categories: 
   - "weblog"

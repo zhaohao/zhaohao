@@ -1,6 +1,7 @@
 ---
-layout: post
+layout: post 
 title: "转摘：我们心中的一些动画"
+draft: false 
 date: 2009-01-31
 categories: 
   - "weblog"

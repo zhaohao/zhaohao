@@ -1,6 +1,7 @@
 ---
-layout: post
+layout: post 
 title: "2006年的元宵节"
+draft: false 
 date: 2006-02-12
 categories: 
   - "weblog"

@@ -1,6 +1,7 @@
 ---
-layout: post
+layout: post 
 title: "无题之一"
+draft: false 
 date: 2008-10-29
 categories: 
   - "weblog"

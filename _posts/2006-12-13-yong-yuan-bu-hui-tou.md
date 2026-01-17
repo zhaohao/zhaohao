@@ -1,6 +1,7 @@
 ---
-layout: post
+layout: post 
 title: "永远不回头"
+draft: false 
 date: 2006-12-13
 categories: 
   - "weblog"

@@ -1,6 +1,7 @@
 ---
-layout: post
+layout: post 
 title: "莫名其妙这是怎么着了……"
+draft: false 
 date: 2008-12-02
 categories: 
   - "weblog"

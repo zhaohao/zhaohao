@@ -1,12 +1,13 @@
 ---
-layout: post
+layout: post 
 title: "蜗牛 Snail"
+draft: false 
 date: 2014-08-25
 categories: 
   - "weblog"
 ---
 
-[![20071231614493852](images/20071231614493852.jpg)](https://zme.life/wp-content/uploads/20071231614493852.jpg)  
+![20071231614493852](/images/20071231614493852.jpg)  
   
 该不该搁下重重的壳，寻找到底哪里有蓝天  
 随着轻轻的风轻轻地飘，历经的伤都不感觉疼  

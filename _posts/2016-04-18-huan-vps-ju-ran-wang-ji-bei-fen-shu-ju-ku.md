@@ -1,6 +1,7 @@
 ---
-layout: post
+layout: post 
 title: "换VPS居然忘记备份数据库"
+draft: false 
 date: 2016-04-18
 categories: 
   - "weblog"

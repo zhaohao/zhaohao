@@ -1,6 +1,7 @@
 ---
-layout: post
+layout: post 
 title: "清理Google APP Mail"
+draft: false 
 date: 2010-12-07
 categories: 
   - "weblog"

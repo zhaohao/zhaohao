@@ -1,6 +1,7 @@
 ---
-layout: post
+layout: post 
 title: "[8907]QQ邮箱一邮多名&邮箱"
+draft: false 
 date: 2009-04-22
 categories: 
   - "weblog"
@@ -12,7 +13,7 @@ categories:
   
 不过基本上都是放在那里不用的。  
   
-[![allmail](images/allmail.png)](https://zme.life/wp-content/uploads/allmail.png)  
+![allmail](/images/allmail.png)  
 ALLMAIL  
   
 Posted on 2009-04-22 23:26

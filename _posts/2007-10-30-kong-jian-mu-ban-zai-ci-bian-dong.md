@@ -1,6 +1,7 @@
 ---
-layout: post
+layout: post 
 title: "空间模板再次变动"
+draft: false 
 date: 2007-10-30
 categories: 
   - "weblog"

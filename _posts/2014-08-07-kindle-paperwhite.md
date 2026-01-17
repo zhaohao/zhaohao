@@ -1,6 +1,7 @@
 ---
-layout: post
+layout: post 
 title: "Kindle Paperwhite"
+draft: false 
 date: 2014-08-07
 categories: 
   - "weblog"

@@ -1,6 +1,7 @@
 ---
-layout: post
+layout: post 
 title: "凌晨一点"
+draft: false 
 date: 2019-03-12
 categories: 
   - "memos"
@@ -10,7 +11,7 @@ categories:
 
 <figure>
 
-![](images/2019-03-12-01-02.png)
+![](/images/2019-03-12-01-02.png)
 
 <figcaption>
 

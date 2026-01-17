@@ -1,6 +1,7 @@
 ---
-layout: post
+layout: post 
 title: "幾米 - 跷跷板"
+draft: false 
 date: 2007-03-16
 categories: 
   - "weblog"
@@ -12,6 +13,6 @@ categories:
 更接近美丽的月亮一点，  
 我只好坚强的假装这样比较快乐比较棒,  
 风吹过好冷，屁股很痛，尿好急~  
-[![qiaoqiaoban](images/qiaoqiaoban.jpg)](https://zme.life/wp-content/uploads/qiaoqiaoban.jpg)
+![qiaoqiaoban.jpg](/images/qiaoqiaoban.jpg)
 
 stardust@live.com

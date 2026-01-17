@@ -1,6 +1,7 @@
 ---
-layout: post
+layout: post 
 title: "又是一天虚无飘渺的生活"
+draft: false 
 date: 2006-12-02
 categories: 
   - "weblog"

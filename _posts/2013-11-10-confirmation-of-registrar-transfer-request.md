@@ -1,6 +1,7 @@
 ---
-layout: post
+layout: post 
 title: "Confirmation of Registrar Transfer Request"
+draft: false 
 date: 2013-11-10
 categories: 
   - "weblog"

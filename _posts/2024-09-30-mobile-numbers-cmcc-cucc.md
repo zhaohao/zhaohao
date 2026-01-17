@@ -1,6 +1,7 @@
 ---
-layout: post
+layout: post 
 title: "手机卡盘点之移动联通篇"
+draft: false 
 date: 2024-09-30
 categories: 
   - "featured"

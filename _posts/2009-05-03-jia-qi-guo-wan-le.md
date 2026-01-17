@@ -1,6 +1,7 @@
 ---
-layout: post
+layout: post 
 title: "假期过完了……"
+draft: false 
 date: 2009-05-03
 categories: 
   - "weblog"

@@ -1,6 +1,7 @@
 ---
-layout: post
+layout: post 
 title: "Windows Live Hotmail Wave3"
+draft: false 
 date: 2008-11-02
 categories: 
   - "weblog"

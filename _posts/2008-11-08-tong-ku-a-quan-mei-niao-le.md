@@ -1,6 +1,7 @@
 ---
-layout: post
+layout: post 
 title: "痛苦啊，全没鸟了"
+draft: false 
 date: 2008-11-08
 categories: 
   - "weblog"

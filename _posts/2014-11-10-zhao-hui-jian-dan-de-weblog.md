@@ -1,6 +1,7 @@
 ---
-layout: post
+layout: post 
 title: "找回简单的Weblog"
+draft: false 
 date: 2014-11-10
 categories: 
   - "weblog"

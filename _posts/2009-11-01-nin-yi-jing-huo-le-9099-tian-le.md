@@ -1,6 +1,7 @@
 ---
-layout: post
+layout: post 
 title: "您已经活了9099天了"
+draft: false 
 date: 2009-11-01
 categories: 
   - "weblog"

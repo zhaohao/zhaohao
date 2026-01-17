@@ -1,6 +1,7 @@
 ---
-layout: post
+layout: post 
 title: "JIWAI.DE二零零八年二月"
+draft: false 
 date: 2008-02-27
 categories: 
   - "weblog"

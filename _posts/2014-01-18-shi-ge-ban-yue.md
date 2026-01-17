@@ -1,6 +1,7 @@
 ---
-layout: post
+layout: post 
 title: "十个半月"
+draft: false 
 date: 2014-01-18
 categories: 
   - "weblog"

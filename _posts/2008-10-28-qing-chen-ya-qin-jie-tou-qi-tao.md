@@ -1,6 +1,7 @@
 ---
-layout: post
+layout: post 
 title: "清尘雅琴&街头乞讨"
+draft: false 
 date: 2008-10-28
 categories: 
   - "weblog"

@@ -1,6 +1,7 @@
 ---
-layout: post
+layout: post 
 title: "Android L Developer Preview"
+draft: false 
 date: 2014-10-23
 categories: 
   - "weblog"
@@ -9,7 +10,7 @@ categories:
 Android 5.0 (Lollipop) is almost here and users will begin receiving device updates in November.  
 To help you prepare, the Android 5.0 SDK is now available with final APIs.  
   
-[![Android-l](images/Android-l.png)](https://zme.life/wp-content/uploads/Android-l.png)  
+![Android-l](/images/Android-l.png)  
   
 
 * * *

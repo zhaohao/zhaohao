@@ -1,6 +1,7 @@
 ---
-layout: post
+layout: post 
 title: "关于”未名灏梦”"
+draft: false 
 date: 2009-01-03
 categories: 
   - "weblog"

@@ -1,6 +1,7 @@
 ---
-layout: post
+layout: post 
 title: "我要考研。。。"
+draft: false 
 date: 2006-08-14
 categories: 
   - "weblog"

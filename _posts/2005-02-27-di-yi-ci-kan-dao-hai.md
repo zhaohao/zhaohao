@@ -1,6 +1,7 @@
 ---
-layout: post
+layout: post 
 title: "第一次看到海"
+draft: false 
 date: 2005-02-27
 categories: 
   - "weblog"

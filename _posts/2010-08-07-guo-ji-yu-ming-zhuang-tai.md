@@ -1,6 +1,7 @@
 ---
-layout: post
+layout: post 
 title: "国际域名状态"
+draft: false 
 date: 2010-08-07
 categories: 
   - "weblog"

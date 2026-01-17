@@ -1,6 +1,7 @@
 ---
-layout: post
+layout: post 
 title: "平凡之路"
+draft: false 
 date: 2016-05-29
 categories: 
   - "weblog"

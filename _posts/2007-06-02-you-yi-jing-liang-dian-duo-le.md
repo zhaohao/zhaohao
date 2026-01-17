@@ -1,6 +1,7 @@
 ---
-layout: post
+layout: post 
 title: "又已经两点多了"
+draft: false 
 date: 2007-06-02
 categories: 
   - "weblog"

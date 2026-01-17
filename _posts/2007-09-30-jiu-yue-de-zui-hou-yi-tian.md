@@ -1,6 +1,7 @@
 ---
-layout: post
+layout: post 
 title: "九月的最后一天"
+draft: false 
 date: 2007-09-30
 categories: 
   - "weblog"

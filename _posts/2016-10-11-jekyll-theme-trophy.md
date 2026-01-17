@@ -1,6 +1,7 @@
 ---
-layout: post
+layout: post 
 title: "Jekyll主题Trophy"
+draft: false 
 date: 2016-10-11
 categories: 
   - "weblog"

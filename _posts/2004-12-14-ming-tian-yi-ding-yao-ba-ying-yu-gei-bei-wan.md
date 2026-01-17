@@ -1,6 +1,7 @@
 ---
-layout: post
+layout: post 
 title: "明天一定要把英语给背完"
+draft: false 
 date: 2004-12-14
 categories: 
   - "weblog"

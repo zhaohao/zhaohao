@@ -1,6 +1,7 @@
 ---
-layout: post
+layout: post 
 title: "流水帐一单20080625"
+draft: false 
 date: 2008-06-25
 categories: 
   - "weblog"

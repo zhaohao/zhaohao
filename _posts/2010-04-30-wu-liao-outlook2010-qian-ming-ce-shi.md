@@ -1,6 +1,7 @@
 ---
-layout: post
+layout: post 
 title: "无聊，Outlook2010签名测试"
+draft: false 
 date: 2010-04-30
 categories: 
   - "weblog"

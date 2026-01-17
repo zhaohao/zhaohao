@@ -1,6 +1,7 @@
 ---
-layout: post
+layout: post 
 title: "I should,I must!"
+draft: false 
 date: 2008-09-12
 categories: 
   - "weblog"

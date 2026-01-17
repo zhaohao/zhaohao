@@ -1,6 +1,7 @@
 ---
-layout: post
+layout: post 
 title: "二月二十六小记"
+draft: false 
 date: 2007-02-26
 categories: 
   - "weblog"

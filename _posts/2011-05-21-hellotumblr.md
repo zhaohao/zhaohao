@@ -1,6 +1,7 @@
 ---
-layout: post
+layout: post 
 title: "Hello,tumblr."
+draft: false 
 date: 2011-05-21
 categories: 
   - "weblog"

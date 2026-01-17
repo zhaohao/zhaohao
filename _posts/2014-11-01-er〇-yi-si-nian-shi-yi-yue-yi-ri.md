@@ -1,6 +1,7 @@
 ---
-layout: post
+layout: post 
 title: "二〇一四年十一月一日"
+draft: false 
 date: 2014-11-01
 categories: 
   - "weblog"

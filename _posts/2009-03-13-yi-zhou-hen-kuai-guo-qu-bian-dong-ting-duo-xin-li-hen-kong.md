@@ -1,6 +1,7 @@
 ---
-layout: post
+layout: post 
 title: "一周很快过去，变动挺多，心里很空"
+draft: false 
 date: 2009-03-13
 categories: 
   - "weblog"

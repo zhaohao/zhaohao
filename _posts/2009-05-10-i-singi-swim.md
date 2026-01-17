@@ -1,6 +1,7 @@
 ---
-layout: post
+layout: post 
 title: "I sing,I swim"
+draft: false 
 date: 2009-05-10
 categories: 
   - "weblog"

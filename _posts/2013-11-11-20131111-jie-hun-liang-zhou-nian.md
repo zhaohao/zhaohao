@@ -1,6 +1,7 @@
 ---
-layout: post
+layout: post 
 title: "20131111-结婚两周年"
+draft: false 
 date: 2013-11-11
 categories: 
   - "weblog"

@@ -1,6 +1,7 @@
 ---
-layout: post
+layout: post 
 title: "外面又下起了雨19:30"
+draft: false 
 date: 2007-02-24
 categories: 
   - "weblog"

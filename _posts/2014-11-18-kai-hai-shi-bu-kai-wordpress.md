@@ -1,6 +1,7 @@
 ---
-layout: post
+layout: post 
 title: "开还是不开Wordpress"
+draft: false 
 date: 2014-11-18
 categories: 
   - "weblog"

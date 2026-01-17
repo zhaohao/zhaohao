@@ -1,6 +1,7 @@
 ---
-layout: post
+layout: post 
 title: "叽歪二零零八年六月"
+draft: false 
 date: 2008-06-01
 categories: 
   - "weblog"

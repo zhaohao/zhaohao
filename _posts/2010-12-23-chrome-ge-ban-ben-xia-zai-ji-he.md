@@ -1,6 +1,7 @@
 ---
-layout: post
+layout: post 
 title: "Chrome各版本下载集合"
+draft: false 
 date: 2010-12-23
 categories: 
   - "weblog"

@@ -1,12 +1,13 @@
 ---
-layout: post
+layout: post 
 title: "Windows10手动添加OEM信息"
+draft: false 
 date: 2015-09-21
 categories: 
   - "weblog"
 ---
 
-[![oemlogo256px](images/oemlogo256px.png)](https://zme.life/wp-content/uploads/oemlogo256px.png)  
+![oemlogo256px](/images/oemlogo256px.png)  
   
 
 ```
@@ -15,6 +16,6 @@ categories:
 
   
   
-[![2015-09-21-sysinfo](images/2015-09-21-sysinfo.png)](https://zme.life/wp-content/uploads/2015-09-21-sysinfo.png)
+![2015-09-21-sysinfo](/images/2015-09-21-sysinfo.png)
 
 stardust@live.com

@@ -1,6 +1,7 @@
 ---
-layout: post
+layout: post 
 title: "为什么这么忧伤"
+draft: false 
 date: 2008-07-06
 categories: 
   - "weblog"

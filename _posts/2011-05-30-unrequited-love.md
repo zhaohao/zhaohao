@@ -1,6 +1,7 @@
 ---
-layout: post
+layout: post 
 title: "Unrequited Love"
+draft: false 
 date: 2011-05-30
 categories: 
   - "weblog"

@@ -1,6 +1,7 @@
 ---
-layout: post
+layout: post 
 title: "一些小事202109"
+draft: false 
 date: 2021-09-21
 categories: 
   - "memos"
@@ -10,10 +11,10 @@ categories:
 
 刚过一号零点，申领了驾驶证电子版。以后越来越用不到纸质证件了。
 
-![](images/2021-09-01-fanfou-wordpress.jpg)
+![](/images/2021-09-01-fanfou-wordpress.jpg)
 
 2021.09.21 下单了理想 ONE 🚗
 
-![](images/2021-09-21-E_zDJskUcAM2jpj-473x1024.jpeg)
+![](/images/2021-09-21-E_zDJskUcAM2jpj-473x1024.jpeg)
 
-![](images/2021-09-21-E_zDJsnVkAAfzug-473x1024.jpeg)
+![](/images/2021-09-21-E_zDJsnVkAAfzug-473x1024.jpeg)

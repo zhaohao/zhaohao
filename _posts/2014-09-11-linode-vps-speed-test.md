@@ -1,6 +1,7 @@
 ---
-layout: post
+layout: post 
 title: "Linode VPS Speed Test"
+draft: false 
 date: 2014-09-11
 categories: 
   - "weblog"

@@ -1,6 +1,7 @@
 ---
-layout: post
+layout: post 
 title: "挤公车，实习"
+draft: false 
 date: 2007-03-08
 categories: 
   - "weblog"

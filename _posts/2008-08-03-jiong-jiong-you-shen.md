@@ -1,6 +1,7 @@
 ---
-layout: post
+layout: post 
 title: "囧囧有“神”"
+draft: false 
 date: 2008-08-03
 categories: 
   - "weblog"

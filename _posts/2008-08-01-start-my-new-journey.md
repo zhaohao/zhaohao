@@ -1,6 +1,7 @@
 ---
-layout: post
+layout: post 
 title: "Start My New Journey"
+draft: false 
 date: 2008-08-01
 categories: 
   - "weblog"

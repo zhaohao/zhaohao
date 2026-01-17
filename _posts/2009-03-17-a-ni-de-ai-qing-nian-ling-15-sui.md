@@ -1,6 +1,7 @@
 ---
-layout: post
+layout: post 
 title: "A-你的爱情年龄15岁"
+draft: false 
 date: 2009-03-17
 categories: 
   - "weblog"

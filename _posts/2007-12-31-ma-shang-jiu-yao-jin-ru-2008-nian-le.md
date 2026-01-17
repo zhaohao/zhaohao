@@ -1,6 +1,7 @@
 ---
-layout: post
+layout: post 
 title: "马上就要进入2008年了"
+draft: false 
 date: 2007-12-31
 categories: 
   - "weblog"

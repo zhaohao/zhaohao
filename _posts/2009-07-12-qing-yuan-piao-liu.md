@@ -1,6 +1,7 @@
 ---
-layout: post
+layout: post 
 title: "清远漂流"
+draft: false 
 date: 2009-07-12
 categories: 
   - "weblog"

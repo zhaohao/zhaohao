@@ -1,6 +1,7 @@
 ---
-layout: post
+layout: post 
 title: "今天的广州依然多雨"
+draft: false 
 date: 2010-05-19
 categories: 
   - "weblog"

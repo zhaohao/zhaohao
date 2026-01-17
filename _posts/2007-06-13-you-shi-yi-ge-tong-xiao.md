@@ -1,6 +1,7 @@
 ---
-layout: post
+layout: post 
 title: "又是一个通宵"
+draft: false 
 date: 2007-06-13
 categories: 
   - "weblog"

@@ -1,6 +1,7 @@
 ---
-layout: post
+layout: post 
 title: "Happy Lunar Birthday To Myself"
+draft: false 
 date: 2007-11-20
 categories: 
   - "weblog"

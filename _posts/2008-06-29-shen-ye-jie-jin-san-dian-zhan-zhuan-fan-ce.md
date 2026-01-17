@@ -1,6 +1,7 @@
 ---
-layout: post
+layout: post 
 title: "深夜接近三点，辗转反侧"
+draft: false 
 date: 2008-06-29
 categories: 
   - "weblog"

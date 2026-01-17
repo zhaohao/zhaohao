@@ -1,6 +1,7 @@
 ---
-layout: post
+layout: post 
 title: "跑步去番禺广场"
+draft: false 
 date: 2015-05-24
 categories: 
   - "weblog"

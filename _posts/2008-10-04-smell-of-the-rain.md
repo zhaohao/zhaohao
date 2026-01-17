@@ -1,6 +1,7 @@
 ---
-layout: post
+layout: post 
 title: "Smell of the rain"
+draft: false 
 date: 2008-10-04
 categories: 
   - "weblog"

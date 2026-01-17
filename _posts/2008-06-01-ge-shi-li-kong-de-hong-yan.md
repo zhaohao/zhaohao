@@ -1,6 +1,7 @@
 ---
-layout: post
+layout: post 
 title: "隔世离空的红颜"
+draft: false 
 date: 2008-06-01
 categories: 
   - "weblog"

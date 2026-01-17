@@ -1,6 +1,7 @@
 ---
-layout: post
+layout: post 
 title: "News Press Release: Microsoft to Acquire Skype"
+draft: false 
 date: 2011-05-10
 categories: 
   - "weblog"

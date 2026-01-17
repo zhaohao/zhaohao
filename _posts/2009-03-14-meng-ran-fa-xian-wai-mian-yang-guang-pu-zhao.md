@@ -1,6 +1,7 @@
 ---
-layout: post
+layout: post 
 title: "猛然发现外面阳光普照"
+draft: false 
 date: 2009-03-14
 categories: 
   - "weblog"

@@ -1,6 +1,7 @@
 ---
-layout: post
+layout: post 
 title: "VSCode中插入jekyll文章模版"
+draft: false 
 date: 2021-01-04
 categories: 
   - "weblog"
@@ -37,6 +38,6 @@ tags:
 }
 ```
 
-![mousegif](images/KDCys4g40gExXDK5NQGjNBgzyoCNT2MScQU5GgHz0IgprACBTIekVIgyu0CDyyhEs4FlA4hbOSAUjE51FUuITEl4Vc+AcU2IVQKHNgOIZkWIZmCIBEeIY0yHHBpoYW+IVuyINiGId0WIcYoj12mId6mGSQQAIasIV7yEl4WIaBAAAAOw==)
+![mousegif](/images/KDCys4g40gExXDK5NQGjNBgzyoCNT2MScQU5GgHz0IgprACBTIekVIgyu0CDyyhEs4FlA4hbOSAUjE51FUuITEl4Vc+AcU2IVQKHNgOIZkWIZmCIBEeIY0yHHBpoYW+IVuyINiGId0WIcYoj12mId6mGSQQAIasIV7yEl4WIaBAAAAOw==)
 
 Monday, January 04, 2021

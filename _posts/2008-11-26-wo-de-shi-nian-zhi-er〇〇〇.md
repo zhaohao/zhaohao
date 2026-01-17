@@ -1,6 +1,7 @@
 ---
-layout: post
+layout: post 
 title: "我的十年之二〇〇〇"
+draft: false 
 date: 2008-11-26
 categories: 
   - "weblog"

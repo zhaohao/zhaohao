@@ -1,6 +1,7 @@
 ---
-layout: post
+layout: post 
 title: "无意，真的无意"
+draft: false 
 date: 2008-01-15
 categories: 
   - "weblog"

@@ -1,6 +1,7 @@
 ---
-layout: post
+layout: post 
 title: "在MainLand这个地方被wall挡了"
+draft: false 
 date: 2007-12-16
 categories: 
   - "weblog"

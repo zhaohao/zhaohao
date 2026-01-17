@@ -1,6 +1,7 @@
 ---
-layout: post
+layout: post 
 title: "哀愁 词：姚谦 曲：森田童子"
+draft: false 
 date: 2010-11-07
 categories: 
   - "weblog"

@@ -1,6 +1,7 @@
 ---
-layout: post
+layout: post 
 title: "不再期望"
+draft: false 
 date: 2007-05-01
 categories: 
   - "weblog"

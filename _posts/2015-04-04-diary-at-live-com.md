@@ -1,6 +1,7 @@
 ---
-layout: post
+layout: post 
 title: "Diary At Live.com"
+draft: false 
 date: 2015-04-04
 categories: 
   - "weblog"

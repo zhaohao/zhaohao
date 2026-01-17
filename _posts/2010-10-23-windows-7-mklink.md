@@ -1,6 +1,7 @@
 ---
-layout: post
+layout: post 
 title: "Windows 7 Mklink"
+draft: false 
 date: 2010-10-23
 categories: 
   - "weblog"

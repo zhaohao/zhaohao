@@ -1,6 +1,7 @@
 ---
-layout: post
+layout: post 
 title: "Have you ever heard the song Forever?"
+draft: false 
 date: 2005-02-26
 categories: 
   - "weblog"

@@ -1,6 +1,7 @@
 ---
-layout: post
+layout: post 
 title: "早上上班，紧邻的小学活动"
+draft: false 
 date: 2009-04-30
 categories: 
   - "weblog"

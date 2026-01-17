@@ -1,6 +1,7 @@
 ---
-layout: post
+layout: post 
 title: "怎么才能走好后面的人生之路~"
+draft: false 
 date: 2010-08-01
 categories: 
   - "weblog"

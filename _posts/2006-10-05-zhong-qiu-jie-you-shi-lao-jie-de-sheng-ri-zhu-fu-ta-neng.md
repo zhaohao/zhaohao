@@ -1,6 +1,7 @@
 ---
-layout: post
+layout: post 
 title: "中秋节，又是老姐的生日，祝福她能够天天开心"
+draft: false 
 date: 2006-10-05
 categories: 
   - "weblog"

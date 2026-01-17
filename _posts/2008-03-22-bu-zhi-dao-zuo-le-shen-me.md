@@ -1,6 +1,7 @@
 ---
-layout: post
+layout: post 
 title: "不知道做了什么"
+draft: false 
 date: 2008-03-22
 categories: 
   - "weblog"

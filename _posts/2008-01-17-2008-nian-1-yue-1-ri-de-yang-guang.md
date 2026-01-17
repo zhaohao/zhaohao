@@ -1,12 +1,13 @@
 ---
-layout: post
+layout: post 
 title: "2008年1月1日的阳光"
+draft: false 
 date: 2008-01-17
 categories: 
   - "weblog"
 ---
 
-[![](images/20080101-28007-29.jpg)](https://zme.life/wp-content/uploads/20080101-28007-29.jpg)[![](images/20080101-28005-29.jpg)](https://zme.life/wp-content/uploads/20080101-28005-29.jpg)  
+![20080101-28007-29.jpg](/images/20080101-28007-29.jpg)![20080101-28005-29.jpg](/images/20080101-28005-29.jpg)  
 那天天气清冷，是一年中广州第一次降温的时侯，当时十几度，坐在窗边的椅子上，明亮的阳光透过玻璃照在身上，阳光照到的地方，暖暖的很舒服的感觉！
 
 stardust@live.com

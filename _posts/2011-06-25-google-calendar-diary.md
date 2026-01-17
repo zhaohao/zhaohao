@@ -1,6 +1,7 @@
 ---
-layout: post
+layout: post 
 title: "Google Calendar Diary"
+draft: false 
 date: 2011-06-25
 categories: 
   - "weblog"

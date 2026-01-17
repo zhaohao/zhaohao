@@ -1,6 +1,7 @@
 ---
-layout: post
+layout: post 
 title: "一年很快过去"
+draft: false 
 date: 2008-05-17
 categories: 
   - "weblog"

@@ -1,6 +1,7 @@
 ---
-layout: post
+layout: post 
 title: "今天什么事情都没有做完"
+draft: false 
 date: 2004-12-09
 categories: 
   - "weblog"

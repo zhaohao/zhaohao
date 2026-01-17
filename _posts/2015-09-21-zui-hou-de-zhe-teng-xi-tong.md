@@ -1,6 +1,7 @@
 ---
-layout: post
+layout: post 
 title: "最后的折腾系统"
+draft: false 
 date: 2015-09-21
 categories: 
   - "weblog"

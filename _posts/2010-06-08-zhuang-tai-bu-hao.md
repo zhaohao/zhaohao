@@ -1,6 +1,7 @@
 ---
-layout: post
+layout: post 
 title: "状态不好~"
+draft: false 
 date: 2010-06-08
 categories: 
   - "weblog"

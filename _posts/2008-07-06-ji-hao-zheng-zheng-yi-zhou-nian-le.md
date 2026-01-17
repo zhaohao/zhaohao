@@ -1,6 +1,7 @@
 ---
-layout: post
+layout: post 
 title: "记号：整整一周年了"
+draft: false 
 date: 2008-07-06
 categories: 
   - "weblog"

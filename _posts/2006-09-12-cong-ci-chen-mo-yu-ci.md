@@ -1,6 +1,7 @@
 ---
-layout: post
+layout: post 
 title: "从此沉默于此。。。"
+draft: false 
 date: 2006-09-12
 categories: 
   - "weblog"

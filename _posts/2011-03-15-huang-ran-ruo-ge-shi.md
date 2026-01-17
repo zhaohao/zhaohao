@@ -1,6 +1,7 @@
 ---
-layout: post
+layout: post 
 title: "恍然若隔世"
+draft: false 
 date: 2011-03-15
 categories: 
   - "weblog"

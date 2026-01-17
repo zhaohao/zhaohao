@@ -1,6 +1,7 @@
 ---
-layout: post
+layout: post 
 title: "现在四点多快五点了，还没有睡"
+draft: false 
 date: 2007-02-09
 categories: 
   - "weblog"

@@ -1,6 +1,7 @@
 ---
-layout: post
+layout: post 
 title: "饭否碎碎念"
+draft: false 
 date: 2020-04-05
 categories: 
   - "memos"

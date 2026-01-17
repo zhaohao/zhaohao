@@ -1,6 +1,7 @@
 ---
-layout: post
+layout: post 
 title: "小说-广州的一场春梦-尾声"
+draft: false 
 date: 2006-12-13
 categories: 
   - "weblog"

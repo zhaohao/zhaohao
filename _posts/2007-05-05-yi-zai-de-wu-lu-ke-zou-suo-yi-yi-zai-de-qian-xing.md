@@ -1,6 +1,7 @@
 ---
-layout: post
+layout: post 
 title: "一再的无路可走，所以一再的前行"
+draft: false 
 date: 2007-05-05
 categories: 
   - "weblog"

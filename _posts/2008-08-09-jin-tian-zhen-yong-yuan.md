@@ -1,6 +1,7 @@
 ---
-layout: post
+layout: post 
 title: "今天-真永远"
+draft: false 
 date: 2008-08-09
 categories: 
   - "weblog"

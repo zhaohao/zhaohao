@@ -1,6 +1,7 @@
 ---
-layout: post
+layout: post 
 title: "夜空守望者－为什么考研？"
+draft: false 
 date: 2006-10-11
 categories: 
   - "weblog"

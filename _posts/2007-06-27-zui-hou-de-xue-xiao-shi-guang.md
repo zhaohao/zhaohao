@@ -1,6 +1,7 @@
 ---
-layout: post
+layout: post 
 title: "最后的学校时光"
+draft: false 
 date: 2007-06-27
 categories: 
   - "weblog"

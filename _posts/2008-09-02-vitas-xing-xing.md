@@ -1,6 +1,7 @@
 ---
-layout: post
+layout: post 
 title: "VITAS-星星"
+draft: false 
 date: 2008-09-02
 categories: 
   - "weblog"

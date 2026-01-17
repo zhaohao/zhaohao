@@ -1,6 +1,7 @@
 ---
-layout: post
+layout: post 
 title: "New views of Hao(at)zhao.im's Weblog¹ ......"
+draft: false 
 date: 2011-04-13
 categories: 
   - "weblog"

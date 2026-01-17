@@ -1,6 +1,7 @@
 ---
-layout: post
+layout: post 
 title: "只言片语二〇一一年一月"
+draft: false 
 date: 2011-01-26
 categories: 
   - "weblog"

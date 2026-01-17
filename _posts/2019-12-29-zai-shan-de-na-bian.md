@@ -1,6 +1,7 @@
 ---
-layout: post
+layout: post 
 title: "在山的那边"
+draft: false 
 date: 2019-12-29
 categories: 
   - "weblog"

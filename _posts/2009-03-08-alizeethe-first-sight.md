@@ -1,6 +1,7 @@
 ---
-layout: post
+layout: post 
 title: "Alizee,the first sight"
+draft: false 
 date: 2009-03-08
 categories: 
   - "weblog"

@@ -1,6 +1,7 @@
 ---
-layout: post
+layout: post 
 title: "Akeboshi-Wind"
+draft: false 
 date: 2008-05-07
 categories: 
   - "weblog"

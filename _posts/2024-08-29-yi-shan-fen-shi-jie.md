@@ -1,6 +1,7 @@
 ---
-layout: post
+layout: post 
 title: "一山分世界"
+draft: false 
 date: 2024-08-29
 categories: 
   - "memos"

@@ -1,6 +1,7 @@
 ---
-layout: post
+layout: post 
 title: "Bookmark - Gmail for mobile"
+draft: false 
 date: 2011-03-20
 categories: 
   - "weblog"

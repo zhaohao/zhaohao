@@ -1,6 +1,7 @@
 ---
-layout: post
+layout: post 
 title: "Carl King:10 Myths About Introverts"
+draft: false 
 date: 2011-04-13
 categories: 
   - "weblog"

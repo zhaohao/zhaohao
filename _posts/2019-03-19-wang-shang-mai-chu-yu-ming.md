@@ -1,6 +1,7 @@
 ---
-layout: post
+layout: post 
 title: "网上卖出域名"
+draft: false 
 date: 2019-03-19
 categories: 
   - "memos"

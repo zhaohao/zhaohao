@@ -1,6 +1,7 @@
 ---
-layout: post
+layout: post 
 title: "冬日的感觉"
+draft: false 
 date: 2008-11-09
 categories: 
   - "weblog"

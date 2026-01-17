@@ -1,6 +1,7 @@
 ---
-layout: post
+layout: post 
 title: "DIY数码管电子钟"
+draft: false 
 date: 2015-04-26
 categories: 
   - "weblog"
@@ -10,14 +11,14 @@ categories:
   
 一个中午焊完，心还想着上电会不会啪啪爆掉，不过还好，一次通过。  
   
-[![IMG_20150423_221915](images/IMG_20150423_221915.jpg)](https://zme.life/wp-content/uploads/IMG_20150423_221915.jpg)  
+![IMG_20150423_221915](/images/IMG_20150423_221915.jpg)  
   
-[![IMG_20150423_222013](images/IMG_20150423_222013.jpg)](https://zme.life/wp-content/uploads/IMG_20150423_222013.jpg)  
+![IMG_20150423_222013](/images/IMG_20150423_222013.jpg)  
   
-[![IMG_20150423_222024](images/IMG_20150423_222024.jpg)](https://zme.life/wp-content/uploads/IMG_20150423_222024.jpg)  
+![IMG_20150423_222024](/images/IMG_20150423_222024.jpg)  
   
-[![IMG_20150423_222103](images/IMG_20150423_222103.jpg)](https://zme.life/wp-content/uploads/IMG_20150423_222103.jpg)  
+![IMG_20150423_222103](/images/IMG_20150423_222103.jpg)  
   
-[![IMG_20150423_222140](images/IMG_20150423_222140.jpg)](https://zme.life/wp-content/uploads/IMG_20150423_222140.jpg)
+![IMG_20150423_222140](/images/IMG_20150423_222140.jpg)
 
 stardust@live.com

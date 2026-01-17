@@ -1,6 +1,7 @@
 ---
-layout: post
+layout: post 
 title: "雨季,Summer"
+draft: false 
 date: 2011-06-17
 categories: 
   - "weblog"

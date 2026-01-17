@@ -1,6 +1,7 @@
 ---
-layout: post
+layout: post 
 title: "一些人,一些事,一些心情"
+draft: false 
 date: 2008-02-29
 categories: 
   - "weblog"

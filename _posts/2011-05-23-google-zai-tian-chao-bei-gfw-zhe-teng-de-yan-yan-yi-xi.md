@@ -1,6 +1,7 @@
 ---
-layout: post
+layout: post 
 title: "Google在兲朝被GFW折腾的奄奄一息"
+draft: false 
 date: 2011-05-23
 categories: 
   - "weblog"

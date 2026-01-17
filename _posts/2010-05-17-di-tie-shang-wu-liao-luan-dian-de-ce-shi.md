@@ -1,6 +1,7 @@
 ---
-layout: post
+layout: post 
 title: "地铁上无聊乱点的测试"
+draft: false 
 date: 2010-05-17
 categories: 
   - "weblog"

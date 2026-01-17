@@ -1,6 +1,7 @@
 ---
-layout: post
+layout: post 
 title: "能听到外面的雨声"
+draft: false 
 date: 2008-12-27
 categories: 
   - "weblog"

@@ -1,6 +1,7 @@
 ---
-layout: post
+layout: post 
 title: "Windows Live FrameIt"
+draft: false 
 date: 2008-08-01
 categories: 
   - "weblog"

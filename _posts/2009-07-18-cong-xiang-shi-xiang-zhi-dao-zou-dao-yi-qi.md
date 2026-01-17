@@ -1,6 +1,7 @@
 ---
-layout: post
+layout: post 
 title: "从相识相知到走到一起"
+draft: false 
 date: 2009-07-18
 categories: 
   - "weblog"

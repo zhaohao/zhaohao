@@ -1,12 +1,13 @@
 ---
-layout: post
+layout: post 
 title: "无所不用其极"
+draft: false 
 date: 2014-11-07
 categories: 
   - "weblog"
 ---
 
-[![gate](images/gate.jpg)](https://zme.life/wp-content/uploads/gate.jpg)  
+![gate](/images/gate.jpg)  
   
 外面的世界很精彩，这里的世界很无奈……  
   

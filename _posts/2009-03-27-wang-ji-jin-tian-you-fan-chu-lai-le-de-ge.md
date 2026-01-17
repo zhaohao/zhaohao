@@ -1,6 +1,7 @@
 ---
-layout: post
+layout: post 
 title: "忘记-今天又翻出来了的歌"
+draft: false 
 date: 2009-03-27
 categories: 
   - "weblog"

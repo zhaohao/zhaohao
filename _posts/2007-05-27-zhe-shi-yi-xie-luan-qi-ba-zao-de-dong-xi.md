@@ -1,6 +1,7 @@
 ---
-layout: post
+layout: post 
 title: "这是一些乱七八糟的东西"
+draft: false 
 date: 2007-05-27
 categories: 
   - "weblog"

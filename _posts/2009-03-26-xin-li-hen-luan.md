@@ -1,6 +1,7 @@
 ---
-layout: post
+layout: post 
 title: "心里很乱"
+draft: false 
 date: 2009-03-26
 categories: 
   - "weblog"

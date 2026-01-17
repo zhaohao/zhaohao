@@ -1,6 +1,7 @@
 ---
-layout: post
+layout: post 
 title: "又是一些ANBB的只言片语"
+draft: false 
 date: 2007-05-23
 categories: 
   - "weblog"

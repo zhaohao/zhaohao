@@ -1,6 +1,7 @@
 ---
-layout: post
+layout: post 
 title: "两句话"
+draft: false 
 date: 2007-04-12
 categories: 
   - "weblog"

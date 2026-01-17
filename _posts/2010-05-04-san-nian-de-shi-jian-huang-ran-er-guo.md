@@ -1,6 +1,7 @@
 ---
-layout: post
+layout: post 
 title: "三年的时间恍然而过"
+draft: false 
 date: 2010-05-04
 categories: 
   - "weblog"

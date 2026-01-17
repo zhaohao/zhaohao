@@ -1,6 +1,7 @@
 ---
-layout: post
+layout: post 
 title: "一周又一周……"
+draft: false 
 date: 2007-09-23
 categories: 
   - "weblog"

@@ -1,6 +1,7 @@
 ---
-layout: post
+layout: post 
 title: "富士山下"
+draft: false 
 date: 2008-10-12
 categories: 
   - "weblog"

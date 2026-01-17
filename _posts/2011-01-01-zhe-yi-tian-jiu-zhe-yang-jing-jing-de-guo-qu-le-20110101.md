@@ -1,6 +1,7 @@
 ---
-layout: post
+layout: post 
 title: "这一天就这样静静的过去了~20110101"
+draft: false 
 date: 2011-01-01
 categories: 
   - "weblog"

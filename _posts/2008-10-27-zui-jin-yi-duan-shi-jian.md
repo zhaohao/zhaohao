@@ -1,6 +1,7 @@
 ---
-layout: post
+layout: post 
 title: "最近一段时间"
+draft: false 
 date: 2008-10-27
 categories: 
   - "weblog"

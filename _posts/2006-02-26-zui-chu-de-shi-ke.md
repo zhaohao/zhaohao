@@ -1,6 +1,7 @@
 ---
-layout: post
+layout: post 
 title: "最初的时刻。。。"
+draft: false 
 date: 2006-02-26
 categories: 
   - "weblog"

@@ -1,6 +1,7 @@
 ---
-layout: post
+layout: post 
 title: "日志里添加二维码"
+draft: false 
 date: 2024-04-24
 categories: 
   - "weblog"

@@ -1,6 +1,7 @@
 ---
-layout: post
+layout: post 
 title: "偶然听到的一首歌"
+draft: false 
 date: 2007-08-16
 categories: 
   - "weblog"

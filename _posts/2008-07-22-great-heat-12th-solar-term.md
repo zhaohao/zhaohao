@@ -1,6 +1,7 @@
 ---
-layout: post
+layout: post 
 title: "Great Heat (12th solar term)"
+draft: false 
 date: 2008-07-22
 categories: 
   - "weblog"

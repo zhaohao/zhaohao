@@ -1,6 +1,7 @@
 ---
-layout: post
+layout: post 
 title: "匆匆那年"
+draft: false 
 date: 2014-11-22
 categories: 
   - "weblog"

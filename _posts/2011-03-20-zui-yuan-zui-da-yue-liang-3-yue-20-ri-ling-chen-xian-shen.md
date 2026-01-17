@@ -1,6 +1,7 @@
 ---
-layout: post
+layout: post 
 title: "最圆最大月亮3月20日凌晨现身"
+draft: false 
 date: 2011-03-20
 categories: 
   - "weblog"

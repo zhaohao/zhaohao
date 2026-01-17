@@ -1,6 +1,7 @@
 ---
-layout: post
+layout: post 
 title: "不明白"
+draft: false 
 date: 2007-03-21
 categories: 
   - "weblog"

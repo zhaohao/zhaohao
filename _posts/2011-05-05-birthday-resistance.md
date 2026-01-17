@@ -1,6 +1,7 @@
 ---
-layout: post
+layout: post 
 title: "Birthday Resistance"
+draft: false 
 date: 2011-05-05
 categories: 
   - "weblog"

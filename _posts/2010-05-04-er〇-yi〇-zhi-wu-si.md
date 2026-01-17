@@ -1,6 +1,7 @@
 ---
-layout: post
+layout: post 
 title: "二〇一〇之五四"
+draft: false 
 date: 2010-05-04
 categories: 
   - "weblog"

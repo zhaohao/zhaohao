@@ -1,6 +1,7 @@
 ---
-layout: post
+layout: post 
 title: "百度地图"
+draft: false 
 date: 2014-08-12
 categories: 
   - "weblog"

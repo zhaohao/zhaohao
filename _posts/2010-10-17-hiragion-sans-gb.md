@@ -1,6 +1,7 @@
 ---
-layout: post
+layout: post 
 title: "Hiragion Sans GB"
+draft: false 
 date: 2010-10-17
 categories: 
   - "weblog"

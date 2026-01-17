@@ -1,6 +1,7 @@
 ---
-layout: post
+layout: post 
 title: "Windows live messager 8.0"
+draft: false 
 date: 2006-03-06
 categories: 
   - "weblog"

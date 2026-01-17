@@ -1,6 +1,7 @@
 ---
-layout: post
+layout: post 
 title: "In My Secret Life"
+draft: false 
 date: 2016-01-20
 categories: 
   - "featured"

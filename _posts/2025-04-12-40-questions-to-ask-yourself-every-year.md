@@ -1,6 +1,7 @@
 ---
-layout: post
+layout: post 
 title: "40 questions to ask yourself every year"
+draft: false 
 date: 2025-04-12
 categories: 
   - "memos"

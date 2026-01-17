@@ -1,6 +1,7 @@
 ---
-layout: post
+layout: post 
 title: "清澈之恋-杉野希妃"
+draft: false 
 date: 2008-10-25
 categories: 
   - "weblog"
@@ -8,7 +9,7 @@ categories:
 
 清澈之恋-杉野希妃  
   
-[![clean-love](images/clean-love.jpg)](https://zme.life/wp-content/uploads/clean-love.jpg)  
+![clean-love](/images/clean-love.jpg)  
   
 Posted on 2008-10-25 22:05
 

@@ -1,6 +1,7 @@
 ---
-layout: post
+layout: post 
 title: "又是无言的周末"
+draft: false 
 date: 2008-11-29
 categories: 
   - "weblog"

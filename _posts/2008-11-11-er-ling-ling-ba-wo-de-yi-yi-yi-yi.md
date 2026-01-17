@@ -1,6 +1,7 @@
 ---
-layout: post
+layout: post 
 title: "贰零零八我的壹壹壹壹"
+draft: false 
 date: 2008-11-11
 categories: 
   - "weblog"

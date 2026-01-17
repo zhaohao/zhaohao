@@ -1,6 +1,7 @@
 ---
-layout: post
+layout: post 
 title: "I've never been to me"
+draft: false 
 date: 2006-11-07
 categories: 
   - "weblog"

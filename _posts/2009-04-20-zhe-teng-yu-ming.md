@@ -1,6 +1,7 @@
 ---
-layout: post
+layout: post 
 title: "折腾域名"
+draft: false 
 date: 2009-04-20
 categories: 
   - "weblog"

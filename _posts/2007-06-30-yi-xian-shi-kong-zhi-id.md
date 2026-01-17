@@ -1,6 +1,7 @@
 ---
-layout: post
+layout: post 
 title: "逸仙时空之ID"
+draft: false 
 date: 2007-06-30
 categories: 
   - "weblog"

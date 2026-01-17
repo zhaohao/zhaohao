@@ -1,6 +1,7 @@
 ---
-layout: post
+layout: post 
 title: "转载：我们的聊天头像：“在线”或“隐身”到底为了谁？"
+draft: false 
 date: 2007-06-09
 categories: 
   - "weblog"

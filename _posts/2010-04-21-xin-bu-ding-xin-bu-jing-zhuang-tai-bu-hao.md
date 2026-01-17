@@ -1,6 +1,7 @@
 ---
-layout: post
+layout: post 
 title: "心不定，心不静，状态不好~"
+draft: false 
 date: 2010-04-21
 categories: 
   - "weblog"

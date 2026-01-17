@@ -1,6 +1,7 @@
 ---
-layout: post
+layout: post 
 title: "Rosetta.Stone 如师通"
+draft: false 
 date: 2011-03-01
 categories: 
   - "weblog"

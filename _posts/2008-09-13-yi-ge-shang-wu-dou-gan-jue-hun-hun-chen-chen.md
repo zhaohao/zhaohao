@@ -1,6 +1,7 @@
 ---
-layout: post
+layout: post 
 title: "一个上午都感觉昏昏沉沉"
+draft: false 
 date: 2008-09-13
 categories: 
   - "weblog"

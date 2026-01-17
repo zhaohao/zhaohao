@@ -1,6 +1,7 @@
 ---
-layout: post
+layout: post 
 title: "东邪西毒终极"
+draft: false 
 date: 2009-04-02
 categories: 
   - "weblog"

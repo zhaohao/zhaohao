@@ -1,6 +1,7 @@
 ---
-layout: post
+layout: post 
 title: "一生何求"
+draft: false 
 date: 2008-06-30
 categories: 
   - "weblog"

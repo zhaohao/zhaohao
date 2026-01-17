@@ -1,6 +1,7 @@
 ---
-layout: post
+layout: post 
 title: "曲终人散，无人喝彩"
+draft: false 
 date: 2007-06-27
 categories: 
   - "weblog"

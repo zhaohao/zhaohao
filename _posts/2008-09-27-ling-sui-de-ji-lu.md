@@ -1,6 +1,7 @@
 ---
-layout: post
+layout: post 
 title: "零碎的记录"
+draft: false 
 date: 2008-09-27
 categories: 
   - "weblog"

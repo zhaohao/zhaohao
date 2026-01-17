@@ -1,6 +1,7 @@
 ---
-layout: post
+layout: post 
 title: "深夜，零点四十多了，睡觉……"
+draft: false 
 date: 2009-04-29
 categories: 
   - "weblog"

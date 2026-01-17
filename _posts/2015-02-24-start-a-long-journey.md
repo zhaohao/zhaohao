@@ -1,6 +1,7 @@
 ---
-layout: post
+layout: post 
 title: "Start a long journey"
+draft: false 
 date: 2015-02-24
 categories: 
   - "weblog"

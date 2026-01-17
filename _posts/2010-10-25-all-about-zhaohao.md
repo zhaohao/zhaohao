@@ -1,6 +1,7 @@
 ---
-layout: post
+layout: post 
 title: "All about zhaohao"
+draft: false 
 date: 2010-10-25
 categories: 
   - "weblog"

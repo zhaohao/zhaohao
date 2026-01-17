@@ -1,6 +1,7 @@
 ---
-layout: post
+layout: post 
 title: "Wisdom of Confucius"
+draft: false 
 date: 2011-12-04
 categories: 
   - "weblog"

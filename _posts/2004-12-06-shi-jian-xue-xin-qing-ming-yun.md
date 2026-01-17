@@ -1,6 +1,7 @@
 ---
-layout: post
+layout: post 
 title: "时间、雪、心情、命运"
+draft: false 
 date: 2004-12-06
 categories: 
   - "weblog"

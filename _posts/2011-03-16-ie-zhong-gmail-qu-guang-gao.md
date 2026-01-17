@@ -1,6 +1,7 @@
 ---
-layout: post
+layout: post 
 title: "IE中Gmail去广告"
+draft: false 
 date: 2011-03-16
 categories: 
   - "weblog"

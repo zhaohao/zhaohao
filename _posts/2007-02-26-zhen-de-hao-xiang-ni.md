@@ -1,6 +1,7 @@
 ---
-layout: post
+layout: post 
 title: "真的好想你"
+draft: false 
 date: 2007-02-26
 categories: 
   - "weblog"

@@ -1,6 +1,7 @@
 ---
-layout: post
+layout: post 
 title: "This weekend 无题"
+draft: false 
 date: 2008-08-03
 categories: 
   - "weblog"

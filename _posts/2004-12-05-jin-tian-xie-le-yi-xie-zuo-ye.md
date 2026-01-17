@@ -1,6 +1,7 @@
 ---
-layout: post
+layout: post 
 title: "今天写了一些作业"
+draft: false 
 date: 2004-12-05
 categories: 
   - "weblog"

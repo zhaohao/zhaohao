@@ -1,6 +1,7 @@
 ---
-layout: post
+layout: post 
 title: "Test Network"
+draft: false 
 date: 2012-10-27
 categories: 
   - "weblog"

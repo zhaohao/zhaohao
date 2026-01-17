@@ -1,6 +1,7 @@
 ---
-layout: post
+layout: post 
 title: "若伊今天又发烧了"
+draft: false 
 date: 2014-09-05
 categories: 
   - "weblog"

@@ -1,6 +1,7 @@
 ---
-layout: post
+layout: post 
 title: "Vector RB-100钟控收音机"
+draft: false 
 date: 2015-05-01
 categories: 
   - "weblog"
@@ -14,12 +15,12 @@ categories:
   
 外壳也没有预想的粗糙感，很细致。想自己打开看看调高光、低光的问题，去掉仅有的两个螺丝后无从下手了，外壳还是卡的紧紧的，看来内部的卡扣有很多，无损拆开看来难度不小，索性先放下了。  
   
-[![Nikon 2015-04-29 22-24-51](images/Nikon-2015-04-29-22-24-51.jpg)](https://zme.life/wp-content/uploads/Nikon-2015-04-29-22-24-51.jpg)  
+![Nikon 2015-04-29 22-24-51](/images/Nikon-2015-04-29-22-24-51.jpg)  
   
-[![Nikon 2015-04-29 22-25-06](images/Nikon-2015-04-29-22-25-06.jpg)](https://zme.life/wp-content/uploads/Nikon-2015-04-29-22-25-06.jpg)  
+![Nikon 2015-04-29 22-25-06](/images/Nikon-2015-04-29-22-25-06.jpg)  
   
-[![Nikon 2015-04-29 22-25-17](images/Nikon-2015-04-29-22-25-17.jpg)](https://zme.life/wp-content/uploads/Nikon-2015-04-29-22-25-17.jpg)  
+![Nikon 2015-04-29 22-25-17](/images/Nikon-2015-04-29-22-25-17.jpg)  
   
-[![Nikon 2015-04-29 22-25-27](images/Nikon-2015-04-29-22-25-27.jpg)](https://zme.life/wp-content/uploads/Nikon-2015-04-29-22-25-27.jpg)
+![Nikon 2015-04-29 22-25-27](/images/Nikon-2015-04-29-22-25-27.jpg)
 
 stardust@live.com

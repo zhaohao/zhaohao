@@ -1,6 +1,7 @@
 ---
-layout: post
+layout: post 
 title: "外面呜呜的风声"
+draft: false 
 date: 2011-03-22
 categories: 
   - "weblog"

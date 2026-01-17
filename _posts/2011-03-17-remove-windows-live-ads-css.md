@@ -1,6 +1,7 @@
 ---
-layout: post
+layout: post 
 title: "Remove Windows live Ads CSS"
+draft: false 
 date: 2011-03-17
 categories: 
   - "weblog"

@@ -1,6 +1,7 @@
 ---
-layout: post
+layout: post 
 title: "世界上最远的距离"
+draft: false 
 date: 2018-08-08
 categories: 
   - "weblog"

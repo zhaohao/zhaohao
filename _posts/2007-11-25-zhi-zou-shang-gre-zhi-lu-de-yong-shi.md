@@ -1,6 +1,7 @@
 ---
-layout: post
+layout: post 
 title: "致走上GRE之路的勇士"
+draft: false 
 date: 2007-11-25
 categories: 
   - "weblog"

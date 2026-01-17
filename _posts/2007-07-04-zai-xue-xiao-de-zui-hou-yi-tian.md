@@ -1,6 +1,7 @@
 ---
-layout: post
+layout: post 
 title: "在学校的最后一天"
+draft: false 
 date: 2007-07-04
 categories: 
   - "weblog"

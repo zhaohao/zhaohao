@@ -1,6 +1,7 @@
 ---
-layout: post
+layout: post 
 title: "Delicious is moving to a new home"
+draft: false 
 date: 2011-04-28
 categories: 
   - "weblog"

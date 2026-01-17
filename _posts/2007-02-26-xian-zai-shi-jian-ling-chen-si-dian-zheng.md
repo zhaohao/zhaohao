@@ -1,6 +1,7 @@
 ---
-layout: post
+layout: post 
 title: "现在时间，凌晨四点整"
+draft: false 
 date: 2007-02-26
 categories: 
   - "weblog"

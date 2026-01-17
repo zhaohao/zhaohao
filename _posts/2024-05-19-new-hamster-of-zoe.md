@@ -1,6 +1,7 @@
 ---
-layout: post
+layout: post 
 title: "小树的仓鼠到了"
+draft: false 
 date: 2024-05-19
 categories: 
   - "default"

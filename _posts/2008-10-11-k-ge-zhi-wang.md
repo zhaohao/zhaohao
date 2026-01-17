@@ -1,6 +1,7 @@
 ---
-layout: post
+layout: post 
 title: "K歌之王"
+draft: false 
 date: 2008-10-11
 categories: 
   - "weblog"

@@ -1,6 +1,7 @@
 ---
-layout: post
+layout: post 
 title: "Fwd: An invitation to ifttt"
+draft: false 
 date: 2011-07-28
 categories: 
   - "weblog"

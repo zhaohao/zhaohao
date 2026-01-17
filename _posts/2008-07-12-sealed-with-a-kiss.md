@@ -1,6 +1,7 @@
 ---
-layout: post
+layout: post 
 title: "Sealed with a kiss"
+draft: false 
 date: 2008-07-12
 categories: 
   - "weblog"

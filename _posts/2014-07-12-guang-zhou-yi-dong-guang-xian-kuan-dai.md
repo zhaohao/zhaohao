@@ -1,6 +1,7 @@
 ---
-layout: post
+layout: post 
 title: "广州移动光纤宽带"
+draft: false 
 date: 2014-07-12
 categories: 
   - "weblog"

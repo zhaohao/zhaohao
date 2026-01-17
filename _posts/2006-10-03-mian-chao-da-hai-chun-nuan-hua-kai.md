@@ -1,6 +1,7 @@
 ---
-layout: post
+layout: post 
 title: "面朝大海, 春暖花开"
+draft: false 
 date: 2006-10-03
 categories: 
   - "weblog"

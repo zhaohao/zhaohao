@@ -1,6 +1,7 @@
 ---
-layout: post
+layout: post 
 title: "情人节 继续一个人"
+draft: false 
 date: 2009-02-14
 categories: 
   - "weblog"

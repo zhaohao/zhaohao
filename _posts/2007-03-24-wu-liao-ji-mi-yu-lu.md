@@ -1,6 +1,7 @@
 ---
-layout: post
+layout: post 
 title: "无聊-几米语录"
+draft: false 
 date: 2007-03-24
 categories: 
   - "weblog"

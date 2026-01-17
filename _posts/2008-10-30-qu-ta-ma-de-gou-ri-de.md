@@ -1,6 +1,7 @@
 ---
-layout: post
+layout: post 
 title: "去它-妈-的狗日-的……"
+draft: false 
 date: 2008-10-30
 categories: 
   - "weblog"

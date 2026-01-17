@@ -1,6 +1,7 @@
 ---
-layout: post
+layout: post 
 title: "They force you to think about yourself~"
+draft: false 
 date: 2010-10-05
 categories: 
   - "weblog"

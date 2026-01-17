@@ -1,6 +1,7 @@
 ---
-layout: post
+layout: post 
 title: "感到有点孤单和无奈"
+draft: false 
 date: 2008-01-11
 categories: 
   - "weblog"

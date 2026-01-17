@@ -1,6 +1,7 @@
 ---
-layout: post
+layout: post 
 title: "在DigitalOcean的Ubuntu VPS上安装Ghost"
+draft: false 
 date: 2014-10-24
 categories: 
   - "weblog"
@@ -11,7 +12,7 @@ Ghost博客系统刚刚发布的时候就在官方站点注册了一个尝试，
   
 在PC上也安装了本地的Ghost博客系统，对模版还有其它一些功能有了进一步的了解。  
   
-前面还冲了$5.0加送了$10在Linode上开了VPS，选的最便宜的0.015/hr to $10/mo，运行了大概一周时间,在上面折腾了一次Ghost的安装，都还顺利，因为有Bluehost的Wordpress博客，所以也就没有再继续折腾，在耗费了$2.79之后就删掉了VPS,上面的Ghost也随着永远的消失掉。  
+前面还冲了5.0美元加送了10美元在Linode上开了VPS，选的最便宜的0.015/hr to 10美元/mo，运行了大概一周时间,在上面折腾了一次Ghost的安装，都还顺利，因为有Bluehost的Wordpress博客，所以也就没有再继续折腾，在耗费了2.79美元之后就删掉了VPS,上面的Ghost也随着永远的消失掉。  
   
 几天前又在DigitalOcean上开了个VPS,DigitalOcean上的更简单彻底，新建Droplet的时候直接可选配置好Ghost的系统，不过是64位的Ubuntu，想着内存总共才512M，想把系统换为32位的试下，DigitalOcean后台里有更换内核的选项，不过没有使用，不知道好不好用。  
   

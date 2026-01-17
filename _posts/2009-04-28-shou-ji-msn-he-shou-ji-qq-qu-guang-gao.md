@@ -1,6 +1,7 @@
 ---
-layout: post
+layout: post 
 title: "手机MSN和手机QQ去广告"
+draft: false 
 date: 2009-04-28
 categories: 
   - "weblog"

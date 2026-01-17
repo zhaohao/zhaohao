@@ -1,6 +1,7 @@
 ---
-layout: post
+layout: post 
 title: "降温两天中"
+draft: false 
 date: 2007-04-06
 categories: 
   - "weblog"

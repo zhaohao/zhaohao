@@ -1,6 +1,7 @@
 ---
-layout: post
+layout: post 
 title: "无言的周末"
+draft: false 
 date: 2005-03-19
 categories: 
   - "weblog"

@@ -1,6 +1,7 @@
 ---
-layout: post
+layout: post 
 title: "无聊而已"
+draft: false 
 date: 2009-04-15
 categories: 
   - "weblog"

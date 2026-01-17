@@ -1,6 +1,7 @@
 ---
-layout: post
+layout: post 
 title: "只言片语二零一零年七月"
+draft: false 
 date: 2010-07-30
 categories: 
   - "weblog"

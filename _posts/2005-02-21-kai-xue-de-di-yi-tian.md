@@ -1,6 +1,7 @@
 ---
-layout: post
+layout: post 
 title: "开学的第一天"
+draft: false 
 date: 2005-02-21
 categories: 
   - "weblog"

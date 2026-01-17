@@ -1,6 +1,7 @@
 ---
-layout: post
+layout: post 
 title: "等待暑假周记事"
+draft: false 
 date: 2024-07-10
 categories: 
   - "default"

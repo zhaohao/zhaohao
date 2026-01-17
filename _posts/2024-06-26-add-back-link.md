@@ -1,6 +1,7 @@
 ---
-layout: post
+layout: post 
 title: "页面设置后退按钮"
+draft: false 
 date: 2024-06-26
 categories: 
   - "weblog"
@@ -27,7 +28,7 @@ tags:
 去操作，发现chrome或者edge里都好，但在安卓的Via浏览器中不起作用。后面修改为onclick事件：
 
 ```html
-<a onclick="(() => (history.length === 1) ? window.location = '/' : history.back())()"> Go back </a>
+<a onclick="(() => (history.length === 1) ? window.location = '/' : history.back()()"> Go back </a>
 ```
 
 能够正常使用了。  

@@ -1,6 +1,7 @@
 ---
-layout: post
+layout: post 
 title: "一个星期没有写东西了"
+draft: false 
 date: 2007-05-09
 categories: 
   - "weblog"

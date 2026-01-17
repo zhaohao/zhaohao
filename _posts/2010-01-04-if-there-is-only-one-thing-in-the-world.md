@@ -1,6 +1,7 @@
 ---
-layout: post
+layout: post 
 title: "If there is only one thing in the world"
+draft: false 
 date: 2010-01-04
 categories: 
   - "weblog"

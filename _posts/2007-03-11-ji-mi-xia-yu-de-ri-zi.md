@@ -1,12 +1,13 @@
 ---
-layout: post
+layout: post 
 title: "几米－下雨的日子"
+draft: false 
 date: 2007-03-11
 categories: 
   - "weblog"
 ---
 
-[![](images/xiayu2.jpg)](https://zme.life/wp-content/uploads/xiayu2.jpg)下雨的日子  
+![](/images/xiayu2.jpg)下雨的日子  
   
 雨就这么一直下着，我就这么一直望着  
   

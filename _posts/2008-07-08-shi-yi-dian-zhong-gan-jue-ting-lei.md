@@ -1,6 +1,7 @@
 ---
-layout: post
+layout: post 
 title: "十一点钟，感觉挺累"
+draft: false 
 date: 2008-07-08
 categories: 
   - "weblog"

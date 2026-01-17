@@ -1,6 +1,7 @@
 ---
-layout: post
+layout: post 
 title: "F.I.R MTV有一个地方"
+draft: false 
 date: 2007-09-30
 categories: 
   - "weblog"

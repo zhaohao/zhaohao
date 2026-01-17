@@ -1,6 +1,7 @@
 ---
-layout: post
+layout: post 
 title: "网文-满满的负能量OR真相"
+draft: false 
 date: 2015-11-08
 categories: 
   - "weblog"

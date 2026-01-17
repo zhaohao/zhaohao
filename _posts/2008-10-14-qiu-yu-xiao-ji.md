@@ -1,6 +1,7 @@
 ---
-layout: post
+layout: post 
 title: "秋雨小记"
+draft: false 
 date: 2008-10-14
 categories: 
   - "weblog"

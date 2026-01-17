@@ -1,6 +1,7 @@
 ---
-layout: post
+layout: post 
 title: "iPad User Agent"
+draft: false 
 date: 2011-03-12
 categories: 
   - "weblog"

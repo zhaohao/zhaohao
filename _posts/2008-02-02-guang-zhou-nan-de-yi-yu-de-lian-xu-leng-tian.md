@@ -1,6 +1,7 @@
 ---
-layout: post
+layout: post 
 title: "广州难得一遇的连续冷天"
+draft: false 
 date: 2008-02-02
 categories: 
   - "weblog"

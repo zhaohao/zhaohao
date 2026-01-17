@@ -1,6 +1,7 @@
 ---
-layout: post
+layout: post 
 title: "Goagent客户端漏洞"
+draft: false 
 date: 2014-12-06
 categories: 
   - "weblog"

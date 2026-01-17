@@ -1,6 +1,7 @@
 ---
-layout: post
+layout: post 
 title: "We Are The Champions"
+draft: false 
 date: 2014-10-07
 categories: 
   - "weblog"
@@ -15,6 +16,6 @@ categories:
   
 Queen乐队的We are the champions，歌曲循环播放。  
   
-[![Queen](images/Queen.jpg)](https://zme.life/wp-content/uploads/Queen.jpg)
+![Queen](/images/Queen.jpg)
 
 stardust@live.com

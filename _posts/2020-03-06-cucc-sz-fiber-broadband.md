@@ -1,6 +1,7 @@
 ---
-layout: post
+layout: post 
 title: "深圳联通宽带小折腾"
+draft: false 
 date: 2020-03-06
 categories: 
   - "weblog"

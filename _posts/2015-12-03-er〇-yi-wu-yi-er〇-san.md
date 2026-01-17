@@ -1,13 +1,14 @@
 ---
-layout: post
+layout: post 
 title: "二〇一五一二〇三"
+draft: false 
 date: 2015-12-03
 categories: 
   - "weblog"
 ---
 
 过了这一天，又一个周岁。感谢Acui，感谢Zoe。  
-![IMG20151203](images/IMG20151203.jpg)  
+![IMG20151203](/images/IMG20151203.jpg)  
 昨天还是穿短袖衫的温度，今天降了些温度，天气是很舒服的清凉，一直飘飘洒洒着毛毛细雨。  
 傍晚走路去超市，一路单曲循环着一首歌，烟雨蒙蒙的感觉。  
   

@@ -1,6 +1,7 @@
 ---
-layout: post
+layout: post 
 title: "梦 Dream"
+draft: false 
 date: 2014-07-27
 categories: 
   - "weblog"
@@ -18,6 +19,6 @@ categories:
   
 恍然若隔世……  
   
-[![loopdool-bg.jpg](images/loopdool-bg.jpg)](https://zme.life/wp-content/uploads/loopdool-bg.jpg)
+![loopdool-bg.jpg](/images/loopdool-bg.jpg)
 
 stardust@live.com

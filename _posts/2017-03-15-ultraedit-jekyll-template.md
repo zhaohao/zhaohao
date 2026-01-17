@@ -1,6 +1,7 @@
 ---
-layout: post
+layout: post 
 title: "使用UltraEdit快速插入Jekyll日志模板"
+draft: false 
 date: 2017-03-15
 categories: 
   - "weblog"
@@ -10,7 +11,6 @@ categories:
 
 ```ruby
 ---
-layout: post
 title: ^  
 #设置插入模板后光标位置
 subtitle: 

@@ -1,6 +1,7 @@
 ---
-layout: post
+layout: post 
 title: "IPV6设置整理"
+draft: false 
 date: 2010-08-28
 categories: 
   - "weblog"

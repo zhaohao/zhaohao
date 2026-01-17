@@ -1,6 +1,7 @@
 ---
-layout: post
+layout: post 
 title: "一些碎碎念"
+draft: false 
 date: 2020-12-07
 categories: 
   - "memos"
@@ -16,4 +17,4 @@ categories:
 
 上传了新照片 2020-12-17 10:06
 
-![](images/2020-12-07-fanfou-wordpress.jpg)
+![](/images/2020-12-07-fanfou-wordpress.jpg)

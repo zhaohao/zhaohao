@@ -1,6 +1,7 @@
 ---
-layout: post
+layout: post 
 title: "跟往事干杯……"
+draft: false 
 date: 2008-08-13
 categories: 
   - "weblog"

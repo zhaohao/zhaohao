@@ -1,6 +1,7 @@
 ---
-layout: post
+layout: post 
 title: "感冒了，头痛难受"
+draft: false 
 date: 2008-11-01
 categories: 
   - "weblog"

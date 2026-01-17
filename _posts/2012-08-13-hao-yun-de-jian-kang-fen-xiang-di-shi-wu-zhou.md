@@ -1,6 +1,7 @@
 ---
-layout: post
+layout: post 
 title: "好孕的健康分享 第十五周"
+draft: false 
 date: 2012-08-13
 categories: 
   - "weblog"

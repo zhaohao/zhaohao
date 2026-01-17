@@ -1,6 +1,7 @@
 ---
-layout: post
+layout: post 
 title: "十一月了，冬天了"
+draft: false 
 date: 2008-11-08
 categories: 
   - "weblog"

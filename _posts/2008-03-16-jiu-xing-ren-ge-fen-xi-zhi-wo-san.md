@@ -1,6 +1,7 @@
 ---
-layout: post
+layout: post 
 title: "九型人格分析之我（三）"
+draft: false 
 date: 2008-03-16
 categories: 
   - "weblog"

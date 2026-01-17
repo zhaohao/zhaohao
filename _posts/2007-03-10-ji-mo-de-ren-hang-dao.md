@@ -1,6 +1,7 @@
 ---
-layout: post
+layout: post 
 title: "寂寞的人行道"
+draft: false 
 date: 2007-03-10
 categories: 
   - "weblog"

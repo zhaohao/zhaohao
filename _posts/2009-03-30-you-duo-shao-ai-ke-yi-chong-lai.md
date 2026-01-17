@@ -1,6 +1,7 @@
 ---
-layout: post
+layout: post 
 title: "有多少爱可以重来"
+draft: false 
 date: 2009-03-30
 categories: 
   - "weblog"

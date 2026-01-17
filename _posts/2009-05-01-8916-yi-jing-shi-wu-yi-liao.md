@@ -1,6 +1,7 @@
 ---
-layout: post
+layout: post 
 title: "[8916]已经是五一了"
+draft: false 
 date: 2009-05-01
 categories: 
   - "weblog"

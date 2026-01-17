@@ -1,6 +1,7 @@
 ---
-layout: post
+layout: post 
 title: "夜空中最亮的星"
+draft: false 
 date: 2014-07-27
 categories: 
   - "weblog"
@@ -30,6 +31,6 @@ categories:
   
 \[audio mp3="/wp-content/uploads/star.mp3"\]\[/audio\]  
   
-[![shinning-star](images/shinning-star.jpg)](https://zme.life/wp-content/uploads/shinning-star.jpg)
+![shinning-star](/images/shinning-star.jpg)
 
 stardust@live.com

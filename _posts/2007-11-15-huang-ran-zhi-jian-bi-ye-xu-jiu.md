@@ -1,6 +1,7 @@
 ---
-layout: post
+layout: post 
 title: "恍然之间毕业许久……"
+draft: false 
 date: 2007-11-15
 categories: 
   - "weblog"

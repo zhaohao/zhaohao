@@ -1,6 +1,7 @@
 ---
-layout: post
+layout: post 
 title: "Colors of the wind"
+draft: false 
 date: 2007-05-25
 categories: 
   - "weblog"

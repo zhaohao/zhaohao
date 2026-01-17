@@ -1,6 +1,7 @@
 ---
-layout: post
+layout: post 
 title: "Bye Olympic 2008&假如-世界之大"
+draft: false 
 date: 2008-08-24
 categories: 
   - "weblog"

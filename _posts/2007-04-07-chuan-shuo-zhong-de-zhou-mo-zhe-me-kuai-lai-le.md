@@ -1,6 +1,7 @@
 ---
-layout: post
+layout: post 
 title: "传说中的周末这么快来了？"
+draft: false 
 date: 2007-04-07
 categories: 
   - "weblog"

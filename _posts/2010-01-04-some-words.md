@@ -1,6 +1,7 @@
 ---
-layout: post
+layout: post 
 title: "Some Words"
+draft: false 
 date: 2010-01-04
 categories: 
   - "weblog"

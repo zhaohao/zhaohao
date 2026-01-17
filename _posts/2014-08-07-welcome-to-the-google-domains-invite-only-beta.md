@@ -1,6 +1,7 @@
 ---
-layout: post
+layout: post 
 title: "Welcome to the Google Domains invite-only beta!"
+draft: false 
 date: 2014-08-07
 categories: 
   - "weblog"

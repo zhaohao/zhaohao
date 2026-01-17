@@ -1,6 +1,7 @@
 ---
-layout: post
+layout: post 
 title: "刷了Android 5.0 lollipop正式版"
+draft: false 
 date: 2014-11-13
 categories: 
   - "weblog"
@@ -12,6 +13,6 @@ QQ国际版依旧不支持，进动态假死无响应，再试了新版的更新
   
 搜索短信相关应用现在才知道Google有了新的应用Messenger作为短信应用，MaterialDesign风格的外观，整洁清晰的布局，相比纷乱复杂的Hangouts环聊好用太多了。  
   
-[![lollipop](images/lollipop.jpg)](https://zme.life/wp-content/uploads/lollipop.jpg)
+![lollipop](/images/lollipop.jpg)
 
 stardust@live.com

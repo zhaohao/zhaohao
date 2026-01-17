@@ -1,6 +1,7 @@
 ---
-layout: post
+layout: post 
 title: "欲无止境"
+draft: false 
 date: 2010-12-18
 categories: 
   - "weblog"

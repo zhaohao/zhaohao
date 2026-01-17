@@ -1,6 +1,7 @@
 ---
-layout: post
+layout: post 
 title: "I have no choice but to continue"
+draft: false 
 date: 2008-07-25
 categories: 
   - "weblog"

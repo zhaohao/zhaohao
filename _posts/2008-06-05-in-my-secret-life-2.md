@@ -1,6 +1,7 @@
 ---
-layout: post
+layout: post 
 title: "In my Secret Life"
+draft: false 
 date: 2008-06-05
 categories: 
   - "weblog"

@@ -1,6 +1,7 @@
 ---
-layout: post
+layout: post 
 title: "二零零七年九月"
+draft: false 
 date: 2007-09-30
 categories: 
   - "weblog"

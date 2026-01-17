@@ -1,6 +1,7 @@
 ---
-layout: post
+layout: post 
 title: "记忆考验"
+draft: false 
 date: 2006-03-15
 categories: 
   - "weblog"

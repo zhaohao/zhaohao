@@ -1,6 +1,7 @@
 ---
-layout: post
+layout: post 
 title: "或大或小的梦想"
+draft: false 
 date: 2010-01-04
 categories: 
   - "weblog"

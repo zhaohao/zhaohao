@@ -1,6 +1,7 @@
 ---
-layout: post
+layout: post 
 title: "今天，一个永生难忘的日子"
+draft: false 
 date: 2009-07-18
 categories: 
   - "weblog"

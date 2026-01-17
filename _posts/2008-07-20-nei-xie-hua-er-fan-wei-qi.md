@@ -1,6 +1,7 @@
 ---
-layout: post
+layout: post 
 title: "那些花儿-范玮琪"
+draft: false 
 date: 2008-07-20
 categories: 
   - "weblog"

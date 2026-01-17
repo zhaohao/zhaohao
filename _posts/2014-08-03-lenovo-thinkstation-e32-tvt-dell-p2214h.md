@@ -1,6 +1,7 @@
 ---
-layout: post
+layout: post 
 title: "Lenovo ThinkStation E32 TVT & DELL P2214H"
+draft: false 
 date: 2014-08-03
 categories: 
   - "weblog"
@@ -19,6 +20,6 @@ categories:
 声卡 瑞昱 ALC662 @ 英特尔 Haswell 高保真音频  
 网卡 英特尔 Ethernet Connection I217-LM / 联想  
   
-[![Nikon 2014-08-03 21-03-13](images/Nikon-2014-08-03-21-03-13.jpg)](https://zme.life/wp-content/uploads/Nikon-2014-08-03-21-03-13.jpg) [![Nikon 2014-08-03 21-12-11](images/Nikon-2014-08-03-21-12-11.jpg)](https://zme.life/wp-content/uploads/Nikon-2014-08-03-21-12-11.jpg)
+![Nikon 2014-08-03 21-03-13](/images/Nikon-2014-08-03-21-03-13.jpg) ![Nikon 2014-08-03 21-12-11](/images/Nikon-2014-08-03-21-12-11.jpg)
 
 stardust@live.com

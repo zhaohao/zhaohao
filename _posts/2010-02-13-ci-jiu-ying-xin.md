@@ -1,6 +1,7 @@
 ---
-layout: post
+layout: post 
 title: "辞旧迎新"
+draft: false 
 date: 2010-02-13
 categories: 
   - "weblog"

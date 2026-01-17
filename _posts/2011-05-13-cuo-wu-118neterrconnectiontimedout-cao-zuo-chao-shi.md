@@ -1,6 +1,7 @@
 ---
-layout: post
+layout: post 
 title: "错误 118 (net::ERR_CONNECTION_TIMED_OUT)：操作超时。"
+draft: false 
 date: 2011-05-13
 categories: 
   - "weblog"

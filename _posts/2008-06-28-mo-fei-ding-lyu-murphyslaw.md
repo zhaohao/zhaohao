@@ -1,6 +1,7 @@
 ---
-layout: post
+layout: post 
 title: "墨菲定律(Murphy's Law)"
+draft: false 
 date: 2008-06-28
 categories: 
   - "weblog"

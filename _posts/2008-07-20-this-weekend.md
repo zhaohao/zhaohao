@@ -1,6 +1,7 @@
 ---
-layout: post
+layout: post 
 title: "This Weekend"
+draft: false 
 date: 2008-07-20
 categories: 
   - "weblog"

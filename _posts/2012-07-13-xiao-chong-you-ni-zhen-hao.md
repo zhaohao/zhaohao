@@ -1,6 +1,7 @@
 ---
-layout: post
+layout: post 
 title: "小虫 – 有你真好"
+draft: false 
 date: 2012-07-13
 categories: 
   - "weblog"

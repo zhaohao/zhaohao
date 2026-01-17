@@ -1,6 +1,7 @@
 ---
-layout: post
+layout: post 
 title: "今天又到了快一点了"
+draft: false 
 date: 2004-12-05
 categories: 
   - "weblog"

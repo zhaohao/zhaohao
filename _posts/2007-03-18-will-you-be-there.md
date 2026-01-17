@@ -1,6 +1,7 @@
 ---
-layout: post
+layout: post 
 title: "Will You Be There"
+draft: false 
 date: 2007-03-18
 categories: 
   - "weblog"

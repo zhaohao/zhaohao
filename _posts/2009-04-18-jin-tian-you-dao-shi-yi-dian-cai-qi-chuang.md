@@ -1,6 +1,7 @@
 ---
-layout: post
+layout: post 
 title: "今天又到十一点才起床"
+draft: false 
 date: 2009-04-18
 categories: 
   - "weblog"

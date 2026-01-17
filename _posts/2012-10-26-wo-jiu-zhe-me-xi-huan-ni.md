@@ -1,6 +1,7 @@
 ---
-layout: post
+layout: post 
 title: "我就这么喜欢你……"
+draft: false 
 date: 2012-10-26
 categories: 
   - "weblog"

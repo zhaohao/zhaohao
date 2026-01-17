@@ -1,6 +1,7 @@
 ---
-layout: post
+layout: post 
 title: "这一年多来太低效了"
+draft: false 
 date: 2008-08-18
 categories: 
   - "weblog"

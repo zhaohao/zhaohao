@@ -1,6 +1,7 @@
 ---
-layout: post
+layout: post 
 title: "国内域名转移问题"
+draft: false 
 date: 2009-04-14
 categories: 
   - "weblog"

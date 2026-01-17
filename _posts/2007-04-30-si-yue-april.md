@@ -1,6 +1,7 @@
 ---
-layout: post
+layout: post 
 title: "四月 April"
+draft: false 
 date: 2007-04-30
 categories: 
   - "weblog"

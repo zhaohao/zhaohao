@@ -1,6 +1,7 @@
 ---
-layout: post
+layout: post 
 title: "The last day of July"
+draft: false 
 date: 2008-07-31
 categories: 
   - "weblog"

@@ -1,6 +1,7 @@
 ---
-layout: post
+layout: post 
 title: "联想入门机械键盘MK100"
+draft: false 
 date: 2015-06-19
 categories: 
   - "weblog"
@@ -14,8 +15,8 @@ categories:
   
 一些人评价外观丑，字符丑，可自己就是因为感觉外观简单漂亮，字符个性美观才入手的……  
   
-[![IMG_20150617_184107](images/IMG_20150617_184107.jpg)](https://zme.life/wp-content/uploads/IMG_20150617_184107.jpg)  
+![IMG_20150617_184107](/images/IMG_20150617_184107.jpg)  
   
-[![IMG_20150617_211100](images/IMG_20150617_211100.jpg)](https://zme.life/wp-content/uploads/IMG_20150617_211100.jpg)
+![IMG_20150617_211100](/images/IMG_20150617_211100.jpg)
 
 stardust@live.com

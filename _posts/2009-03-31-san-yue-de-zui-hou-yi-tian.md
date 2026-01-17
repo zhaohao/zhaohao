@@ -1,6 +1,7 @@
 ---
-layout: post
+layout: post 
 title: "三月的最后一天"
+draft: false 
 date: 2009-03-31
 categories: 
   - "weblog"

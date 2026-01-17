@@ -1,6 +1,7 @@
 ---
-layout: post
+layout: post 
 title: "伸手摘星"
+draft: false 
 date: 2006-11-26
 categories: 
   - "weblog"

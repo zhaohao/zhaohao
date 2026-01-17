@@ -1,6 +1,7 @@
 ---
-layout: post
+layout: post 
 title: "试着添加了HTTPS的支持"
+draft: false 
 date: 2015-07-16
 categories: 
   - "weblog"

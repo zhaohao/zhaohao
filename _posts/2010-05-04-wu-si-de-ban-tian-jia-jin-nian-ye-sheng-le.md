@@ -1,6 +1,7 @@
 ---
-layout: post
+layout: post 
 title: "五四的半天假今年也省了"
+draft: false 
 date: 2010-05-04
 categories: 
   - "weblog"

@@ -1,6 +1,7 @@
 ---
-layout: post
+layout: post 
 title: "又是一年毕业时"
+draft: false 
 date: 2006-06-23
 categories: 
   - "weblog"

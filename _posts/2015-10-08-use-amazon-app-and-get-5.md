@@ -1,6 +1,7 @@
 ---
-layout: post
+layout: post 
 title: "Use Amazon App and get $5"
+draft: false 
 date: 2015-10-08
 categories: 
   - "weblog"

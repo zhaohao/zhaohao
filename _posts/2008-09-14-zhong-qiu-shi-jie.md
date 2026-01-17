@@ -1,6 +1,7 @@
 ---
-layout: post
+layout: post 
 title: "中秋时节"
+draft: false 
 date: 2008-09-14
 categories: 
   - "weblog"

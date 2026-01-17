@@ -1,6 +1,7 @@
 ---
-layout: post
+layout: post 
 title: "到了夏天"
+draft: false 
 date: 2025-04-21
 categories: 
   - "memos"

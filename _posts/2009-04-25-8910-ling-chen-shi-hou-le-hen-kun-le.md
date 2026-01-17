@@ -1,6 +1,7 @@
 ---
-layout: post
+layout: post 
 title: "[8910]凌晨时候了，很困了"
+draft: false 
 date: 2009-04-25
 categories: 
   - "weblog"

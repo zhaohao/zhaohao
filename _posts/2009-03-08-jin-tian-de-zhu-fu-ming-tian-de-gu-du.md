@@ -1,6 +1,7 @@
 ---
-layout: post
+layout: post 
 title: "今天的祝福，明天的孤独"
+draft: false 
 date: 2009-03-08
 categories: 
   - "weblog"

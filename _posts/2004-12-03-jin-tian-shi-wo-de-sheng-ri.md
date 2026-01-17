@@ -1,6 +1,7 @@
 ---
-layout: post
+layout: post 
 title: "今天是我的生日"
+draft: false 
 date: 2004-12-03
 categories: 
   - "weblog"

@@ -1,6 +1,7 @@
 ---
-layout: post
+layout: post 
 title: "见到流星"
+draft: false 
 date: 2015-04-26
 categories: 
   - "weblog"

@@ -1,6 +1,7 @@
 ---
-layout: post
+layout: post 
 title: "LUX光照度"
+draft: false 
 date: 2013-12-14
 categories: 
   - "weblog"

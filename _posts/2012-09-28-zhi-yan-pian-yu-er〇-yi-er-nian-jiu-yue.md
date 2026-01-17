@@ -1,6 +1,7 @@
 ---
-layout: post
+layout: post 
 title: "只言片语二〇一二年九月"
+draft: false 
 date: 2012-09-28
 categories: 
   - "weblog"

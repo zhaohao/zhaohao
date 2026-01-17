@@ -1,6 +1,7 @@
 ---
-layout: post
+layout: post 
 title: "下雨的时候&空白"
+draft: false 
 date: 2008-05-30
 categories: 
   - "weblog"

@@ -1,6 +1,7 @@
 ---
-layout: post
+layout: post 
 title: "无题转载"
+draft: false 
 date: 2010-03-29
 categories: 
   - "weblog"

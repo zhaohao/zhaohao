@@ -1,6 +1,7 @@
 ---
-layout: post
+layout: post 
 title: "昨天在VPS上装好了Wordpress"
+draft: false 
 date: 2015-02-11
 categories: 
   - "weblog"

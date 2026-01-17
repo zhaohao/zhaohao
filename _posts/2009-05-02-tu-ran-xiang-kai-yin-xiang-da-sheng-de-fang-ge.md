@@ -1,6 +1,7 @@
 ---
-layout: post
+layout: post 
 title: "突然想开音箱大声的放歌……"
+draft: false 
 date: 2009-05-02
 categories: 
   - "weblog"

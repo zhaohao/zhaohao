@@ -1,6 +1,7 @@
 ---
-layout: post
+layout: post 
 title: "我真的不知道该如何选择"
+draft: false 
 date: 2008-06-30
 categories: 
   - "weblog"
