@@ -22,7 +22,7 @@ include: ["_categories"]
 exclude: ["Gemfile.lock", "README.md", "LICENSE.txt"]
 markdown: kramdown
 highlighter: rouge
-permalink: /:year:month:day-:title.html
+permalink: /:title.html
 
 # Sass
 sass:
