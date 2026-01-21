@@ -1,12 +1,16 @@
 ---
 layout: post 
 title: "这是一些乱七八糟的东西"
-draft: false 
-date: 2007-05-27
-categories: 
-  - "weblog"
+Date: 2007-05-27T01:18:00.000Z
+pubDatetime: 2007-05-27T01:18:00.000Z
+published: 2007-05-27T01:18:00.000Z
+description: ""
+author: "stardust"
+tags: []
+category: "Default"
+slug: "2007-05-27-zhe-shi-yi-xie-luan-qi-ba-zao-de-dong-xi"
+draft: false
 ---
-
 昨天早上居然到十点半才起床，够那个什么的了……  
   
 天气凉爽了很多，原因是整个天空黑了下来，大中午给人的感觉像傍晚一般，接着就是一波清凉的狂风骤雨。  

@@ -1,12 +1,16 @@
 ---
 layout: post 
 title: "《广州的一场春梦》后记"
-draft: false 
-date: 2009-02-01
-categories: 
-  - "weblog"
+Date: 2009-02-01T21:29:00.000Z
+pubDatetime: 2009-02-01T21:29:00.000Z
+published: 2009-02-01T21:29:00.000Z
+description: ""
+author: "stardust"
+tags: []
+category: "Default"
+slug: "2009-02-01-guang-zhou-de-yi-chang-chun-meng-hou-ji"
+draft: false
 ---
-
 今天只想把这个再发一遍……  
   
 

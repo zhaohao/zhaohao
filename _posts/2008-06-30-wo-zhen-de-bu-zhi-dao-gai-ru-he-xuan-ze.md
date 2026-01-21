@@ -1,12 +1,16 @@
 ---
 layout: post 
 title: "我真的不知道该如何选择"
-draft: false 
-date: 2008-06-30
-categories: 
-  - "weblog"
+Date: 2008-06-30T01:42:00.000Z
+pubDatetime: 2008-06-30T01:42:00.000Z
+published: 2008-06-30T01:42:00.000Z
+description: ""
+author: "stardust"
+tags: []
+category: "Default"
+slug: "2008-06-30-wo-zhen-de-bu-zhi-dao-gai-ru-he-xuan-ze"
+draft: false
 ---
-
 心里仍然乱七八糟，十一点多点躺到床上，现在已经一点半了，感到好累。  
   
 混乱的思想中浮出了一个听天由命的游戏规则，找到十一个硬币，心中思量着如果哪次出现六比五的时候，正面多就留，反面多就走。  

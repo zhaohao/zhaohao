@@ -1,12 +1,16 @@
 ---
 layout: post 
 title: "匆匆那年"
-draft: false 
-date: 2014-11-22
-categories: 
-  - "weblog"
+Date: 2014-11-22T16:33:00.000Z
+pubDatetime: 2014-11-22T16:33:00.000Z
+published: 2014-11-22T16:33:00.000Z
+description: ""
+author: "stardust"
+tags: []
+category: "Default"
+slug: "2014-11-22-cong-cong-na-nian"
+draft: false
 ---
-
 匆匆那年我们 究竟说了几遍 再见之后再拖延  
 可惜谁有没有 爱过不是一场 七情上面的雄辩  
 匆匆那年我们 一时匆忙撂下 难以承受的诺言  

@@ -1,12 +1,16 @@
 ---
 layout: post 
 title: "2007年的十一假期"
-draft: false 
-date: 2007-10-05
-categories: 
-  - "weblog"
+Date: 2007-10-05T00:35:00.000Z
+pubDatetime: 2007-10-05T00:35:00.000Z
+published: 2007-10-05T00:35:00.000Z
+description: ""
+author: "stardust"
+tags: []
+category: "Default"
+slug: "2007-10-05-2007-nian-de-shi-yi-jia-qi"
+draft: false
 ---
-
 2007年的十一假期不觉中已经到了第五天。  
 伴随着桃花深处的声音，静静的看时间一分一秒的消逝。  
 早早的将QQ打开，这是一段时间第一次不再隐身，不知是在期待什么。  

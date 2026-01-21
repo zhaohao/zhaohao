@@ -1,12 +1,16 @@
 ---
 layout: post 
 title: "只言片语二零一零年四月"
-draft: false 
-date: 2010-04-30
-categories: 
-  - "weblog"
+Date: 2010-04-30T18:29:00.000Z
+pubDatetime: 2010-04-30T18:29:00.000Z
+published: 2010-04-30T18:29:00.000Z
+description: ""
+author: "stardust"
+tags: []
+category: "Default"
+slug: "2010-04-30-zhi-yan-pian-yu-er-ling-yi-ling-nian-si-yue"
+draft: false
 ---
-
 2010-04-30 无聊，Outlook2010签名测试 Email : hao@zhao.in 4/30/2010 5:45 PM  
   
 2010-04-29 有些迷惘，有些累了，当初的梦想究竟还剩多少？  

@@ -1,12 +1,16 @@
 ---
 layout: post 
 title: "日志：路怎么走"
-draft: false 
-date: 2009-02-18
-categories: 
-  - "weblog"
+Date: 2009-02-18T11:27:00.000Z
+pubDatetime: 2009-02-18T11:27:00.000Z
+published: 2009-02-18T11:27:00.000Z
+description: ""
+author: "stardust"
+tags: []
+category: "Default"
+slug: "2009-02-18-ri-zhi-lu-zen-me-zou"
+draft: false
 ---
-
 二月十五日，又被分去做实验。  
   
 这一周非常的不顺利，好多东西。没有一点的劲头，前面两天完全是熬时间过去了，对工作上的东西一点心情处理都没有。然后又接到这么个任务，也还算调整一下。  

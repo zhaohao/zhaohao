@@ -1,12 +1,16 @@
 ---
 layout: post 
 title: "从此沉默于此。。。"
-draft: false 
-date: 2006-09-12
-categories: 
-  - "weblog"
+Date: 2006-09-12T00:07:00.000Z
+pubDatetime: 2006-09-12T00:07:00.000Z
+published: 2006-09-12T00:07:00.000Z
+description: ""
+author: "stardust"
+tags: []
+category: "Default"
+slug: "2006-09-12-cong-ci-chen-mo-yu-ci"
+draft: false
 ---
-
 1、生命是幻觉。可是我需要你在。  
 2、快乐可以有人分享。而痛苦却没有声音。  
 3、我所要的，只是一个人。能在我睡觉的时候，轻轻抚摸我的膝盖，把我蜷缩起来的身体扳直。如果没有，那么一切继续。  

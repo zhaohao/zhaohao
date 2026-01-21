@@ -1,12 +1,16 @@
 ---
 layout: post 
 title: "不知道做了什么"
-draft: false 
-date: 2008-03-22
-categories: 
-  - "weblog"
+Date: 2008-03-22T22:40:00.000Z
+pubDatetime: 2008-03-22T22:40:00.000Z
+published: 2008-03-22T22:40:00.000Z
+description: ""
+author: "stardust"
+tags: []
+category: "Default"
+slug: "2008-03-22-bu-zhi-dao-zuo-le-shen-me"
+draft: false
 ---
-
 昨天晚上到三四点才睡觉，在电脑加过内存条之后似乎对着电脑的时间更长了。之所以到三四点才睡觉，主要原因是对着新的APP MAIL发痴，这种发痴不是一次两次的事情了，曾经有过对着hi.baidu，对着blogger，等等等……总之是一种极度痴呆的表现。  
   
 差不多半夜三点半，奇怪的是感觉外面非常的明亮，对着窗外照了两张照片，可惜一片模糊，远没有表现出人眼所感觉到的效果。上床睡觉，把定的两道闹钟全部关闭。  

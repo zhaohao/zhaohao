@@ -1,12 +1,16 @@
 ---
 layout: post 
 title: "只言片语二零一零年五月"
-draft: false 
-date: 2010-05-28
-categories: 
-  - "weblog"
+Date: 2010-05-28T18:41:00.000Z
+pubDatetime: 2010-05-28T18:41:00.000Z
+published: 2010-05-28T18:41:00.000Z
+description: ""
+author: "stardust"
+tags: []
+category: "Default"
+slug: "2010-05-28-zhi-yan-pian-yu-er-ling-yi-ling-nian-wu-yue"
+draft: false
 ---
-
 2010-05-28 等着下班，一天看了下JTAG的东西，后面要实际调试~  
   
 2010-05-25 回到家中，坐在电脑前，不知所措，不知该怎么做~  

@@ -1,12 +1,16 @@
 ---
 layout: post 
 title: "在山的那边"
-draft: false 
-date: 2019-12-29
-categories: 
-  - "weblog"
+Date: 2019-12-29T08:11:40.000Z
+pubDatetime: 2019-12-29T08:11:40.000Z
+published: 2019-12-29T08:11:40.000Z
+description: ""
+author: "stardust"
+tags: []
+category: "Default"
+slug: "2019-12-29-zai-shan-de-na-bian"
+draft: false
 ---
-
 _一_  
 小时候，我常伏在窗口痴想  
 ——山那边是什么呢？  

@@ -1,12 +1,16 @@
 ---
 layout: post 
 title: "Kindle Paperwhite"
-draft: false 
-date: 2014-08-07
-categories: 
-  - "weblog"
+Date: 2014-08-07T21:47:00.000Z
+pubDatetime: 2014-08-07T21:47:00.000Z
+published: 2014-08-07T21:47:00.000Z
+description: ""
+author: "stardust"
+tags: []
+category: "Default"
+slug: "2014-08-07-kindle-paperwhite"
+draft: false
 ---
-
 Kindle Paperwhite 6英寸电子书阅读器（第二代 升级版） 内置wifi 护眼非反光电子墨水屏 黑色  
   
 2014-08-07 21:41:42 您提交了订单，请等待系统确认  

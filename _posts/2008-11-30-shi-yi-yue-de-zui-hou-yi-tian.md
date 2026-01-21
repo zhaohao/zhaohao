@@ -1,12 +1,16 @@
 ---
 layout: post 
 title: "十一月的最后一天"
-draft: false 
-date: 2008-11-30
-categories: 
-  - "weblog"
+Date: 2008-11-30T17:19:00.000Z
+pubDatetime: 2008-11-30T17:19:00.000Z
+published: 2008-11-30T17:19:00.000Z
+description: ""
+author: "stardust"
+tags: []
+category: "Default"
+slug: "2008-11-30-shi-yi-yue-de-zui-hou-yi-tian"
+draft: false
 ---
-
 周末，昨晚上到三点半才睡觉，很长时间处于半睡半醒的状态之中，迷糊中有很不踏实的感觉。  
   
 昨天又看了一次阿甘正传，忘记上次看是什么时候了，大概03或者04年时吧。又一次看，发现甚至很多情节都已经完全忘记，更不用说其它的了。也许是曾经年少吧，这么多年之后，再再一次看，联想到了更多的东西，也勾起了更多的无奈，关于自己的人生、自己的理想、自己的爱情的思绪萦绕在心头，似乎更加理不出头绪了。  

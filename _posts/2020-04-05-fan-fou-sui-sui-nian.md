@@ -1,12 +1,16 @@
 ---
 layout: post 
 title: "饭否碎碎念"
-draft: false 
-date: 2020-04-05
-categories: 
-  - "memos"
+Date: 2020-04-05T01:05:00.000Z
+pubDatetime: 2020-04-05T01:05:00.000Z
+published: 2020-04-05T01:05:00.000Z
+description: ""
+author: "stardust"
+tags: []
+category: "Memos"
+slug: "2020-04-05-fan-fou-sui-sui-nian"
+draft: false
 ---
-
 // “我们所有的方案都是默认有救援的。但没有人讨论过灾难来临时如果没有救援该怎么办。” 2020-04-05 01:05 通过有饭
 
 ☁️湿凉的天气，也挺舒服的。2020-04-01 07:07 通过泡饭

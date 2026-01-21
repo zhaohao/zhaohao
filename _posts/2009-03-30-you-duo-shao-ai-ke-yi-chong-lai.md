@@ -1,12 +1,16 @@
 ---
 layout: post 
 title: "有多少爱可以重来"
-draft: false 
-date: 2009-03-30
-categories: 
-  - "weblog"
+Date: 2009-03-30T21:44:00.000Z
+pubDatetime: 2009-03-30T21:44:00.000Z
+published: 2009-03-30T21:44:00.000Z
+description: ""
+author: "stardust"
+tags: []
+category: "Default"
+slug: "2009-03-30-you-duo-shao-ai-ke-yi-chong-lai"
+draft: false
 ---
-
 常常责怪自己当初不应该，常常后悔没有把你留下来，为什么明明相爱，到最后还是要分开，是否我们总是徘徊在心门之外。  
 谁知道又和你相遇在人海，命运如此安排总教人无奈，这些年过得不好不坏，只是好像少了一个人存在，而我渐渐明白，你仍然是我不变的关怀。  
 有多少爱可以重来，有多少人愿意等待，当懂得珍惜以后回来，却不知那份爱会不会还在。  

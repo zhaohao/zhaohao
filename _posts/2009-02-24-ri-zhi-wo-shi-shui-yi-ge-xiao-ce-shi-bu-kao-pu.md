@@ -1,12 +1,16 @@
 ---
 layout: post 
 title: "日志：我是谁？一个小测试，不靠谱"
-draft: false 
-date: 2009-02-24
-categories: 
-  - "weblog"
+Date: 2009-02-24T10:28:00.000Z
+pubDatetime: 2009-02-24T10:28:00.000Z
+published: 2009-02-24T10:28:00.000Z
+description: ""
+author: "stardust"
+tags: []
+category: "Default"
+slug: "2009-02-24-ri-zhi-wo-shi-shui-yi-ge-xiao-ce-shi-bu-kao-pu"
+draft: false
 ---
-
 我是谁？ 选了后结果是这个：  
   
 

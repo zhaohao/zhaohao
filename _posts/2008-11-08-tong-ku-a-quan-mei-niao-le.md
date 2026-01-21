@@ -1,15 +1,19 @@
 ---
 layout: post 
 title: "痛苦啊，全没鸟了"
-draft: false 
-date: 2008-11-08
-categories: 
-  - "weblog"
+Date: 2008-11-08T12:55:00.000Z
+pubDatetime: 2008-11-08T12:55:00.000Z
+published: 2008-11-08T12:55:00.000Z
+description: ""
+author: "stardust"
+tags: []
+category: "Default"
+slug: "2008-11-08-tong-ku-a-quan-mei-niao-le"
+draft: false
 ---
-
 辛辛苦苦在手机上按了半天的东西没了！  
   
-\-- 
+\--  
   
 从我的移动设备发送  
   
@@ -31,7 +35,7 @@ categories:
   
 早上七点多爬了起来，开始折腾电脑的位置，从桌上拿到床头柜再到直接拿到床上，不管怎么换就是感觉姿势不舒服，一个上午试图找最舒服的位置反而累得浑身发软，最终还是挪回到原位-桌上，还是看电脑最不累的地方啊！披着毯子坐在那看电脑，外面不时  
   
-\-- 
+\--  
   
 从我的移动设备发送
 

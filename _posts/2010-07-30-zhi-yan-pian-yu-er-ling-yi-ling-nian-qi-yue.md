@@ -1,12 +1,16 @@
 ---
 layout: post 
 title: "只言片语二零一零年七月"
-draft: false 
-date: 2010-07-30
-categories: 
-  - "weblog"
+Date: 2010-07-30T19:13:00.000Z
+pubDatetime: 2010-07-30T19:13:00.000Z
+published: 2010-07-30T19:13:00.000Z
+description: ""
+author: "stardust"
+tags: []
+category: "Default"
+slug: "2010-07-30-zhi-yan-pian-yu-er-ling-yi-ling-nian-qi-yue"
+draft: false
 ---
-
 2010-07-30 短消息 部门几乎分崩离析~人人变得敏感而谨慎，人人看不到前面的方向，人人心存芥蒂~  
   
 2010-07-30 短消息 牙痛，很痛，非常痛~  

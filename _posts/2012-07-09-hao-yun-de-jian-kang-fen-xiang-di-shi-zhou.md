@@ -1,12 +1,16 @@
 ---
 layout: post 
 title: "好孕的健康分享 第十周"
-draft: false 
-date: 2012-07-09
-categories: 
-  - "weblog"
+Date: 2012-07-09T14:06:00.000Z
+pubDatetime: 2012-07-09T14:06:00.000Z
+published: 2012-07-09T14:06:00.000Z
+description: ""
+author: "stardust"
+tags: []
+category: "Default"
+slug: "2012-07-09-hao-yun-de-jian-kang-fen-xiang-di-shi-zhou"
+draft: false
 ---
-
 怀孕进入第10周了，你的胎儿现在已经很象个小人儿了，他（她）的身长大约有40毫米，体重达到10克左右。  
   
 现在你的身体变化依然不大，但你的情绪变化会很剧烈，刚才还眉开眼笑，转眼间就会闷闷不乐，这时的喜怒无常是正常的情绪波动，但是你仍要调整心绪，让自己有一个愉快的孕期。  

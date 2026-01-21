@@ -1,12 +1,16 @@
 ---
 layout: post 
 title: "联想入门机械键盘MK100"
-draft: false 
-date: 2015-06-19
-categories: 
-  - "weblog"
+Date: 2015-06-19T22:45:00.000Z
+pubDatetime: 2015-06-19T22:45:00.000Z
+published: 2015-06-19T22:45:00.000Z
+description: ""
+author: "stardust"
+tags: []
+category: "Default"
+slug: "2015-06-19-lian-xiang-ru-men-ji-xie-jian-pan-mk100"
+draft: false
 ---
-
 199入手第一个机械键盘，国产青轴，无边框设计，据介绍防水。因为没用过其他机械键盘，对比一般薄膜键盘，手感上强太多太多，噼里啪啦很有感觉，真如别人所讲一入机械再难回头。  
   
 键盘为87键，无数字小键盘。带钢板，重大约一公斤，就重量来讲非常有料。加橡胶防滑垫，放在桌上特别的稳固。  
@@ -15,8 +19,8 @@ categories:
   
 一些人评价外观丑，字符丑，可自己就是因为感觉外观简单漂亮，字符个性美观才入手的……  
   
-![IMG_20150617_184107](/images/IMG_20150617_184107.jpg)  
+![IMG_20150617_184107](/images/2015/2015-06-20-aabd360e.jpg)  
   
-![IMG_20150617_211100](/images/IMG_20150617_211100.jpg)
+![IMG_20150617_211100](/images/2015/2015-06-20-feb6ca00.jpg)
 
 stardust@live.com

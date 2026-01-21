@@ -1,12 +1,16 @@
 ---
 layout: post 
 title: "梦一场 + 南山南"
-draft: false 
-date: 2015-10-14
-categories: 
-  - "weblog"
+Date: 2015-10-14T16:27:00.000Z
+pubDatetime: 2015-10-14T16:27:00.000Z
+published: 2015-10-14T16:27:00.000Z
+description: ""
+author: "stardust"
+tags: []
+category: "Default"
+slug: "2015-10-14-meng-yi-chang-nan-shan-nan"
+draft: false
 ---
-
 我们都曾经寂寞而给对方承诺　我们都因为折磨而厌倦了生活  
 只是这样的日子　同样的方式　还要多久  
   

@@ -1,12 +1,16 @@
 ---
 layout: post 
 title: "LUX光照度"
-draft: false 
-date: 2013-12-14
-categories: 
-  - "weblog"
+Date: 2013-12-14T04:09:00.000Z
+pubDatetime: 2013-12-14T04:09:00.000Z
+published: 2013-12-14T04:09:00.000Z
+description: ""
+author: "stardust"
+tags: []
+category: "Default"
+slug: "2013-12-14-lux-guang-zhao-du"
+draft: false
 ---
-
 光照度的单位是勒克斯，是英文lux的音译，也可写为lx。  
 被光均匀照射的物体，在1平方米面积上得到的光通量是1流明时，它的照度是1勒克斯。  
 有时为了充分利用光源，常在光源上附加一个反射装置，使得某些方向能够得到比较多的光通量，以增加这一被照面上的照度，例如汽车前灯、手电筒、摄影灯等。  

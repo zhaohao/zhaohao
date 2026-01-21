@@ -1,12 +1,16 @@
 ---
 layout: post 
 title: "墨菲定律(Murphy's Law)"
-draft: false 
-date: 2008-06-28
-categories: 
-  - "weblog"
+Date: 2008-06-28T00:30:00.000Z
+pubDatetime: 2008-06-28T00:30:00.000Z
+published: 2008-06-28T00:30:00.000Z
+description: ""
+author: "stardust"
+tags: []
+category: "Default"
+slug: "2008-06-28-mo-fei-ding-lyu-murphyslaw"
+draft: false
 ---
-
 If there are two or more ways to do something, and one of those ways can result in a catastrophe, then someone will do it.  
   
 墨菲定理 一、任何事都没有表面看起来那么简单 二、所有事都会比你预计的时间长 三、会出错的事总会出错 四、如果你担心某种情况发生，那么它就更有可能发生 美国爱得华空军基地的一个叫墨菲的测试工程师发明了一条著名的定理，人们就用这位悲观主义大师的名字来命名这条定理，将这条在工程建设和企业管理界名闻遐迩的定理称之为墨菲定理。墨菲定理的表述如下：  

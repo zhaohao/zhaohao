@@ -1,12 +1,16 @@
 ---
 layout: post 
 title: "A-你的爱情年龄15岁"
-draft: false 
-date: 2009-03-17
-categories: 
-  - "weblog"
+Date: 2009-03-17T01:50:00.000Z
+pubDatetime: 2009-03-17T01:50:00.000Z
+published: 2009-03-17T01:50:00.000Z
+description: ""
+author: "stardust"
+tags: []
+category: "Default"
+slug: "2009-03-17-a-ni-de-ai-qing-nian-ling-15-sui"
+draft: false
 ---
-
 我猜你自己不会承认，不过，你确实还处在爱情的青少年期，不论你现在已经几岁了。  
   
 你大概是爱情小说或连续剧的忠实读者，面对爱情真正的困境处理起来非常生涩。如果你遇到一个爱情老手，你可能总是摸不透她/他的心意；甚至觉得对方忽冷忽热。不过，那其实只是你欠缺经验而已。  

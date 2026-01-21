@@ -1,12 +1,16 @@
 ---
 layout: post 
 title: "最后的折腾系统"
-draft: false 
-date: 2015-09-21
-categories: 
-  - "weblog"
+Date: 2015-09-21T01:37:00.000Z
+pubDatetime: 2015-09-21T01:37:00.000Z
+published: 2015-09-21T01:37:00.000Z
+description: ""
+author: "stardust"
+tags: []
+category: "Default"
+slug: "2015-09-21-zui-hou-de-zhe-teng-xi-tong"
+draft: false
 ---
-
 旧的笔记本前面脑袋一热装回了XP，虽然看起来CPU、内存都占用相当相当的少，但或许是SSD加大内存的台式机用惯了，笔记本XP总是给人卡卡的感觉，比印象中以前它装Win7、Win8、Win8.1、Win10预览版都卡。  
   
 其实它大部分时间都是被丢在角落吃灰的，但今天又拿了起来，再摆弄下换回系统。前面下的几个Win10预览版ISO都在整理文件时候清理掉了，想着QQ的Win10升级助手功能，安了QQ电脑管家，进入工具箱里的升级助手，直接显示不支持XP，晕菜。  

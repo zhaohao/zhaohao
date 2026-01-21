@@ -1,12 +1,16 @@
 ---
 layout: post 
 title: "时间、雪、心情、命运"
-draft: false 
-date: 2004-12-06
-categories: 
-  - "weblog"
+Date: 2004-12-06T23:55:00.000Z
+pubDatetime: 2004-12-06T23:55:00.000Z
+published: 2004-12-06T23:55:00.000Z
+description: ""
+author: "stardust"
+tags: []
+category: "Default"
+slug: "2004-12-06-shi-jian-xue-xin-qing-ming-yun"
+draft: false
 ---
-
 每个人的命运是不同的  
   
 老天给每个人的命运是不同的，但是你必须顽强地争取自己更好的生活方式 人能够笃定，不为别人所动。原因在于你有远大的理想和承受痛苦的勇气，这种气度，不是轻易决定自己喜欢或讨厌的人所能体会的。 幸福的瞬间 - 许绍洋 - 薰衣草  

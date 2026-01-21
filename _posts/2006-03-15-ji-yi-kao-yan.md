@@ -1,12 +1,16 @@
 ---
 layout: post 
 title: "记忆考验"
-draft: false 
-date: 2006-03-15
-categories: 
-  - "weblog"
+Date: 2006-03-15T21:58:00.000Z
+pubDatetime: 2006-03-15T21:58:00.000Z
+published: 2006-03-15T21:58:00.000Z
+description: ""
+author: "stardust"
+tags: []
+category: "Default"
+slug: "2006-03-15-ji-yi-kao-yan"
+draft: false
 ---
-
 距离此生下一次的考验只剩不到一年的时间了,昨天晚上听了李永乐的数学讲座,几句话记忆特别的深,在接下来的一年中,要耐得住寂寞 经得起折磨.为了一年以后的这几天,只有拼命下去,决不回头。  
   
 

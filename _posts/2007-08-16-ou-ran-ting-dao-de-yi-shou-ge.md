@@ -1,12 +1,16 @@
 ---
 layout: post 
 title: "偶然听到的一首歌"
-draft: false 
-date: 2007-08-16
-categories: 
-  - "weblog"
+Date: 2007-08-16T18:00:00.000Z
+pubDatetime: 2007-08-16T18:00:00.000Z
+published: 2007-08-16T18:00:00.000Z
+description: ""
+author: "stardust"
+tags: []
+category: "Default"
+slug: "2007-08-16-ou-ran-ting-dao-de-yi-shou-ge"
+draft: false
 ---
-
 沿着区区折折的小路往前，像往常一样和许许多多各式各样的人擦肩而过。  
   
 突然感觉到有一种音乐声离自己越来越近，回头才发觉一个人手里拉着一个简陋小车往正在往前走，乐声正是从小推车上同样简陋的音箱中传出。  

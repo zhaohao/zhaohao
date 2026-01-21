@@ -1,12 +1,16 @@
 ---
 layout: post 
 title: "情人节 继续一个人"
-draft: false 
-date: 2009-02-14
-categories: 
-  - "weblog"
+Date: 2009-02-14T21:55:00.000Z
+pubDatetime: 2009-02-14T21:55:00.000Z
+published: 2009-02-14T21:55:00.000Z
+description: ""
+author: "stardust"
+tags: []
+category: "Default"
+slug: "2009-02-14-qing-ren-jie-ji-xu-yi-ge-ren"
+draft: false
 ---
-
 二月十四，继续一个人。感觉有点孤独。  
   
 整天没有出屋门，过的很混沌，不知道时间是怎么过去的。  

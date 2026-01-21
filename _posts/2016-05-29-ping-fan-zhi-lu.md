@@ -1,12 +1,16 @@
 ---
 layout: post 
 title: "平凡之路"
-draft: false 
-date: 2016-05-29
-categories: 
-  - "weblog"
+Date: 2016-05-29T09:48:00.000Z
+pubDatetime: 2016-05-29T09:48:00.000Z
+published: 2016-05-29T09:48:00.000Z
+description: ""
+author: "stardust"
+tags: []
+category: "Default"
+slug: "2016-05-29-ping-fan-zhi-lu"
+draft: false
 ---
-
 > 向前走 就这么走 就算你被给过什么  
 > 向前走 就这么走 就算你被夺走什么  
 > 向前走 就这么走 就算你会错过什么  

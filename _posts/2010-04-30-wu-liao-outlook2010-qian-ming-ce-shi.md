@@ -1,12 +1,16 @@
 ---
 layout: post 
 title: "无聊，Outlook2010签名测试"
-draft: false 
-date: 2010-04-30
-categories: 
-  - "weblog"
+Date: 2010-04-30T17:45:00.000Z
+pubDatetime: 2010-04-30T17:45:00.000Z
+published: 2010-04-30T17:45:00.000Z
+description: ""
+author: "stardust"
+tags: []
+category: "Default"
+slug: "2010-04-30-wu-liao-outlook2010-qian-ming-ce-shi"
+draft: false
 ---
-
   
 
   

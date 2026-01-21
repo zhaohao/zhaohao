@@ -1,12 +1,16 @@
 ---
 layout: post 
 title: "The last day of July"
-draft: false 
-date: 2008-07-31
-categories: 
-  - "weblog"
+Date: 2008-07-31T22:32:00.000Z
+pubDatetime: 2008-07-31T22:32:00.000Z
+published: 2008-07-31T22:32:00.000Z
+description: ""
+author: "stardust"
+tags: []
+category: "Default"
+slug: "2008-07-31-the-last-day-of-july"
+draft: false
 ---
-
 想起去年的这个月正式结束了学生时代的生活，恍然之间一年时光已经逝去。  
   
 一年的时间，留在一个不喜欢的地方，显得很长，又显得很短。很多事情没有能够照着设想中的计划去做，因为自己从来就不是一个按计划做事情的人，从小，到大。  

@@ -1,12 +1,16 @@
 ---
 layout: post 
 title: "日志里添加二维码"
-draft: false 
-date: 2024-04-24
-categories: 
-  - "weblog"
+Date: 2024-04-24T07:55:00.000Z
+pubDatetime: 2024-04-24T07:55:00.000Z
+published: 2024-04-24T07:55:00.000Z
+description: ""
+author: "stardust"
+tags: []
+category: "Default"
+slug: "2024-04-24-jquery-qrcode"
+draft: false
 ---
-
 今天一个博客上看到有文章的二维码链接，通过搜索知道了可以通过 jquery.qrcode.js在前端实时生成字符串的二维码。所以试着在这里也加了这个功能。
 
 首先需要将 jquery.qrcode.min.js 和 jquery 引入到页面，通过jquery.qrcode生成需要的二维码。里面可以包含二维码的各项自定义设置项，如宽高色彩等信息。也可以定义生成二维码为table还是canvas类型。

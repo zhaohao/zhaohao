@@ -1,12 +1,16 @@
 ---
 layout: post 
 title: "中秋时节"
-draft: false 
-date: 2008-09-14
-categories: 
-  - "weblog"
+Date: 2008-09-14T01:33:00.000Z
+pubDatetime: 2008-09-14T01:33:00.000Z
+published: 2008-09-14T01:33:00.000Z
+description: ""
+author: "stardust"
+tags: []
+category: "Default"
+slug: "2008-09-14-zhong-qiu-shi-jie"
+draft: false
 ---
-
 中秋的广州不似秋，这几天三十五六度的天气俨然仍是酷暑。  
   
 下午很久没有联系的宿舍的一个哥们儿询问要不要去一个同学聚会唱K，接电话时巨窘，因为没有听出同学声音，加上陌生的号码，自己都不好意思了。无奈自己最为不擅处理的就是聚会了，再加上番禺和海珠距离真的有点远了，于是犹犹豫豫的拒绝了，不知道下次到什么时候了。  

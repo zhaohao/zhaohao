@@ -1,12 +1,16 @@
 ---
 layout: post 
 title: "一些人,一些事,一些心情"
-draft: false 
-date: 2008-02-29
-categories: 
-  - "weblog"
+Date: 2008-02-29T21:16:00.000Z
+pubDatetime: 2008-02-29T21:16:00.000Z
+published: 2008-02-29T21:16:00.000Z
+description: ""
+author: "stardust"
+tags: []
+category: "Default"
+slug: "2008-02-29-yi-xie-ren-yi-xie-shi-yi-xie-xin-qing"
+draft: false
 ---
-
 一些天，一些人，一些事，时间流逝，所有一切都在默默的发生着，无法挽留的离开越来越远。  
   
 两个人永远的离开了这个世界，触动的似乎不是他们本身，而是他们的年轻岁月，还有他们的位置，一个学校一个社会。不去评价他们的是非对错，只让人感叹生命的脆弱。  

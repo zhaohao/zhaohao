@@ -1,12 +1,16 @@
 ---
 layout: post 
 title: "宅在屋里时间错乱的周末"
-draft: false 
-date: 2008-12-14
-categories: 
-  - "weblog"
+Date: 2008-12-14T22:52:00.000Z
+pubDatetime: 2008-12-14T22:52:00.000Z
+published: 2008-12-14T22:52:00.000Z
+description: ""
+author: "stardust"
+tags: []
+category: "Default"
+slug: "2008-12-14-zhai-zai-wu-li-shi-jian-cuo-luan-de-zhou-mo"
+draft: false
 ---
-
 周末，这又是一个混乱的周末。  
   
 还是大部分时间都宅在屋里，然后作息时间完全错乱。  

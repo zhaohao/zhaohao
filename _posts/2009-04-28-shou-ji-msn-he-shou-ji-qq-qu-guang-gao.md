@@ -1,12 +1,16 @@
 ---
 layout: post 
 title: "手机MSN和手机QQ去广告"
-draft: false 
-date: 2009-04-28
-categories: 
-  - "weblog"
+Date: 2009-04-28T21:19:00.000Z
+pubDatetime: 2009-04-28T21:19:00.000Z
+published: 2009-04-28T21:19:00.000Z
+description: ""
+author: "stardust"
+tags: []
+category: "Default"
+slug: "2009-04-28-shou-ji-msn-he-shou-ji-qq-qu-guang-gao"
+draft: false
 ---
-
 无聊而已。Nokia 5700 S60V3，其它没用过。  
   
 手机MSN 5.0 硕大丑陋的图片占据三分之一个屏幕，很不爽它。假如MSN装在存储卡，存储卡盘符为X:，进入X:systemAPPSmsndata目录，可以看到名为AD的文件夹，删掉它。随便新建一个文件，重命名为AD，属性改为只读（改不改可能无所谓）。这样手机MSN就不能再生成AD文件夹了，“鸠占鹊巢”之后手机MSN主界面也清静了。  

@@ -1,12 +1,16 @@
 ---
 layout: post 
 title: "小虫 – 有你真好"
-draft: false 
-date: 2012-07-13
-categories: 
-  - "weblog"
+Date: 2012-07-13T13:24:00.000Z
+pubDatetime: 2012-07-13T13:24:00.000Z
+published: 2012-07-13T13:24:00.000Z
+description: ""
+author: "stardust"
+tags: []
+category: "Default"
+slug: "2012-07-13-xiao-chong-you-ni-zhen-hao"
+draft: false
 ---
-
 每个人，都想快乐，有多少人，可以拥有？人海中，你遇过谁，那个人，你一定没有忘记。  
   
 有人说，要爱自己，往事不值得，再回味。还是会，想起从前，一个人在夜里，偷偷流泪。  

@@ -1,12 +1,16 @@
 ---
 layout: post 
 title: "深圳电信Vultr测速Ping值"
-draft: false 
-date: 2016-10-17
-categories: 
-  - "weblog"
+Date: 2016-10-17T10:50:00.000Z
+pubDatetime: 2016-10-17T10:50:00.000Z
+published: 2016-10-17T10:50:00.000Z
+description: ""
+author: "stardust"
+tags: []
+category: "Default"
+slug: "2016-10-17-ping-vultr-from-shenzhen-ct"
+draft: false
 ---
-
 服务器信息来源 ：[https://www.vultr.com/faq/](https://www.vultr.com/faq/)
 
 **机房位置：Sydney, Australia 澳大利亚悉尼**  

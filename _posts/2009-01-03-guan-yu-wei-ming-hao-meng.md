@@ -1,12 +1,16 @@
 ---
 layout: post 
 title: "关于”未名灏梦”"
-draft: false 
-date: 2009-01-03
-categories: 
-  - "weblog"
+Date: 2009-01-03T14:46:00.000Z
+pubDatetime: 2009-01-03T14:46:00.000Z
+published: 2009-01-03T14:46:00.000Z
+description: ""
+author: "stardust"
+tags: []
+category: "Default"
+slug: "2009-01-03-guan-yu-wei-ming-hao-meng"
+draft: false
 ---
-
 未名灏梦，应该算是迟到03年才开始网虫生活的自己在网上最早的昵称了。  
   
 然后也就不得不提到QQ，这个最早走进自己生活的网络工具。当时还没有自己的电脑，为了和一个高中同学聊天在宿舍同学的电脑上注册了第一个号码279743931，当时就填了这个昵称。  

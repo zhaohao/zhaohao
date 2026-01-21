@@ -1,12 +1,16 @@
 ---
 layout: post 
 title: "永远的守望-夜空守望者"
-draft: false 
-date: 2008-10-16
-categories: 
-  - "weblog"
+Date: 2008-10-16T22:52:00.000Z
+pubDatetime: 2008-10-16T22:52:00.000Z
+published: 2008-10-16T22:52:00.000Z
+description: ""
+author: "stardust"
+tags: []
+category: "Default"
+slug: "2008-10-16-yong-yuan-de-shou-wang-ye-kong-shou-wang-zhe"
+draft: false
 ---
-
 到了周三晚上习惯性的调到那个频道，却不再能听到那个熟悉的声音……  
   
 

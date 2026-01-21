@@ -1,12 +1,16 @@
 ---
 layout: post 
 title: "九型人格分析之我（三）"
-draft: false 
-date: 2008-03-16
-categories: 
-  - "weblog"
+Date: 2008-03-16T19:34:00.000Z
+pubDatetime: 2008-03-16T19:34:00.000Z
+published: 2008-03-16T19:34:00.000Z
+description: ""
+author: "stardust"
+tags: []
+category: "Default"
+slug: "2008-03-16-jiu-xing-ren-ge-fen-xi-zhi-wo-san"
+draft: false
 ---
-
 4号性格者的主要特征包括：  
   
 ◇觉得有些东西在生活中遗失了，而别人又恰好拥有自己遗失的东西。  

@@ -1,12 +1,16 @@
 ---
 layout: post 
 title: "Dawn of a New Century"
-draft: false 
-date: 2007-04-06
-categories: 
-  - "weblog"
+Date: 2007-04-06T14:34:00.000Z
+pubDatetime: 2007-04-06T14:34:00.000Z
+published: 2007-04-06T14:34:00.000Z
+description: ""
+author: "stardust"
+tags: []
+category: "Default"
+slug: "2007-04-06-dawn-of-a-new-century"
+draft: false
 ---
-
 Secret Garden  
   
 Imagine. Our planet floating silently in space.  

@@ -1,12 +1,16 @@
 ---
 layout: post 
 title: "[9424]雨，天气清凉~"
-draft: false 
-date: 2010-09-21
-categories: 
-  - "weblog"
+Date: 2010-09-21T19:38:00.000Z
+pubDatetime: 2010-09-21T19:38:00.000Z
+published: 2010-09-21T19:38:00.000Z
+description: ""
+author: "stardust"
+tags: []
+category: "Default"
+slug: "2010-09-21-9424-yu-tian-qi-qing-liang"
+draft: false
 ---
-
 2010-09-21  
   
 \[9424\] 雨，天气清凉~  

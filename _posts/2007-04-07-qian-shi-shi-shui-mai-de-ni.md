@@ -1,12 +1,16 @@
 ---
 layout: post 
 title: "前世是谁埋的你？"
-draft: false 
-date: 2007-04-07
-categories: 
-  - "weblog"
+Date: 2007-04-07T19:41:00.000Z
+pubDatetime: 2007-04-07T19:41:00.000Z
+published: 2007-04-07T19:41:00.000Z
+description: ""
+author: "stardust"
+tags: []
+category: "Default"
+slug: "2007-04-07-qian-shi-shi-shui-mai-de-ni"
+draft: false
 ---
-
 今天逸仙时空的十大之一，很老的文了，同样还有一很古老的话语：  
 我将于茫茫人海中访我唯一灵魂的伴侣，得之，我幸；不得，我命。如此而已。  
   

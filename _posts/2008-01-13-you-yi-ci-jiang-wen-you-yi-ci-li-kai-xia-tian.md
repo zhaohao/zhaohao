@@ -1,12 +1,16 @@
 ---
 layout: post 
 title: "又一次降温，又一次离开夏天"
-draft: false 
-date: 2008-01-13
-categories: 
-  - "weblog"
+Date: 2008-01-13T22:01:00.000Z
+pubDatetime: 2008-01-13T22:01:00.000Z
+published: 2008-01-13T22:01:00.000Z
+description: ""
+author: "stardust"
+tags: []
+category: "Default"
+slug: "2008-01-13-you-yi-ci-jiang-wen-you-yi-ci-li-kai-xia-tian"
+draft: false
 ---
-
 **广州日报讯**（叶卡斯 谈天）昨天还是烈日当空高温灼人，今天冷空气一到马上是降温又降雨。今天气温大致在13～16℃，最高气温下降10℃左右，最低气温亦有下降。这意味着人们的体感比较寒冷，建议穿一些挡风的外套以作保暖。未来三天持续寒冷，最低气温可能跌破10℃。  
   
 广州昨天炎热非常，早晨五山观象台录得最低气温19.0℃，有轻雾，最低能见度2公里左右。白天多云为主，天气暖和，五山观象台录得最高气温27.5℃，能见度为10～11公里。  

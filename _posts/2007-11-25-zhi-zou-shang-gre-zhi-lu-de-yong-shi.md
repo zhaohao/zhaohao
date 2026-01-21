@@ -1,12 +1,16 @@
 ---
 layout: post 
 title: "致走上GRE之路的勇士"
-draft: false 
-date: 2007-11-25
-categories: 
-  - "weblog"
+Date: 2007-11-25T08:37:00.000Z
+pubDatetime: 2007-11-25T08:37:00.000Z
+published: 2007-11-25T08:37:00.000Z
+description: ""
+author: "stardust"
+tags: []
+category: "Default"
+slug: "2007-11-25-zhi-zou-shang-gre-zhi-lu-de-yong-shi"
+draft: false
 ---
-
 > 俞敏洪  
 >   
 > 我们不愿意在人生的平原上度过 尽管平原很平坦又没有艰险 但却缺少了攀登高山的激动  

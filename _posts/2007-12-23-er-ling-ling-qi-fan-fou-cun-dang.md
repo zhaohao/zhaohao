@@ -1,12 +1,16 @@
 ---
 layout: post 
 title: "二零零七-饭否-存档"
-draft: false 
-date: 2007-12-23
-categories: 
-  - "weblog"
+Date: 2007-12-23T23:30:00.000Z
+pubDatetime: 2007-12-23T23:30:00.000Z
+published: 2007-12-23T23:30:00.000Z
+description: ""
+author: "stardust"
+tags: []
+category: "Default"
+slug: "2007-12-23-er-ling-ling-qi-fan-fou-cun-dang"
+draft: false
 ---
-
 钟声敲响,新年来临.有人沮丧,有人举杯;有人呼喊,有人沉默;有人立志,有人放弃;“有人以他们的痛苦为哲学,有人以他们的财富为哲学”;最后,必然地,有人生,亦有人死.---<东方早报>  
 2007-12-23 10:41 通过 MSN  
   

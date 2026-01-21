@@ -1,13 +1,17 @@
 ---
 layout: post 
 title: "蜗牛 Snail"
-draft: false 
-date: 2014-08-25
-categories: 
-  - "weblog"
+Date: 2014-08-25T10:25:00.000Z
+pubDatetime: 2014-08-25T10:25:00.000Z
+published: 2014-08-25T10:25:00.000Z
+description: ""
+author: "stardust"
+tags: []
+category: "Default"
+slug: "2014-08-25-wo-niu-snail"
+draft: false
 ---
-
-![20071231614493852](/images/20071231614493852.jpg)  
+![20071231614493852](/images/2014/2014-08-25-43db8de2.jpg)  
   
 该不该搁下重重的壳，寻找到底哪里有蓝天  
 随着轻轻的风轻轻地飘，历经的伤都不感觉疼  

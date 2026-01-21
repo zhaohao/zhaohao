@@ -1,12 +1,16 @@
 ---
 layout: post 
 title: "是不是这样的夜晚你才会这样的想起我"
-draft: false 
-date: 2008-11-03
-categories: 
-  - "weblog"
+Date: 2008-11-03T22:17:00.000Z
+pubDatetime: 2008-11-03T22:17:00.000Z
+published: 2008-11-03T22:17:00.000Z
+description: ""
+author: "stardust"
+tags: []
+category: "Default"
+slug: "2008-11-03-shi-bu-shi-zhe-yang-de-ye-wan-ni-cai-hui-zhe-yang-de-xiang"
+draft: false
 ---
-
 结束忙碌的一天，换回熟悉的寂寞，懒懒的躺在沙发上，像母亲温暖臂弯。  
 转到昨天的频道让声音驱走寂静，总是同样的剧情，同样的对白，同样的空白。  
   

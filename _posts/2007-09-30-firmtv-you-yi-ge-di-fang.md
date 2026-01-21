@@ -1,12 +1,16 @@
 ---
 layout: post 
 title: "F.I.R MTV有一个地方"
-draft: false 
-date: 2007-09-30
-categories: 
-  - "weblog"
+Date: 2007-09-30T23:15:00.000Z
+pubDatetime: 2007-09-30T23:15:00.000Z
+published: 2007-09-30T23:15:00.000Z
+description: ""
+author: "stardust"
+tags: []
+category: "Default"
+slug: "2007-09-30-firmtv-you-yi-ge-di-fang"
+draft: false
 ---
-
 我一直相信，在这世上存在着一个地方，一个让现实抓不到你的地方  
 在那里，梦想离你很近，很近……  
 就像我相信，在城市里来往的人群中，总有一个人，会让你记得一辈子，直到你咽下最后一口气  

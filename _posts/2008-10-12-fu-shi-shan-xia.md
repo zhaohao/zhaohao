@@ -1,12 +1,16 @@
 ---
 layout: post 
 title: "富士山下"
-draft: false 
-date: 2008-10-12
-categories: 
-  - "weblog"
+Date: 2008-10-12T21:59:00.000Z
+pubDatetime: 2008-10-12T21:59:00.000Z
+published: 2008-10-12T21:59:00.000Z
+description: ""
+author: "stardust"
+tags: []
+category: "Default"
+slug: "2008-10-12-fu-shi-shan-xia"
+draft: false
 ---
-
 拦路雨偏似雪花，饮泣的你冻吗？这风褛我给你磨到有襟花，连调了职也不怕，怎么始终牵挂，苦心选中今天想车你回家。  
   
 原谅我不再送花，伤口经已结疤，花瓣铺满心里坟场才害怕，如若你非我不嫁，彼此终必火化，一生一世等一天需要代价。  

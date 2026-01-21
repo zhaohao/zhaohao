@@ -1,12 +1,16 @@
 ---
 layout: post 
 title: "All about zhaohao"
-draft: false 
-date: 2010-10-25
-categories: 
-  - "weblog"
+Date: 2010-10-25T00:55:00.000Z
+pubDatetime: 2010-10-25T00:55:00.000Z
+published: 2010-10-25T00:55:00.000Z
+description: ""
+author: "stardust"
+tags: []
+category: "Default"
+slug: "2010-10-25-all-about-zhaohao"
+draft: false
 ---
-
 [twitter.com/zhaohao](http://twitter.com/zhaohao)  
 [friendfeed.com/zhaohao](http://friendfeed.com/zhaohao)  
 [delicious.com/zhaohao](http://delicious.com/zhaohao)  

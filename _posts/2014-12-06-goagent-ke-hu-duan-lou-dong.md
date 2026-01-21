@@ -1,12 +1,16 @@
 ---
 layout: post 
 title: "Goagent客户端漏洞"
-draft: false 
-date: 2014-12-06
-categories: 
-  - "weblog"
+Date: 2014-12-06T16:41:00.000Z
+pubDatetime: 2014-12-06T16:41:00.000Z
+published: 2014-12-06T16:41:00.000Z
+description: ""
+author: "stardust"
+tags: []
+category: "Default"
+slug: "2014-12-06-goagent-ke-hu-duan-lou-dong"
+draft: false
 ---
-
 Goagent客户端惊现pac漏洞，可被远程遍历目录及下载任意文件。  
   
 如果你的机器运行着Goagent,那么有可能被人家入侵,只要在浏览器输入以下网址：  

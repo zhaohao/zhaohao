@@ -1,12 +1,16 @@
 ---
 layout: post 
 title: "Chrome各版本下载集合"
-draft: false 
-date: 2010-12-23
-categories: 
-  - "weblog"
+Date: 2010-12-23T20:28:00.000Z
+pubDatetime: 2010-12-23T20:28:00.000Z
+published: 2010-12-23T20:28:00.000Z
+description: ""
+author: "stardust"
+tags: []
+category: "Default"
+slug: "2010-12-23-chrome-ge-ban-ben-xia-zai-ji-he"
+draft: false
 ---
-
 **来源：http://www.chromi.org/chromedownload**  
 **Windows平台：**
 
@@ -16,26 +20,26 @@ categories:
 >         Chrome 在线安装包  
 > 
 >   
-> - 最新稳定版（Stable Channel）Chrome在线安装: 【[点击这里](http://www.google.com/chrome/eula.html?hl=zh-CN)】
+> *   最新稳定版（Stable Channel）Chrome在线安装: 【[点击这里](http://www.google.com/chrome/eula.html?hl=zh-CN)】
 >   
-> - 最新测试版（Beta Channel）Chrome在线安装： 【[点击这里](http://www.google.com/chrome/eula.html?hl=zh-CN&extra=betachannel)】
+> *   最新测试版（Beta Channel）Chrome在线安装： 【[点击这里](http://www.google.com/chrome/eula.html?hl=zh-CN&extra=betachannel)】
 >   
-> - 最新开发版（Dev Channel）Chrome在线安装： 【[点击这里](http://www.google.com/chrome/eula.html?hl=zh-CN&extra=devchannel)】
+> *   最新开发版（Dev Channel）Chrome在线安装： 【[点击这里](http://www.google.com/chrome/eula.html?hl=zh-CN&extra=devchannel)】
 >   
-> - 最新金丝雀版（Canary build）Chrome在线安装： 【[点击这里](http://tools.google.com/dlpage/chromesxs/eula.html?hl=zh-CN)】
+> *   最新金丝雀版（Canary build）Chrome在线安装： 【[点击这里](http://tools.google.com/dlpage/chromesxs/eula.html?hl=zh-CN)】
 >   
-> - 最新Chromium下载地址: 【[点击这里](http://build.chromium.org/buildbot/snapshots/chromium-rel-xp/?O=D)】
+> *   最新Chromium下载地址: 【[点击这里](http://build.chromium.org/buildbot/snapshots/chromium-rel-xp/?O=D)】
 >   
 > 
 >   
 > Chrome 离线安装包（仅 Windows 可用）：  
 > 
 >   
-> - 最新稳定版（Stable Channel）：【[点击这里](http://www.google.com/chrome/eula.html?hl=zh-CN&standalone=1)】
+> *   最新稳定版（Stable Channel）：【[点击这里](http://www.google.com/chrome/eula.html?hl=zh-CN&standalone=1)】
 >   
-> - 最新测试版（Beta Channel）：【[点击这里](http://www.google.com/chrome/eula.html?hl=zh-CN&standalone=1&extra=betachannel)】
+> *   最新测试版（Beta Channel）：【[点击这里](http://www.google.com/chrome/eula.html?hl=zh-CN&standalone=1&extra=betachannel)】
 >   
-> - 最新开发版（Dev Channel）：【[点击这里](http://www.google.com/chrome/eula.html?hl=zh-CN&standalone=1&extra=devchannel)】
+> *   最新开发版（Dev Channel）：【[点击这里](http://www.google.com/chrome/eula.html?hl=zh-CN&standalone=1&extra=devchannel)】
 >   
 > 
 >   
@@ -86,21 +90,21 @@ categories:
 >   
 > 
 >   
-> - 最新稳定版（Stable Channel）Chrome下载: 【[点击这里](http://www.google.com/chrome/eula.html)】
+> *   最新稳定版（Stable Channel）Chrome下载: 【[点击这里](http://www.google.com/chrome/eula.html)】
 >   
-> - 最新测试版（Beta Channel）Chrome下载： 【[点击这里](http://www.google.com/intl/en/landing/chrome/beta/)】
+> *   最新测试版（Beta Channel）Chrome下载： 【[点击这里](http://www.google.com/intl/en/landing/chrome/beta/)】
 >   
-> - 最新开发版（Dev Channel）Chrome下载（32Bit deb）： 【[点击这里](http://www.google.com/chrome/intl/en/eula_dev.html?dl=unstable_i386_deb)】
+> *   最新开发版（Dev Channel）Chrome下载（32Bit deb）： 【[点击这里](http://www.google.com/chrome/intl/en/eula_dev.html?dl=unstable_i386_deb)】
 >   
-> - 最新开发版（Dev Channel）Chrome下载（64Bit deb）： 【[点击这里](http://www.google.com/chrome/intl/en/eula_dev.html?dl=unstable_amd64_deb)】
+> *   最新开发版（Dev Channel）Chrome下载（64Bit deb）： 【[点击这里](http://www.google.com/chrome/intl/en/eula_dev.html?dl=unstable_amd64_deb)】
 >   
-> - 最新开发版（Dev Channel）Chrome下载（32Bit rpm）： 【[点击这里](http://www.google.com/chrome/intl/en/eula_dev.html?dl=unstable_i386_rpm)】
+> *   最新开发版（Dev Channel）Chrome下载（32Bit rpm）： 【[点击这里](http://www.google.com/chrome/intl/en/eula_dev.html?dl=unstable_i386_rpm)】
 >   
-> - 最新开发版（Dev Channel）Chrome下载（64Bit rpm）： 【[点击这里](http://www.google.com/chrome/intl/en/eula_dev.html?dl=unstable_amd64_rpm)】
+> *   最新开发版（Dev Channel）Chrome下载（64Bit rpm）： 【[点击这里](http://www.google.com/chrome/intl/en/eula_dev.html?dl=unstable_amd64_rpm)】
 >   
-> - 最新Chromium下载地址(32Bit): 【[点击这里](http://build.chromium.org/buildbot/snapshots/chromium-rel-linux/?C=M;O=D)】
+> *   最新Chromium下载地址(32Bit): 【[点击这里](http://build.chromium.org/buildbot/snapshots/chromium-rel-linux/?C=M;O=D)】
 >   
-> - 最新Chromium下载地址(64Bit): 【[点击这里](http://build.chromium.org/buildbot/snapshots/chromium-rel-linux-64/?C=M;O=D)】
+> *   最新Chromium下载地址(64Bit): 【[点击这里](http://build.chromium.org/buildbot/snapshots/chromium-rel-linux-64/?C=M;O=D)】
 >   
 > 
 >   
@@ -116,13 +120,13 @@ categories:
 >   
 > 
 >   
-> - 最新稳定版（Stable Channel）Chrome下载: 【[点击这里](http://www.google.com/chrome/eula.html)】
+> *   最新稳定版（Stable Channel）Chrome下载: 【[点击这里](http://www.google.com/chrome/eula.html)】
 >   
-> - 最新测试版（Beta Channel）Chrome下载： 【[点击这里](http://www.google.com/intl/en/landing/chrome/beta/)】
+> *   最新测试版（Beta Channel）Chrome下载： 【[点击这里](http://www.google.com/intl/en/landing/chrome/beta/)】
 >   
-> - 最新开发版（Dev Channel）Chrome下载： 【[点击这里](http://www.google.com/chrome/intl/en/eula_dev.html?dl=mac)】
+> *   最新开发版（Dev Channel）Chrome下载： 【[点击这里](http://www.google.com/chrome/intl/en/eula_dev.html?dl=mac)】
 >   
-> - 最新Chromium下载地址: 【[点击这里](http://build.chromium.org/buildbot/snapshots/chromium-rel-mac/?C=M;O=D)】
+> *   最新Chromium下载地址: 【[点击这里](http://build.chromium.org/buildbot/snapshots/chromium-rel-mac/?C=M;O=D)】
 >   
 > 
 >   

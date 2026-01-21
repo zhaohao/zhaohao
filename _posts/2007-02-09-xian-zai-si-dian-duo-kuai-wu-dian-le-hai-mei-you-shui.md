@@ -1,12 +1,16 @@
 ---
 layout: post 
 title: "现在四点多快五点了，还没有睡"
-draft: false 
-date: 2007-02-09
-categories: 
-  - "weblog"
+Date: 2007-02-09T04:44:00.000Z
+pubDatetime: 2007-02-09T04:44:00.000Z
+published: 2007-02-09T04:44:00.000Z
+description: ""
+author: "stardust"
+tags: []
+category: "Default"
+slug: "2007-02-09-xian-zai-si-dian-duo-kuai-wu-dian-le-hai-mei-you-shui"
+draft: false
 ---
-
 本打算今天能够早睡，不到一点就躺下了，结果可能生物钟已经错乱了，最初的一点睡意也一点点消失了而且今天很热，穿着短袖还有想出汗的感觉。  
   
 实在想不出干什么了，于是只能再开电脑了，索性把电脑拿到了床上，不过趴在枕头上看东西还真累不一会脖子就有点僵硬的感觉了。  

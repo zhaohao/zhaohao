@@ -1,12 +1,16 @@
 ---
 layout: post 
 title: "Cry on my Shoulder"
-draft: false 
-date: 2009-03-02
-categories: 
-  - "weblog"
+Date: 2009-03-02T21:38:00.000Z
+pubDatetime: 2009-03-02T21:38:00.000Z
+published: 2009-03-02T21:38:00.000Z
+description: ""
+author: "stardust"
+tags: []
+category: "Default"
+slug: "2009-03-02-cry-on-my-shoulder"
+draft: false
 ---
-
 Deutschland sucht den superstar  
   
 If the hero never comes to you, if you need someone you're feeling blue.  

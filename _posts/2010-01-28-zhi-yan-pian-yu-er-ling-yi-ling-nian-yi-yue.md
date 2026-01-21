@@ -1,12 +1,16 @@
 ---
 layout: post 
 title: "只言片语二零一零年一月"
-draft: false 
-date: 2010-01-28
-categories: 
-  - "weblog"
+Date: 2010-01-28T17:59:00.000Z
+pubDatetime: 2010-01-28T17:59:00.000Z
+published: 2010-01-28T17:59:00.000Z
+description: ""
+author: "stardust"
+tags: []
+category: "Default"
+slug: "2010-01-28-zhi-yan-pian-yu-er-ling-yi-ling-nian-yi-yue"
+draft: false
 ---
-
 2010-01-13 would you wait for me forever?  
   
 2010-01-22 郁闷了~  

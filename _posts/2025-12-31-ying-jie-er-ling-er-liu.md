@@ -1,14 +1,16 @@
 ---
 layout: post 
 title: "迎接二零二六"
-draft: false 
-date: 2025-12-31
-categories: 
-  - "life"
-tags: 
-  - "life"
+Date: 2025-12-31T15:30:00.000Z
+pubDatetime: 2025-12-31T15:30:00.000Z
+published: 2025-12-31T15:30:00.000Z
+description: ""
+author: "stardust"
+tags: ["life"]
+category: "Default"
+slug: "2025-12-31-ying-jie-er-ling-er-liu"
+draft: false
 ---
-
 二〇二五年最后一天，折腾饭否的数据到 WP ，机械性手工转移弄得头昏脑胀。散落各处的数据大概汇集到了 WordPress 和 Memos 两个地方。大概不再折腾别的平台了。
 
 DMIT 的机器卸了堡塔装了1Panel 后，Docker 装了 PHP 和 MySQL 后多次出现 CPU 占满类死机的状态，不想深究什么原因了，重置为 Ubuntu 24 初始系统，再按这几天熟悉的流程快速重新安装好需要的程序，一切全新开始。

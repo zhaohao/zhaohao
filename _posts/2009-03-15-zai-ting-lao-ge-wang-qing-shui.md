@@ -1,12 +1,16 @@
 ---
 layout: post 
 title: "再听老歌-忘情水"
-draft: false 
-date: 2009-03-15
-categories: 
-  - "weblog"
+Date: 2009-03-15T22:55:00.000Z
+pubDatetime: 2009-03-15T22:55:00.000Z
+published: 2009-03-15T22:55:00.000Z
+description: ""
+author: "stardust"
+tags: []
+category: "Default"
+slug: "2009-03-15-zai-ting-lao-ge-wang-qing-shui"
+draft: false
 ---
-
 曲：陈耀川 词：李安修  
 曾经年少爱追梦，一心只想往前飞，行遍千山和万水， 一路走来不能回。  
 蓦然回首情已远，身不由已在天边，才明白爱恨情仇，最伤最痛是后悔。  

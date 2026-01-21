@@ -1,12 +1,16 @@
 ---
 layout: post 
 title: "360buy 三洋（SANYO）真空吸尘器SC-298T-01"
-draft: false 
-date: 2011-10-05
-categories: 
-  - "weblog"
+Date: 2011-10-05T13:23:00.000Z
+pubDatetime: 2011-10-05T13:23:00.000Z
+published: 2011-10-05T13:23:00.000Z
+description: ""
+author: "stardust"
+tags: []
+category: "Default"
+slug: "2011-10-05-360buy-san-yang-sanyo-zhen-kong-xi-chen-qi-sc298t01"
+draft: false
 ---
-
 2011-10-4 22:34:08 您提交了订单，请等待系统确认 客户  
 2011-10-4 22:41:36 您的订单已经进入广州2号库准备出库 系统  
 2011-10-4 23:07:45 您的订单已经打印完毕 王姚辉  

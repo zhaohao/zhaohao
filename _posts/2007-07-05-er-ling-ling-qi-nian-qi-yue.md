@@ -1,12 +1,16 @@
 ---
 layout: post 
 title: "二零零七年七月"
-draft: false 
-date: 2007-07-05
-categories: 
-  - "weblog"
+Date: 2007-07-05T00:05:00.000Z
+pubDatetime: 2007-07-05T00:05:00.000Z
+published: 2007-07-05T00:05:00.000Z
+description: ""
+author: "stardust"
+tags: []
+category: "Default"
+slug: "2007-07-05-er-ling-ling-qi-nian-qi-yue"
+draft: false
 ---
-
 二零零七年七月  
 2007年07月05日最后  
 最后一天！ From：192.168.35.98 @ sysu.edu.cn  

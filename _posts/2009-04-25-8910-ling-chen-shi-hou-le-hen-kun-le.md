@@ -1,12 +1,16 @@
 ---
 layout: post 
 title: "[8910]凌晨时候了，很困了"
-draft: false 
-date: 2009-04-25
-categories: 
-  - "weblog"
+Date: 2009-04-25T00:43:00.000Z
+pubDatetime: 2009-04-25T00:43:00.000Z
+published: 2009-04-25T00:43:00.000Z
+description: ""
+author: "stardust"
+tags: []
+category: "Default"
+slug: "2009-04-25-8910-ling-chen-shi-hou-le-hen-kun-le"
+draft: false
 ---
-
 天气非常的潮湿，触摸到的东西都有种潮潮的感觉。  
   
 晚上网上看了怪兽大战外星人，纯粹消磨时间，不觉得差，也无所谓好。  

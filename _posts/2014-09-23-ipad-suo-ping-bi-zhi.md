@@ -1,13 +1,17 @@
 ---
 layout: post 
 title: "iPad锁屏壁纸"
-draft: false 
-date: 2014-09-23
-categories: 
-  - "weblog"
+Date: 2014-09-23T17:59:00.000Z
+pubDatetime: 2014-09-23T17:59:00.000Z
+published: 2014-09-23T17:59:00.000Z
+description: ""
+author: "stardust"
+tags: []
+category: "Default"
+slug: "2014-09-23-ipad-suo-ping-bi-zhi"
+draft: false
 ---
-
-![20140918_233716000_iOS](/images/20140918_233716000_iOS.jpg)  
+![20140918_233716000_iOS](/images/2014/2014-09-24-a423dba9.jpg)  
   
 ▲ iPad的锁屏壁纸，原图尺寸2048X2048
 

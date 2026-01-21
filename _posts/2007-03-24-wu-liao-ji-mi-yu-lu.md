@@ -1,12 +1,16 @@
 ---
 layout: post 
 title: "无聊-几米语录"
-draft: false 
-date: 2007-03-24
-categories: 
-  - "weblog"
+Date: 2007-03-24T22:15:00.000Z
+pubDatetime: 2007-03-24T22:15:00.000Z
+published: 2007-03-24T22:15:00.000Z
+description: ""
+author: "stardust"
+tags: []
+category: "Default"
+slug: "2007-03-24-wu-liao-ji-mi-yu-lu"
+draft: false
 ---
-
 1.人生总有许多巧合，两条平行线也可能会有交汇的一天。人生总有许多意外，握在手里面的风筝也会突然断了线。  
   
 2.看不见的，是不是就等于不存在？也许只是被浓云遮住，也许刚巧风沙飞入眼帘，我看不见你，却依然感到温暖。  

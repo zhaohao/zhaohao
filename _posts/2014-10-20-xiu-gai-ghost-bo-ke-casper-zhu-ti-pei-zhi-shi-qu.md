@@ -1,12 +1,16 @@
 ---
 layout: post 
 title: "修改Ghost博客Casper主题，配置时区"
-draft: false 
-date: 2014-10-20
-categories: 
-  - "weblog"
+Date: 2014-10-20T17:10:00.000Z
+pubDatetime: 2014-10-20T17:10:00.000Z
+published: 2014-10-20T17:10:00.000Z
+description: ""
+author: "stardust"
+tags: []
+category: "Default"
+slug: "2014-10-20-xiu-gai-ghost-bo-ke-casper-zhu-ti-pei-zhi-shi-qu"
+draft: false
 ---
-
 1.修改主题配色。  
   
 2.将blog-logo img居中显示，添加hover延时1.5秒旋转360度效果。  

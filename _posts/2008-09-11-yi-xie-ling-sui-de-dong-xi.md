@@ -1,12 +1,16 @@
 ---
 layout: post 
 title: "一些零碎的东西"
-draft: false 
-date: 2008-09-11
-categories: 
-  - "weblog"
+Date: 2008-09-11T01:30:00.000Z
+pubDatetime: 2008-09-11T01:30:00.000Z
+published: 2008-09-11T01:30:00.000Z
+description: ""
+author: "stardust"
+tags: []
+category: "Default"
+slug: "2008-09-11-yi-xie-ling-sui-de-dong-xi"
+draft: false
 ---
-
 刚刚能感受到一点秋意的时候马上又进入了酷热之中。本来晚上有单位"单身者"的中秋聚餐的，可是对这里没有太多的归属感进而对这种活动没有任何想去的冲动。  
   
 晚上的时候把夏天以来就没整理的东西清洗了一下，然后就无力的继续盯着电脑不知所谓。  

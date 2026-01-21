@@ -1,12 +1,16 @@
 ---
 layout: post 
 title: "Linode VPS Speed Test"
-draft: false 
-date: 2014-09-11
-categories: 
-  - "weblog"
+Date: 2014-09-11T11:07:00.000Z
+pubDatetime: 2014-09-11T11:07:00.000Z
+published: 2014-09-11T11:07:00.000Z
+description: ""
+author: "stardust"
+tags: []
+category: "Default"
+slug: "2014-09-11-linode-vps-speed-test"
+draft: false
 ---
-
   
 
   
@@ -75,17 +79,50 @@ A closer facility will generally provide less latency and faster throughput.
   
   
 
-| Facility | Hostname | Test Download |
-| --- | --- | --- |
-| Tokyo | speedtest.tokyo.linode.com | [100MB-tokyo.bin](http://speedtest.tokyo.linode.com/100MB-tokyo.bin) |
-| London | speedtest.london.linode.com | [100MB-london.bin](http://speedtest.london.linode.com/100MB-london.bin) |
-| US East | speedtest.newark.linode.com | [100MB-newark.bin](http://speedtest.newark.linode.com/100MB-newark.bin) |
-| US South | speedtest.atlanta.linode.com | [100MB-atlanta.bin](http://speedtest.atlanta.linode.com/100MB-atlanta.bin) |
-| US Central | speedtest.dallas.linode.com | [100MB-dallas.bin](http://speedtest.dallas.linode.com/100MB-dallas.bin) |
-| US West | speedtest.fremont.linode.com | [100MB-fremont.bin](http://speedtest.fremont.linode.com/100MB-fremont.bin) |
+Facility
+
+Hostname
+
+Test Download
+
+Tokyo
+
+speedtest.tokyo.linode.com
+
+[100MB-tokyo.bin](http://speedtest.tokyo.linode.com/100MB-tokyo.bin)
+
+London
+
+speedtest.london.linode.com
+
+[100MB-london.bin](http://speedtest.london.linode.com/100MB-london.bin)
+
+US East
+
+speedtest.newark.linode.com
+
+[100MB-newark.bin](http://speedtest.newark.linode.com/100MB-newark.bin)
+
+US South
+
+speedtest.atlanta.linode.com
+
+[100MB-atlanta.bin](http://speedtest.atlanta.linode.com/100MB-atlanta.bin)
+
+US Central
+
+speedtest.dallas.linode.com
+
+[100MB-dallas.bin](http://speedtest.dallas.linode.com/100MB-dallas.bin)
+
+US West
+
+speedtest.fremont.linode.com
+
+[100MB-fremont.bin](http://speedtest.fremont.linode.com/100MB-fremont.bin)
 
   
-\--------------------------------------------------------------------- 
+\---------------------------------------------------------------------  
   
 
   

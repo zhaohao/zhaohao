@@ -1,12 +1,16 @@
 ---
 layout: post 
 title: "清尘雅琴&街头乞讨"
-draft: false 
-date: 2008-10-28
-categories: 
-  - "weblog"
+Date: 2008-10-28T22:14:00.000Z
+pubDatetime: 2008-10-28T22:14:00.000Z
+published: 2008-10-28T22:14:00.000Z
+description: ""
+author: "stardust"
+tags: []
+category: "Default"
+slug: "2008-10-28-qing-chen-ya-qin-jie-tou-qi-tao"
+draft: false
 ---
-
 清尘雅琴：静海莲心/一声佛号一声心  
   
 眼睛很不舒服，关了电脑，又戴上了耳机听歌，清尘雅琴一声佛号一声心，能让心情放松的旋律。  

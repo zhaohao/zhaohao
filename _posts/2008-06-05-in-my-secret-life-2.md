@@ -1,12 +1,16 @@
 ---
 layout: post 
 title: "In my Secret Life"
-draft: false 
-date: 2008-06-05
-categories: 
-  - "weblog"
+Date: 2008-06-05T15:40:00.000Z
+pubDatetime: 2008-06-05T15:40:00.000Z
+published: 2008-06-05T15:40:00.000Z
+description: ""
+author: "stardust"
+tags: []
+category: "Default"
+slug: "2008-06-05-in-my-secret-life-2"
+draft: false
 ---
-
 LEONARD COHEN LYRICS  
   
 In my Secret Life,in my Secret Life.In my Secret Life,in my Secret Life.  

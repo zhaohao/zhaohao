@@ -1,12 +1,16 @@
 ---
 layout: post 
 title: "去它-妈-的狗日-的……"
-draft: false 
-date: 2008-10-30
-categories: 
-  - "weblog"
+Date: 2008-10-30T23:16:00.000Z
+pubDatetime: 2008-10-30T23:16:00.000Z
+published: 2008-10-30T23:16:00.000Z
+description: ""
+author: "stardust"
+tags: []
+category: "Default"
+slug: "2008-10-30-qu-ta-ma-de-gou-ri-de"
+draft: false
 ---
-
 这真是一个充满神奇的地方。  
   
 无论发生什么让一个正常人想不通的事情，只要设想到是在这片神奇的国度里，就一定会而且必须要想通了，否则，你可能会被俯-卧-撑，你可能会被跳楼，你可能会被……  

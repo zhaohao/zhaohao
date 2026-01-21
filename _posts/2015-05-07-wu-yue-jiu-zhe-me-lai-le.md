@@ -1,12 +1,16 @@
 ---
 layout: post 
 title: "五月就这么来了"
-draft: false 
-date: 2015-05-07
-categories: 
-  - "weblog"
+Date: 2015-05-07T23:42:00.000Z
+pubDatetime: 2015-05-07T23:42:00.000Z
+published: 2015-05-07T23:42:00.000Z
+description: ""
+author: "stardust"
+tags: []
+category: "Default"
+slug: "2015-05-07-wu-yue-jiu-zhe-me-lai-le"
+draft: false
 ---
-
 不经意间已经过了立夏了，但对于这个南方省会城市来讲，意味着就又一次进入了酷暑的天气，火辣的阳光抑或连日的阴雨。  
   
 今年的回南天唐突的给屋子墙壁留下了千疮百孔的伤疤。前面的暑气消散了些它的余威，这么几天来又开始阴雨绵绵，消散些许暑气，带来的湿漉漉的空气却有种想要助攻已过去的回南天的感觉。  

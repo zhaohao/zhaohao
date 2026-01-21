@@ -1,12 +1,16 @@
 ---
 layout: post 
 title: "那些花儿-范玮琪"
-draft: false 
-date: 2008-07-20
-categories: 
-  - "weblog"
+Date: 2008-07-20T22:31:00.000Z
+pubDatetime: 2008-07-20T22:31:00.000Z
+published: 2008-07-20T22:31:00.000Z
+description: ""
+author: "stardust"
+tags: []
+category: "Default"
+slug: "2008-07-20-nei-xie-hua-er-fan-wei-qi"
+draft: false
 ---
-
 那片笑声让我想起我的那些花儿，在我生命每个角落静静为我开着。我曾以为我会永远守在他身旁，今天我们已经离去在人海茫茫。  
   
 他们都老了吧？他们在哪里呀？我们就这样各自奔天涯！  

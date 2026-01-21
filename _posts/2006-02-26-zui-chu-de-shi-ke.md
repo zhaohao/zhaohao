@@ -1,12 +1,16 @@
 ---
 layout: post 
 title: "最初的时刻。。。"
-draft: false 
-date: 2006-02-26
-categories: 
-  - "weblog"
+Date: 2006-02-26T23:45:00.000Z
+pubDatetime: 2006-02-26T23:45:00.000Z
+published: 2006-02-26T23:45:00.000Z
+description: ""
+author: "stardust"
+tags: []
+category: "Default"
+slug: "2006-02-26-zui-chu-de-shi-ke"
+draft: false
 ---
-
 这么多天以来，有太多的时间泡在网上，开着QQ，看着邮箱，不知道是不是在等待什么，但是又不敢真正的面对真实的世界，总是把自己隐身起来，独自呆在网上，看着一个个红色的头像，而不说任何的话，但是又忍不住那种冲动，所以还是不下线，看到一个个人到来，一个个人离去，似乎只是为在看到别人到来时那种感觉而等待等待。  
   
 今生不再等待，来世也许无缘，可是等待又有什么意义。  

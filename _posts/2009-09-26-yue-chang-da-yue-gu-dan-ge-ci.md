@@ -1,12 +1,16 @@
 ---
 layout: post 
 title: "《越长大越孤单》歌词"
-draft: false 
-date: 2009-09-26
-categories: 
-  - "weblog"
+Date: 2009-09-26T21:53:00.000Z
+pubDatetime: 2009-09-26T21:53:00.000Z
+published: 2009-09-26T21:53:00.000Z
+description: ""
+author: "stardust"
+tags: []
+category: "Default"
+slug: "2009-09-26-yue-chang-da-yue-gu-dan-ge-ci"
+draft: false
 ---
-
 多年以后，你回到我身边，不安全充满了你疲倦的双眼。  
 看着我，也告诉我，是否依然相信童话？  
 你曾对我说，每颗心都寂寞，每颗心都脆弱，都渴望被触摸。  

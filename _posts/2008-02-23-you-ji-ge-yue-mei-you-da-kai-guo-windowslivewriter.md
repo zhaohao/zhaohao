@@ -1,12 +1,16 @@
 ---
 layout: post 
 title: "有几个月没有打开过Windows Live Writer"
-draft: false 
-date: 2008-02-23
-categories: 
-  - "weblog"
+Date: 2008-02-23T13:40:00.000Z
+pubDatetime: 2008-02-23T13:40:00.000Z
+published: 2008-02-23T13:40:00.000Z
+description: ""
+author: "stardust"
+tags: []
+category: "Default"
+slug: "2008-02-23-you-ji-ge-yue-mei-you-da-kai-guo-windowslivewriter"
+draft: false
 ---
-
 自从上次无法访问这个地方开始，就没有再使用live writer，每次都是通过邮件，但是人越来越懒，连点鼠标的耐心都有点丧失了，更无从谈起加上些什么有意义的东西。  
   
 一月二月的广州，经历了一番由夏转冬的变迁，持续的阴冷还有那份难以捉摸的心情让自己大部分时间蜷缩在屋中不想出门，落得一身萎靡的模样。  

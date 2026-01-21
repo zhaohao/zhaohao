@@ -1,12 +1,16 @@
 ---
 layout: post 
 title: "To Run,I Run,I Run To Stop,I Stop To Run"
-draft: false 
-date: 2006-10-10
-categories: 
-  - "weblog"
+Date: 2006-10-10T15:15:00.000Z
+pubDatetime: 2006-10-10T15:15:00.000Z
+published: 2006-10-10T15:15:00.000Z
+description: ""
+author: "stardust"
+tags: []
+category: "Default"
+slug: "2006-10-10-to-runi-runi-run-to-stopi-stop-to-run"
+draft: false
 ---
-
 为了走开我走开 为了留下我留下  
 为了走开我走开 为了留下我留下  
 为了留下我走开 为了走开我留下  

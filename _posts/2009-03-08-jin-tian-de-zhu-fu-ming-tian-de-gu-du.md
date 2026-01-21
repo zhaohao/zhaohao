@@ -1,12 +1,16 @@
 ---
 layout: post 
 title: "今天的祝福，明天的孤独"
-draft: false 
-date: 2009-03-08
-categories: 
-  - "weblog"
+Date: 2009-03-08T19:48:00.000Z
+pubDatetime: 2009-03-08T19:48:00.000Z
+published: 2009-03-08T19:48:00.000Z
+description: ""
+author: "stardust"
+tags: []
+category: "Default"
+slug: "2009-03-08-jin-tian-de-zhu-fu-ming-tian-de-gu-du"
+draft: false
 ---
-
 像一个吻刚结束，还留一丝湿度，然后挥发在空气里，找不到任何证物。  
 也许结束太匆促，我伸手擦拭泪珠，还摸到爱来过的温度，才开始悔悟。  
 虽然我给了你祝福，接受属于我的孤独，在没有名字的夜里反复，忘了寻找下一个幸福。  

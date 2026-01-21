@@ -1,12 +1,16 @@
 ---
 layout: post 
 title: "冬日的感觉"
-draft: false 
-date: 2008-11-09
-categories: 
-  - "weblog"
+Date: 2008-11-09T23:56:00.000Z
+pubDatetime: 2008-11-09T23:56:00.000Z
+published: 2008-11-09T23:56:00.000Z
+description: ""
+author: "stardust"
+tags: []
+category: "Default"
+slug: "2008-11-09-dong-ri-de-gan-jue"
+draft: false
 ---
-
 今天的温度真的很舒服，凉凉的空气加上阵阵小风正适合躺在被窝里睡觉，于是早上也就自然的懒到十点多才爬起来了。  
   
 发现不能像往日一样光着膀子了事了，有点小凉，于是套了件长袖T-shirt，才算正好。  

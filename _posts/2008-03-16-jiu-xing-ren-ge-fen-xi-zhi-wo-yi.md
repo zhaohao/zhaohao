@@ -1,12 +1,16 @@
 ---
 layout: post 
 title: "九型人格分析之我（一）"
-draft: false 
-date: 2008-03-16
-categories: 
-  - "weblog"
+Date: 2008-03-16T20:34:00.000Z
+pubDatetime: 2008-03-16T20:34:00.000Z
+published: 2008-03-16T20:34:00.000Z
+description: ""
+author: "stardust"
+tags: []
+category: "Default"
+slug: "2008-03-16-jiu-xing-ren-ge-fen-xi-zhi-wo-yi"
+draft: false
 ---
-
 九型人格分析  
   
 16% 第五型 智慧型、觀察者、思想型、理性分析者、思考型  

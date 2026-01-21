@@ -1,12 +1,16 @@
 ---
 layout: post 
 title: "泰戈尔-园丁集"
-draft: false 
-date: 2006-11-11
-categories: 
-  - "weblog"
+Date: 2006-11-11T00:00:00.000Z
+pubDatetime: 2006-11-11T00:00:00.000Z
+published: 2006-11-11T00:00:00.000Z
+description: ""
+author: "stardust"
+tags: []
+category: "Default"
+slug: "2006-11-11-tai-ge-er-yuan-ding-ji"
+draft: false
 ---
-
 我想要对你说出我要说我的最深的话语，我不敢，我怕你哂笑。  
 因此我嘲笑自己，把我的秘密在玩笑中打碎。  
 我把我的痛苦说得轻松，因为怕你会这样做。  

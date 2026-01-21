@@ -1,12 +1,16 @@
 ---
 layout: post 
 title: "只言片语二零一零年九月"
-draft: false 
-date: 2010-09-29
-categories: 
-  - "weblog"
+Date: 2010-09-29T19:34:00.000Z
+pubDatetime: 2010-09-29T19:34:00.000Z
+published: 2010-09-29T19:34:00.000Z
+description: ""
+author: "stardust"
+tags: []
+category: "Default"
+slug: "2010-09-29-zhi-yan-pian-yu-er-ling-yi-ling-nian-jiu-yue"
+draft: false
 ---
-
 2010-09-29 -moz-opacity to opacity Gecko 1.9.1/ Firefox 3.5 and later do not support -moz-opacity. By now, you should be using simply opacity.  
   
 2010-09-23 08:05:52 zhaohao: 秋分，广州，大雨~  

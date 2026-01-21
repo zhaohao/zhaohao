@@ -1,12 +1,16 @@
 ---
 layout: post 
 title: "叽歪二零零八年四月"
-draft: false 
-date: 2008-04-01
-categories: 
-  - "weblog"
+Date: 2008-04-01T01:00:00.000Z
+pubDatetime: 2008-04-01T01:00:00.000Z
+published: 2008-04-01T01:00:00.000Z
+description: ""
+author: "stardust"
+tags: []
+category: "Default"
+slug: "2008-04-01-ji-wai-er-ling-ling-ba-nian-si-yue"
+draft: false
 ---
-
 其实只要你还活着，你就没有停歇的机会，哪怕你曾经恋爱失败、事业受挫、颓废迷惘、糜烂可耻、忍气吞声……  
 2008-04-28 周一 22:13:43 通过 MSN  
   

@@ -1,12 +1,16 @@
 ---
 layout: post 
 title: "秋雨小记"
-draft: false 
-date: 2008-10-14
-categories: 
-  - "weblog"
+Date: 2008-10-14T00:30:00.000Z
+pubDatetime: 2008-10-14T00:30:00.000Z
+published: 2008-10-14T00:30:00.000Z
+description: ""
+author: "stardust"
+tags: []
+category: "Default"
+slug: "2008-10-14-qiu-yu-xiao-ji"
+draft: false
 ---
-
 早上又像原来一样等摁掉了三次闹钟才迷迷糊糊的爬起来洗漱，晚上睡得应该是不好，不然怎么还是这样会早上起床都是很累的感觉呢！  
   
 过了十一之后，天气终于不似前一段时间那么热了，早上特意看了下天气预报，说是多云，但一走下楼，一点点细小的雨点偶尔打在脸上，凉凉的。  

@@ -1,12 +1,16 @@
 ---
 layout: post 
 title: "东邪西毒终极"
-draft: false 
-date: 2009-04-02
-categories: 
-  - "weblog"
+Date: 2009-04-02T23:20:00.000Z
+pubDatetime: 2009-04-02T23:20:00.000Z
+published: 2009-04-02T23:20:00.000Z
+description: ""
+author: "stardust"
+tags: []
+category: "Default"
+slug: "2009-04-02-dong-xie-xi-du-zhong-ji"
+draft: false
 ---
-
 "佛祖有云，旗未动，风也未动，是人的心自己在动…… "  
   
 "任何人都可以变得狠毒，只要你尝试过什么叫妒忌。"  

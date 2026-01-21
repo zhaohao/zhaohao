@@ -1,12 +1,16 @@
 ---
 layout: post 
 title: "[8887]如果这世界上只剩下了海"
-draft: false 
-date: 2009-04-02
-categories: 
-  - "weblog"
+Date: 2009-04-02T23:04:00.000Z
+pubDatetime: 2009-04-02T23:04:00.000Z
+published: 2009-04-02T23:04:00.000Z
+description: ""
+author: "stardust"
+tags: []
+category: "Default"
+slug: "2009-04-02-8887-ru-guo-zhe-shi-jie-shang-zhi-sheng-xia-le-hai"
+draft: false
 ---
-
 如果这世界上只剩下了海，那么我就是那最后的一只帆船，我知道会有一只鸟在帆上，陪着我向海的深处流浪–在那个地方……  
   
 如果这世界上只剩下了风，那么我就是那夕阳下的最后一棵树，我知道会有一种忧郁在风中，陪着我向冬的深处走去–在那个季节……  

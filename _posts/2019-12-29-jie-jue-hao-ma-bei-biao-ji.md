@@ -1,12 +1,16 @@
 ---
 layout: post 
 title: "解决电话号码被标记问题"
-draft: false 
-date: 2019-12-29
-categories: 
-  - "weblog"
+Date: 2019-12-29T08:11:40.000Z
+pubDatetime: 2019-12-29T08:11:40.000Z
+published: 2019-12-29T08:11:40.000Z
+description: ""
+author: "stardust"
+tags: []
+category: "Default"
+slug: "2019-12-29-jie-jue-hao-ma-bei-biao-ji"
+draft: false
 ---
-
 前面用自己的一个联通号码打给另一部小米手机，结果MIUI来电界面显示为一个公司的名字。  
 原来是手机识别未知号码功能启用后调用了电话邦的数据，而在电话邦中那个联通号码被错误标注为了那个公司的联系方式。  
 自己在通话记录-通话详情页面下翻找到信息来源电话邦，点击进去有纠错选项，选择这是本人私人号码后会收到短信验证，提交后标注信息就在电话邦中删除了。  

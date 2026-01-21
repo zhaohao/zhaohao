@@ -1,12 +1,16 @@
 ---
 layout: post 
 title: "欲无止境"
-draft: false 
-date: 2010-12-18
-categories: 
-  - "weblog"
+Date: 2010-12-18T10:56:00.000Z
+pubDatetime: 2010-12-18T10:56:00.000Z
+published: 2010-12-18T10:56:00.000Z
+description: ""
+author: "stardust"
+tags: []
+category: "Default"
+slug: "2010-12-18-yu-wu-zhi-jing"
+draft: false
 ---
-
 终日奔波只为饥，方才一饱便思衣。衣食两般皆具足，又想娇容美貌妻。  
 娶得美妻生下子，恨无田地少根基。买到田园多广阔，出入无船少马骑。  
 槽头扣了骡和马，叹无官职被人欺。县丞主薄还嫌小，又要朝中挂紫衣。  

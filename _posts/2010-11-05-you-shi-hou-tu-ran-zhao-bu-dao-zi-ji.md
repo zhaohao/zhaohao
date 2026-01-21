@@ -1,12 +1,16 @@
 ---
 layout: post 
 title: "有时候突然找不到自己"
-draft: false 
-date: 2010-11-05
-categories: 
-  - "weblog"
+Date: 2010-11-05T20:08:00.000Z
+pubDatetime: 2010-11-05T20:08:00.000Z
+published: 2010-11-05T20:08:00.000Z
+description: ""
+author: "stardust"
+tags: []
+category: "Default"
+slug: "2010-11-05-you-shi-hou-tu-ran-zhao-bu-dao-zi-ji"
+draft: false
 ---
-
 2010-11-05 DIARYONE  
   
 　　有时候，莫名的心情不好，不想和任何人说话，只想一个人静静的发呆。  

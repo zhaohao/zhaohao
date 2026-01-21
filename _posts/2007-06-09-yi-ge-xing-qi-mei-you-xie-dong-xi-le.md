@@ -1,22 +1,26 @@
 ---
 layout: post 
 title: "一个星期没有写东西了"
-draft: false 
-date: 2007-06-09
-categories: 
-  - "weblog"
+Date: 2007-06-09T15:12:00.000Z
+pubDatetime: 2007-06-09T15:12:00.000Z
+published: 2007-06-09T15:12:00.000Z
+description: ""
+author: "stardust"
+tags: []
+category: "Default"
+slug: "2007-06-09-yi-ge-xing-qi-mei-you-xie-dong-xi-le"
+draft: false
 ---
-
 已经有一个星期没有再写些什么了，无论如何加一点点东西吧。  
 昨天又到差不多四点才睡觉，发现了都市圈这个三维地图站点，可以清晰的查看广州的几乎每一个建筑物，每一条道路，而且非常清晰。并且标注信息齐全，鼠标放到建筑物上自动显示相关信息。一小块截图如下：  
-![o.jpg](/images/o.jpg)  
+![](/images/2007/2007-06-09-3c3f5bc1.jpg)  
   
 
 * * *
 
   
   
-原来申请的一个yahoo.com雅虎奇摩的帐号因为编码默认繁体的问题老是邮件乱码，每次都要改编码方式，今天把区域改回来中国大陆。应该以后不会有问题了。发现yahoo中的一个图片不错：![addrguard.jpg](/images/addrguard.jpg)  
+原来申请的一个yahoo.com雅虎奇摩的帐号因为编码默认繁体的问题老是邮件乱码，每次都要改编码方式，今天把区域改回来中国大陆。应该以后不会有问题了。发现yahoo中的一个图片不错：![](/images/2007/2007-06-09-2a4fd9c9.jpg)  
   
    
   

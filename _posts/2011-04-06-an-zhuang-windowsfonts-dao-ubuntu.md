@@ -1,12 +1,16 @@
 ---
 layout: post 
 title: "安装windows Fonts到ubuntu"
-draft: false 
-date: 2011-04-06
-categories: 
-  - "weblog"
+Date: 2011-04-06T13:40:00.000Z
+pubDatetime: 2011-04-06T13:40:00.000Z
+published: 2011-04-06T13:40:00.000Z
+description: ""
+author: "stardust"
+tags: []
+category: "Default"
+slug: "2011-04-06-an-zhuang-windowsfonts-dao-ubuntu"
+draft: false
 ---
-
 1 拷贝微软字体到桌面的windows7fonts文件：  
 2 sudo gnome-open /usr/share/fonts ———————打开fonts文件夹  
 3 拷贝windows7fonts到文件夹内 ———————直接拉进去就可以了 if 自动配置\_\_> ok,stop here.  

@@ -1,12 +1,16 @@
 ---
 layout: post 
 title: "[8999]The Sound of Silence"
-draft: false 
-date: 2009-07-23
-categories: 
-  - "weblog"
+Date: 2009-07-23T00:22:00.000Z
+pubDatetime: 2009-07-23T00:22:00.000Z
+published: 2009-07-23T00:22:00.000Z
+description: ""
+author: "stardust"
+tags: []
+category: "Default"
+slug: "2009-07-23-8999the-sound-of-silence"
+draft: false
 ---
-
 Hello darkness, my old friend  
 I've come to talk with you again  
 Because a vision softly creeping  

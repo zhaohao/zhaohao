@@ -1,12 +1,16 @@
 ---
 layout: post 
 title: "中大码头-天字码头-中大码头"
-draft: false 
-date: 2007-06-11
-categories: 
-  - "weblog"
+Date: 2007-06-11T15:41:00.000Z
+pubDatetime: 2007-06-11T15:41:00.000Z
+published: 2007-06-11T15:41:00.000Z
+description: ""
+author: "stardust"
+tags: []
+category: "Default"
+slug: "2007-06-11-zhong-da-ma-tou-tian-zi-ma-tou-zhong-da-ma-tou"
+draft: false
 ---
-
 到广州已经两年了，可是对近在咫尺的珠江还没怎么"亲密接触"，终于在昨天为了去北京路而坐了一次"水上巴士"，之所以加上引号因为去和回来坐的又都不是真正意义上的水上巴士，而都是大个一点的游船。  
   
 去的时候坐在船的上层，没什么感觉，我这个从小晕车的人看来是不晕船的了。珠江水因为这接连几天的暴雨而变得有些浑浊，江面上飘浮着一簇簇被暴雨冲下的绿油油的不知名的植物，时不时有只小船驶过在打捞那些东西清理江面。  

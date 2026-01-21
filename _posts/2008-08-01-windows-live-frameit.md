@@ -1,12 +1,16 @@
 ---
 layout: post 
 title: "Windows Live FrameIt"
-draft: false 
-date: 2008-08-01
-categories: 
-  - "weblog"
+Date: 2008-08-01T09:06:00.000Z
+pubDatetime: 2008-08-01T09:06:00.000Z
+published: 2008-08-01T09:06:00.000Z
+description: ""
+author: "stardust"
+tags: []
+category: "Default"
+slug: "2008-08-01-windows-live-frameit"
+draft: false
 ---
-
 Welcome!  
   
 You can craft a dynamic collection of photos and media source content  

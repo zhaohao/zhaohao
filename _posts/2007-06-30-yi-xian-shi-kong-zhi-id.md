@@ -1,12 +1,16 @@
 ---
 layout: post 
 title: "逸仙时空之ID"
-draft: false 
-date: 2007-06-30
-categories: 
-  - "weblog"
+Date: 2007-06-30T23:00:00.000Z
+pubDatetime: 2007-06-30T23:00:00.000Z
+published: 2007-06-30T23:00:00.000Z
+description: ""
+author: "stardust"
+tags: []
+category: "Default"
+slug: "2007-06-30-yi-xian-shi-kong-zhi-id"
+draft: false
 ---
-
 Welcome to Sun Yat-sen (Zhongshan) University Yat-sen Channel BBS  
 欢 迎 莅 临 中 山 大 学 "逸 仙 时 空" BBS 工具箱选单  
 逸仙时空 Yat-sen Channel 讨论区 \[Complain\]  
@@ -25,7 +29,7 @@ vt100 帐号建立日期 : 2004年06月28日22:24:36 星期一\[距今 1096 天\
 私人信箱 : 43 封  
 上站次数 : 162 次  
 上站总时数 : 1 天 5 小时 12 分钟  
-使用者权限 : bTCPR----W------------s2------ 
+使用者权限 : bTCPR----W------------s2------  
 您的注册程序已经完成, 欢迎加入本站.  
   
 Saturday, June 30, 2007

@@ -1,12 +1,16 @@
 ---
 layout: post 
 title: "2012无耻言论集锦"
-draft: false 
-date: 2012-06-27
-categories: 
-  - "weblog"
+Date: 2012-06-27T22:29:00.000Z
+pubDatetime: 2012-06-27T22:29:00.000Z
+published: 2012-06-27T22:29:00.000Z
+description: ""
+author: "stardust"
+tags: []
+category: "Default"
+slug: "2012-06-27-2012-wu-chi-yan-lun-ji-jin"
+draft: false
 ---
-
 没有最无耻只有更无耻！  
   
 1，环球时报社评：要允许中国适度腐败，民众应理解，更无耻的是，其总编胡锡进还嫁祸腾讯，说篡改了该报社标题。  

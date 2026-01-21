@@ -1,13 +1,17 @@
 ---
 layout: post 
 title: "那些年拿过的那些域名"
-draft: false 
-date: 2014-10-30
-categories: 
-  - "weblog"
+Date: 2014-10-30T16:20:00.000Z
+pubDatetime: 2014-10-30T16:20:00.000Z
+published: 2014-10-30T16:20:00.000Z
+description: ""
+author: "stardust"
+tags: []
+category: "Default"
+slug: "2014-10-30-nei-xie-nian-na-guo-de-nei-xie-yu-ming"
+draft: false
 ---
-
-![cogs](/images/cogs.jpg)  
+![cogs](/images/2014/2014-10-31-3e7ea48d.jpg)  
   
 2007-??-??，cn域名对个人开放，并且特价促销1元一个，注册了bluehao.cn，后面什么的都忘记了，好像还尝试了提交备案信息，当时还是很简单的自主网上提交备案信息，完全不似如今的复杂。  
   
@@ -41,7 +45,7 @@ categories:
 
   
   
-再往后注册了一堆的域名，bluestardust.org、stardust.im、zhaohao.org、zhao.im。  
+再往后注册了一堆的域名，bluestardust.org、stardust.im、zhaohao.org、zhao.im/%E3%80%82  
   
 bluestardust.org注册几年后不再续费，注销删除了，后面又在2012-12-12的时候重新注册回来，现在到2014-12-12过期，还不知道是继续续费还是再次丢掉。  
   
@@ -49,7 +53,7 @@ stardust.im一直续了几年，想着还是没什么用，在今年没有再续
   
 zhaohao.org也是用了几年，今年也没有续费丢掉了，，目前也为可注册状态。矛盾矛盾。  
   
-zhao.im一直用到现在，看Google Apps只有10个可用账户，不过是足够自用了。会一直保留。  
+zlog.net一直用到现在，看Google Apps只有10个可用账户，不过是足够自用了。会一直保留。  
   
 
 * * *

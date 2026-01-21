@@ -1,12 +1,16 @@
 ---
 layout: post 
 title: "雅虎裁员指导文件-沟通的语言技巧"
-draft: false 
-date: 2010-01-10
-categories: 
-  - "weblog"
+Date: 2010-01-10T16:50:00.000Z
+pubDatetime: 2010-01-10T16:50:00.000Z
+published: 2010-01-10T16:50:00.000Z
+description: ""
+author: "stardust"
+tags: []
+category: "Default"
+slug: "2010-01-10-ya-hu-cai-yuan-zhi-dao-wen-jian-gou-tong-de-yu-yan-ji-qiao"
+draft: false
 ---
-
 作者： jmj | 2009-10-22  
 周三,雅虎正在进行1500人的大裁员,而一份关于指导雅虎经理们如何裁人的内部PPT文档泄露了一些裁员细节.  
 以下为其主要内容:  

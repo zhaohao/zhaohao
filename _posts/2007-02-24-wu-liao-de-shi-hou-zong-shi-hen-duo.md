@@ -1,12 +1,16 @@
 ---
 layout: post 
 title: "无聊的时候总是很多"
-draft: false 
-date: 2007-02-24
-categories: 
-  - "weblog"
+Date: 2007-02-24T22:53:00.000Z
+pubDatetime: 2007-02-24T22:53:00.000Z
+published: 2007-02-24T22:53:00.000Z
+description: ""
+author: "stardust"
+tags: []
+category: "Default"
+slug: "2007-02-24-wu-liao-de-shi-hou-zong-shi-hen-duo"
+draft: false
 ---
-
 无聊的时候总是很多，有很多事情等着要做，但是自己又偏偏不想去做，这种无聊真的最下下的无聊了。  
   
 有些时候想写些东西，可是手指触碰到键盘的时候又不知道该写些什么了，人就是这样一种奇怪的动物。  

@@ -1,12 +1,16 @@
 ---
 layout: post 
 title: "无题转载"
-draft: false 
-date: 2010-03-29
-categories: 
-  - "weblog"
+Date: 2010-03-29T18:21:00.000Z
+pubDatetime: 2010-03-29T18:21:00.000Z
+published: 2010-03-29T18:21:00.000Z
+description: ""
+author: "stardust"
+tags: []
+category: "Default"
+slug: "2010-03-29-wu-ti-zhuan-zai"
+draft: false
 ---
-
 世界用Google，我们用百度；世界用youtube，我们用优酷；世界用牛奶，我们用三鹿；世界用游戏机，我们用劲舞；世界用facebook，我们 用开心；世界用MSN，我们用QQ；世界用 WCDMA，我们用TD；世界用FTTH，我们用adsl；世界用internet，我们用LAN。  
   
 网易、腾讯、百度、谷歌等几个趴在一起吃屎。某天，一直捂着鼻子吃的谷歌终于爆发 ：臭死了，老子不吃了。网易的眉头皱了一下，腾讯好像听到了，好像没听到。百度听 到了 ，偷偷朝谷歌那边挪了一下，把谷歌那份屎扒到自己面前继续吃。”  

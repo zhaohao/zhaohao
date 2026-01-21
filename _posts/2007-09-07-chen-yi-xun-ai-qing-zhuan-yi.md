@@ -1,12 +1,16 @@
 ---
 layout: post 
 title: "陈奕迅 - 爱情转移"
-draft: false 
-date: 2007-09-07
-categories: 
-  - "weblog"
+Date: 2007-09-07T12:14:00.000Z
+pubDatetime: 2007-09-07T12:14:00.000Z
+published: 2007-09-07T12:14:00.000Z
+description: ""
+author: "stardust"
+tags: []
+category: "Default"
+slug: "2007-09-07-chen-yi-xun-ai-qing-zhuan-yi"
+draft: false
 ---
-
 电影《爱情呼叫转移》主题曲  
 作曲：Christopher Chak  
 作词：林夕  

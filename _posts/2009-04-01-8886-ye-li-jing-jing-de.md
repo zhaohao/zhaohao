@@ -1,12 +1,16 @@
 ---
 layout: post 
 title: "[8886]夜里，静静的"
-draft: false 
-date: 2009-04-01
-categories: 
-  - "weblog"
+Date: 2009-04-01T22:03:00.000Z
+pubDatetime: 2009-04-01T22:03:00.000Z
+published: 2009-04-01T22:03:00.000Z
+description: ""
+author: "stardust"
+tags: []
+category: "Default"
+slug: "2009-04-01-8886-ye-li-jing-jing-de"
+draft: false
 ---
-
 晚上九点多，感觉很累，虽然一天没做任何事情，虽然按时间算睡的也挺多。关掉了电脑，关掉了灯，小小的房间暗了下来。  
   
 回想一直以来的生活状态，总是时时刻刻的想逃避当前所面对的一切，做一件事的时候，心却一直想着另一些东西，于是，总背负着精神上的包袱，甚至说是枷锁，总不能轻轻松松的去做需要做的事情。  

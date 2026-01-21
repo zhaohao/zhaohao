@@ -1,12 +1,16 @@
 ---
 layout: post 
 title: "一再的无路可走，所以一再的前行"
-draft: false 
-date: 2007-05-05
-categories: 
-  - "weblog"
+Date: 2007-05-05T03:37:00.000Z
+pubDatetime: 2007-05-05T03:37:00.000Z
+published: 2007-05-05T03:37:00.000Z
+description: ""
+author: "stardust"
+tags: []
+category: "Default"
+slug: "2007-05-05-yi-zai-de-wu-lu-ke-zou-suo-yi-yi-zai-de-qian-xing"
+draft: false
 ---
-
 明白一些东西的时候  却是最不需要明白的时候  
 想起一些东西的时候  却是最不需要想起的时候  
   

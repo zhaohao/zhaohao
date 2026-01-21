@@ -1,12 +1,16 @@
 ---
 layout: post 
 title: "海阔天空"
-draft: false 
-date: 2010-09-11
-categories: 
-  - "weblog"
+Date: 2010-09-11T19:32:00.000Z
+pubDatetime: 2010-09-11T19:32:00.000Z
+published: 2010-09-11T19:32:00.000Z
+description: ""
+author: "stardust"
+tags: []
+category: "Default"
+slug: "2010-09-11-hai-kuo-tian-kong"
+draft: false
 ---
-
 2010-09-11 DIARYONE， 歌、电影  
   
 我曾怀疑我　走在沙漠中　从不结果　无论种什么梦  

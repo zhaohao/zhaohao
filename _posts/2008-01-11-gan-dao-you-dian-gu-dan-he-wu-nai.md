@@ -1,12 +1,16 @@
 ---
 layout: post 
 title: "感到有点孤单和无奈"
-draft: false 
-date: 2008-01-11
-categories: 
-  - "weblog"
+Date: 2008-01-11T09:30:00.000Z
+pubDatetime: 2008-01-11T09:30:00.000Z
+published: 2008-01-11T09:30:00.000Z
+description: ""
+author: "stardust"
+tags: []
+category: "Default"
+slug: "2008-01-11-gan-dao-you-dian-gu-dan-he-wu-nai"
+draft: false
 ---
-
 昨天晚上在QQ上遇见姐姐，问关于过年怎么安排的事情，不知道该怎样回答，似乎只是想一个人躲起来。  
   
 还有是这几周以来睡的最迟的一次了，到快两点才躺到床上。全在电脑上折腾一个耗费时间而又没有什么意义的事情，同时也深刻体会到伴了我四年的电脑真的是老了，跑不动那些乱七八糟的程序了。  

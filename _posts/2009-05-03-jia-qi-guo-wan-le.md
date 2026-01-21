@@ -1,12 +1,16 @@
 ---
 layout: post 
 title: "假期过完了……"
-draft: false 
-date: 2009-05-03
-categories: 
-  - "weblog"
+Date: 2009-05-03T22:22:00.000Z
+pubDatetime: 2009-05-03T22:22:00.000Z
+published: 2009-05-03T22:22:00.000Z
+description: ""
+author: "stardust"
+tags: []
+category: "Default"
+slug: "2009-05-03-jia-qi-guo-wan-le"
+draft: false
 ---
-
 几天很快过去了……  
   
 一个朋友五一去莲花山玩，说笑着让她代求支签……  

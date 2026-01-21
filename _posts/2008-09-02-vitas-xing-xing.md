@@ -1,12 +1,16 @@
 ---
 layout: post 
 title: "VITAS-星星"
-draft: false 
-date: 2008-09-02
-categories: 
-  - "weblog"
+Date: 2008-09-02T21:34:00.000Z
+pubDatetime: 2008-09-02T21:34:00.000Z
+published: 2008-09-02T21:34:00.000Z
+description: ""
+author: "stardust"
+tags: []
+category: "Default"
+slug: "2008-09-02-vitas-xing-xing"
+draft: false
 ---
-
 无数次的问自己，我为何而生、为何而存在？  
 为何行云流动、为何风雨不止？活在这个世界，我在期盼着什么事情？  
 我想飞向云端，然而却没有羽翼，那星光在天际诱惑着我。  

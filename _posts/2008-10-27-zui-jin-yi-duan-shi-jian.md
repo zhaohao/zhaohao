@@ -1,12 +1,16 @@
 ---
 layout: post 
 title: "最近一段时间"
-draft: false 
-date: 2008-10-27
-categories: 
-  - "weblog"
+Date: 2008-10-27T21:10:00.000Z
+pubDatetime: 2008-10-27T21:10:00.000Z
+published: 2008-10-27T21:10:00.000Z
+description: ""
+author: "stardust"
+tags: []
+category: "Default"
+slug: "2008-10-27-zui-jin-yi-duan-shi-jian"
+draft: false
 ---
-
 上周到现在，一直感觉到忙忙碌碌的，心情依旧的不怎么样。  
   
 每到晚上回来，就是开电脑，但是白天已经看了一整天的电脑了，感兴趣的新闻也都已经看过，于是就无所事事的看电影，看了李米的猜想，看了画皮，看了清澈之恋，形形色色的爱情，形形色色的纠葛……一个人可以不寂寞，一个人害怕寂寞的时候才寂寞，我可能害怕了……  

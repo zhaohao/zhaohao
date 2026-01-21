@@ -1,12 +1,16 @@
 ---
 layout: post 
 title: "叽歪二零零八年三月"
-draft: false 
-date: 2008-03-21
-categories: 
-  - "weblog"
+Date: 2008-03-21T19:29:00.000Z
+pubDatetime: 2008-03-21T19:29:00.000Z
+published: 2008-03-21T19:29:00.000Z
+description: ""
+author: "stardust"
+tags: []
+category: "Default"
+slug: "2008-03-21-ji-wai-er-ling-ling-ba-nian-san-yue"
+draft: false
 ---
-
 愿我来生得菩提时,心似琉璃.  
 2008-03-21 周五 19:29:19 通过 MSN  
   

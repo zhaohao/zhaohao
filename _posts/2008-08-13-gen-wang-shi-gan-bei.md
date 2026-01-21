@@ -1,12 +1,16 @@
 ---
 layout: post 
 title: "跟往事干杯……"
-draft: false 
-date: 2008-08-13
-categories: 
-  - "weblog"
+Date: 2008-08-13T23:51:00.000Z
+pubDatetime: 2008-08-13T23:51:00.000Z
+published: 2008-08-13T23:51:00.000Z
+description: ""
+author: "stardust"
+tags: []
+category: "Default"
+slug: "2008-08-13-gen-wang-shi-gan-bei"
+draft: false
 ---
-
 经过了许多事，你是不是觉得累？这样的心情，我曾有过几回。  
 也许是被人伤了心，也许是无人可了解，现在的你我想一定 很疲惫……  
   

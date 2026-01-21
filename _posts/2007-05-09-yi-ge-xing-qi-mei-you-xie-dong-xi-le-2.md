@@ -1,12 +1,16 @@
 ---
 layout: post 
 title: "一个星期没有写东西了"
-draft: false 
-date: 2007-05-09
-categories: 
-  - "weblog"
+Date: 2007-05-09T15:12:00.000Z
+pubDatetime: 2007-05-09T15:12:00.000Z
+published: 2007-05-09T15:12:00.000Z
+description: ""
+author: "stardust"
+tags: []
+category: "Default"
+slug: "2007-05-09-yi-ge-xing-qi-mei-you-xie-dong-xi-le-2"
+draft: false
 ---
-
 已经有一个星期没有再写些什么了，无论如何加一点点东西吧。  
 昨天又到差不多四点才睡觉，发现了都市圈这个三维地图站点，可以清晰的查看广州的几乎每一个建筑物，每一条道路，而且非常清晰。并且标注信息齐全，鼠标放到建筑物上自动显示相关信息。  
   

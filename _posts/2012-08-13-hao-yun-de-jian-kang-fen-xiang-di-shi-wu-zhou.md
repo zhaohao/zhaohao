@@ -1,12 +1,16 @@
 ---
 layout: post 
 title: "好孕的健康分享 第十五周"
-draft: false 
-date: 2012-08-13
-categories: 
-  - "weblog"
+Date: 2012-08-13T05:46:00.000Z
+pubDatetime: 2012-08-13T05:46:00.000Z
+published: 2012-08-13T05:46:00.000Z
+description: ""
+author: "stardust"
+tags: []
+category: "Default"
+slug: "2012-08-13-hao-yun-de-jian-kang-fen-xiang-di-shi-wu-zhou"
+draft: false
 ---
-
 在15-18周之间是做产前诊断的最佳时期，现在你需要做一次产前诊断了。  
   
 现在，胎儿的脸部正在发育，眉毛开始长出来了，头发的生长速度也很快。  

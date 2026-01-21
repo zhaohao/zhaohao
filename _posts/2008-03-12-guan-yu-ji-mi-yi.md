@@ -1,12 +1,16 @@
 ---
 layout: post 
 title: "關于幾米（一）"
-draft: false 
-date: 2008-03-12
-categories: 
-  - "weblog"
+Date: 2008-03-12T21:50:00.000Z
+pubDatetime: 2008-03-12T21:50:00.000Z
+published: 2008-03-12T21:50:00.000Z
+description: ""
+author: "stardust"
+tags: []
+category: "Default"
+slug: "2008-03-12-guan-yu-ji-mi-yi"
+draft: false
 ---
-
 :: 关于幾米 ::  
   
 幾米，一位用画笔描绘梦想、吸引无数读者画迷为之疯狂，知名度迅速窜升的当红绘本作家，同时却也是一个腼腆善良的中年男子，偏好简单的居家生活，低调而淡泊。  

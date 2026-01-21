@@ -1,12 +1,16 @@
 ---
 layout: post 
 title: "Will you still love me tomorrow?"
-draft: false 
-date: 2008-08-15
-categories: 
-  - "weblog"
+Date: 2008-08-15T23:58:00.000Z
+pubDatetime: 2008-08-15T23:58:00.000Z
+published: 2008-08-15T23:58:00.000Z
+description: ""
+author: "stardust"
+tags: []
+category: "Default"
+slug: "2008-08-15-will-you-still-love-me-tomorrow"
+draft: false
 ---
-
 午夜的收音机，轻轻传来一首歌，那是你我都已熟悉的旋律，在你遗忘的时候我依然还记得，明天你是否依然爱我？  
   
 我早已经了解，追逐爱情的规则。虽然不能爱你，却又不知该如何。相信总会有一天，你一定会离去，但明天你是否依然爱我？  

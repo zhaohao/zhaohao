@@ -1,12 +1,16 @@
 ---
 layout: post 
 title: "回忆珠海、那些天"
-draft: false 
-date: 2007-10-31
-categories: 
-  - "weblog"
+Date: 2007-10-31T23:00:00.000Z
+pubDatetime: 2007-10-31T23:00:00.000Z
+published: 2007-10-31T23:00:00.000Z
+description: ""
+author: "stardust"
+tags: []
+category: "Default"
+slug: "2007-10-31-hui-yi-zhu-hai-nei-xie-tian"
+draft: false
 ---
-
 那些天……  
   
 十一的时候去了珠海，那天一层层的云飘在头顶，没有阳光的刺眼。在高速路上看到远处天空中有一块奇特的蓝色，那种颜色的天空从来没有见到过。路上下起了小雨，打开车窗，一股股夹杂着雨点的风吹到脸上，伴着天空中暗暗的光，很舒服的感觉。  

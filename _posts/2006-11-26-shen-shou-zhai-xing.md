@@ -1,12 +1,16 @@
 ---
 layout: post 
 title: "伸手摘星"
-draft: false 
-date: 2006-11-26
-categories: 
-  - "weblog"
+Date: 2006-11-26T23:35:00.000Z
+pubDatetime: 2006-11-26T23:35:00.000Z
+published: 2006-11-26T23:35:00.000Z
+description: ""
+author: "stardust"
+tags: []
+category: "Default"
+slug: "2006-11-26-shen-shou-zhai-xing"
+draft: false
 ---
-
 失去，也是一种笃定。  
   
 就算拥有的时光，是那么短暂；  

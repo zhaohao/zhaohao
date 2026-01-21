@@ -1,13 +1,17 @@
 ---
 layout: post 
 title: "Windows10手动添加OEM信息"
-draft: false 
-date: 2015-09-21
-categories: 
-  - "weblog"
+Date: 2015-09-21T09:17:00.000Z
+pubDatetime: 2015-09-21T09:17:00.000Z
+published: 2015-09-21T09:17:00.000Z
+description: ""
+author: "stardust"
+tags: []
+category: "Default"
+slug: "2015-09-21-windows10-shou-dong-tian-jia-oem-xin-xi"
+draft: false
 ---
-
-![oemlogo256px](/images/oemlogo256px.png)  
+![oemlogo256px](/images/2015/2015-09-21-7b5b94f3.png)  
   
 
 ```
@@ -16,6 +20,6 @@ categories:
 
   
   
-![2015-09-21-sysinfo](/images/2015-09-21-sysinfo.png)
+![2015-09-21-sysinfo](/images/2015/2015-09-21-f79d0490.png)
 
 stardust@live.com

@@ -1,12 +1,16 @@
 ---
 layout: post 
 title: "哀愁 词：姚谦 曲：森田童子"
-draft: false 
-date: 2010-11-07
-categories: 
-  - "weblog"
+Date: 2010-11-07T20:19:00.000Z
+pubDatetime: 2010-11-07T20:19:00.000Z
+published: 2010-11-07T20:19:00.000Z
+description: ""
+author: "stardust"
+tags: []
+category: "Default"
+slug: "2010-11-07-ai-chou-ci-yao-qian-qu-sen-tian-tong-zi"
+draft: false
 ---
-
 远远的看着你久违的背影 有一点不真实的情绪 好像一出哀愁的电影 全世界忽然间都安静  
 也许是时间的沉淀关系 我们都不流露痕迹 刚刚我们擦身而过 一秒间的距离 你我都屏住了呼吸  
 只是我终忍不住 转过头来还是想要看看你 复杂的微酸的起伏 像我们深爱的夜曲  

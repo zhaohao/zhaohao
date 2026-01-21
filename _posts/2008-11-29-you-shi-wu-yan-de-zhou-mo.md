@@ -1,12 +1,16 @@
 ---
 layout: post 
 title: "又是无言的周末"
-draft: false 
-date: 2008-11-29
-categories: 
-  - "weblog"
+Date: 2008-11-29T12:36:00.000Z
+pubDatetime: 2008-11-29T12:36:00.000Z
+published: 2008-11-29T12:36:00.000Z
+description: ""
+author: "stardust"
+tags: []
+category: "Default"
+slug: "2008-11-29-you-shi-wu-yan-de-zhou-mo"
+draft: false
 ---
-
 正中午，广州，裹在厚厚的棉被里面居然还双脚冰凉。  
   
 外面的天空出奇的明净，没有一丝杂质的透彻的蓝。阳光很是明亮，开了窗，把窗帘拉上，不时有一股股小风吹进，凉凉的感觉。  

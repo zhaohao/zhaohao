@@ -1,12 +1,16 @@
 ---
 layout: post 
 title: "比尔·盖茨哈佛大学毕业典礼演讲翻译"
-draft: false 
-date: 2007-08-03
-categories: 
-  - "weblog"
+Date: 2007-08-03T14:35:00.000Z
+pubDatetime: 2007-08-03T14:35:00.000Z
+published: 2007-08-03T14:35:00.000Z
+description: ""
+author: "stardust"
+tags: []
+category: "Default"
+slug: "2007-08-03-bi-er-gai-ci-ha-fo-da-xue-bi-ye-dian-li-yan-jiang-fan-yi"
+draft: false
 ---
-
   
 
   

@@ -1,12 +1,16 @@
 ---
 layout: post 
 title: "Carl King:10 Myths About Introverts"
-draft: false 
-date: 2011-04-13
-categories: 
-  - "weblog"
+Date: 2011-04-13T16:13:00.000Z
+pubDatetime: 2011-04-13T16:13:00.000Z
+published: 2011-04-13T16:13:00.000Z
+description: ""
+author: "stardust"
+tags: []
+category: "Default"
+slug: "2011-04-13-carl-king10-myths-about-introverts"
+draft: false
 ---
-
 [http://www.carlkingcreative.com/10-myths-about-introverts](http://www.carlkingcreative.com/10-myths-about-introverts)  
 I was lucky enough to discover a book called, The Introvert Advantage (How To Thrive in an Extrovert World), by Marti Laney, Psy.D. I feel like someone has written an encyclopedia entry on a rare race of people to which I belong. Not only has it explained many of my eccentricities, it helps me to redefine my entire life in a new and positive context.  
 Sure, anyone who knows me would say, “Duh! Why did it take you so long to realize you’re an Introvert?” It’s not that simple. The problem is that labeling someone as an Introvert is a very shallow assessment, full of common misconceptions. It’s more complex than that. (Since Carl King is talking about it, it has to be.)  

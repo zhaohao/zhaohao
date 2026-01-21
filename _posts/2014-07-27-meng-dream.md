@@ -1,12 +1,16 @@
 ---
 layout: post 
 title: "梦 Dream"
-draft: false 
-date: 2014-07-27
-categories: 
-  - "weblog"
+Date: 2014-07-27T14:07:00.000Z
+pubDatetime: 2014-07-27T14:07:00.000Z
+published: 2014-07-27T14:07:00.000Z
+description: ""
+author: "stardust"
+tags: []
+category: "Default"
+slug: "2014-07-27-meng-dream"
+draft: false
 ---
-
 梦里回到了二十年前的小学。  
   
 那片园子还是记忆里的样子，又和记忆里的不同。似乎变得现代了些，又还是旧时侯的格局。  
@@ -19,6 +23,6 @@ categories:
   
 恍然若隔世……  
   
-![loopdool-bg.jpg](/images/loopdool-bg.jpg)
+![loopdool-bg.jpg](/images/2014/2014-07-27-ea92fc13.jpg)
 
 stardust@live.com

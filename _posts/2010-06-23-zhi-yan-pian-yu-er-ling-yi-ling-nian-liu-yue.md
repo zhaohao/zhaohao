@@ -1,12 +1,16 @@
 ---
 layout: post 
 title: "只言片语二零一零年六月"
-draft: false 
-date: 2010-06-23
-categories: 
-  - "weblog"
+Date: 2010-06-23T18:49:00.000Z
+pubDatetime: 2010-06-23T18:49:00.000Z
+published: 2010-06-23T18:49:00.000Z
+description: ""
+author: "stardust"
+tags: []
+category: "Default"
+slug: "2010-06-23-zhi-yan-pian-yu-er-ling-yi-ling-nian-liu-yue"
+draft: false
 ---
-
 2010-06-23 夏至已过，没有意识到夏至已经过去两天~ 六月又已经快走到尽头。  
   
 2010-06-22 工作状态低落到极致~ 需要离开~  

@@ -1,12 +1,16 @@
 ---
 layout: post 
 title: "Naruto-青鸟"
-draft: false 
-date: 2008-08-06
-categories: 
-  - "weblog"
+Date: 2008-08-06T22:13:00.000Z
+pubDatetime: 2008-08-06T22:13:00.000Z
+published: 2008-08-06T22:13:00.000Z
+description: ""
+author: "stardust"
+tags: []
+category: "Default"
+slug: "2008-08-06-naruto-qing-niao"
+draft: false
 ---
-
 如果振翅高飞，我说过不会再回来，目标是那，蔚蓝的 蔚蓝的 天空。  
   
 还没记住那份悲伤，就开始了了解到苦闷。  

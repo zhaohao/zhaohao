@@ -1,18 +1,22 @@
 ---
 layout: post 
 title: "在DigitalOcean的Ubuntu VPS上安装Ghost"
-draft: false 
-date: 2014-10-24
-categories: 
-  - "weblog"
+Date: 2014-10-24T16:14:00.000Z
+pubDatetime: 2014-10-24T16:14:00.000Z
+published: 2014-10-24T16:14:00.000Z
+description: ""
+author: "stardust"
+tags: []
+category: "Default"
+slug: "2014-10-24-zai-digitalocean-de-ubuntuvps-shang-an-zhuang-ghost"
+draft: false
 ---
-
 Ghost博客系统刚刚发布的时候就在官方站点注册了一个尝试，记得最初还是以Ghost.io作为官方主域名的。  
 很快过了免费试用期，在官方站点的使用也随之结束。  
   
 在PC上也安装了本地的Ghost博客系统，对模版还有其它一些功能有了进一步的了解。  
   
-前面还冲了5.0美元加送了10美元在Linode上开了VPS，选的最便宜的0.015/hr to 10美元/mo，运行了大概一周时间,在上面折腾了一次Ghost的安装，都还顺利，因为有Bluehost的Wordpress博客，所以也就没有再继续折腾，在耗费了2.79美元之后就删掉了VPS,上面的Ghost也随着永远的消失掉。  
+前面还冲了5.0加送了10在Linode上开了VPS，选的最便宜的0.015/hr to 10/mo，运行了大概一周时间,在上面折腾了一次Ghost的安装，都还顺利，因为有Bluehost的Wordpress博客，所以也就没有再继续折腾，在耗费了2.79之后就删掉了VPS,上面的Ghost也随着永远的消失掉。  
   
 几天前又在DigitalOcean上开了个VPS,DigitalOcean上的更简单彻底，新建Droplet的时候直接可选配置好Ghost的系统，不过是64位的Ubuntu，想着内存总共才512M，想把系统换为32位的试下，DigitalOcean后台里有更换内核的选项，不过没有使用，不知道好不好用。  
   
@@ -23,15 +27,13 @@ Ghost博客系统刚刚发布的时候就在官方站点注册了一个尝试，
 
   
   
-本文记录了在Ubuntu 14.04 x32系统上安装[Ghost](http://ghost.org/)博客程序的过程。已经在DigitalOcean的VPS上创建了Ubuntu的Droplet，并且本域名zhao.im已经指向服务器128.199.174.200。  
+本文记录了在Ubuntu 14.04 x32系统上安装[Ghost](http://ghost.org/)博客程序的过程。已经在DigitalOcean的VPS上创建了Ubuntu的Droplet，并且本域名zlog.net已经指向服务器128.199.174.200。  
   
 下述步骤在自用DigitalOcean VPS上验证通过。  
 VPS配置：  
   
 
-```
-512MB RAM 20GB SSD Disk 新加坡1号机房 Ubuntu14.04 x32系统
-```
+512MB RAM 20GB SSD Disk 新加坡1号机房 Ubuntu14.04 x32系统  
 
   
   
@@ -39,18 +41,21 @@ VPS配置：
 通过SSH登录你的服务器，运行下列命令以更新Ubuntu系统：  
   
 
-```
-sudo apt-get updatesudo apt-get upgradesudo aptitude install build-essential zip    
-```
+sudo apt-get update  
+sudo apt-get upgrade  
+sudo aptitude install build-essential zip      
 
   
   
 运行下列命令以访问[Nodejs.org](http://nodejs.org/) 下载最新版本的Node.js包：  
   
 
-```
-wget http://nodejs.org/dist/latest/node-v0.10.32.tar.gztar -zxvf node-v0.10.32.tar.gzcd node-v0.10.32./configuremakesudo make install    
-```
+wget http://nodejs.org/dist/latest/node-v0.10.32.tar.gz  
+tar -zxvf node-v0.10.32.tar.gz  
+cd node-v0.10.32  
+./configure  
+make  
+sudo make install      
 
   
   
@@ -61,9 +66,11 @@ wget http://nodejs.org/dist/latest/node-v0.10.32.tar.gztar -zxvf node-v0.10.32.t
 通过下列命令下载并安装Ghost（假定安装在目录 `/var/www` )：  
   
 
-```
-sudo mkdir -p /var/wwwcd /var/wwwsudo wget https://ghost.org/zip/ghost-latest.zipsudo unzip ghost-latest.zipsudo npm install    
-```
+sudo mkdir -p /var/www  
+cd /var/www  
+sudo wget https://ghost.org/zip/ghost-latest.zip  
+sudo unzip ghost-latest.zip  
+sudo npm install      
 
   
   
@@ -80,27 +87,40 @@ sudo mkdir -p /var/wwwcd /var/wwwsudo wget https://ghost.org/zip/ghost-latest.zi
 新建一个新的服务配置文件 ghost.conf  
   
 
-```
-sudo nano /etc/init/ghost.conf
-```
+sudo nano /etc/init/ghost.conf  
 
   
   
 配置文件加入如下内容：  
   
 
-```
-#/etc/init/ghost.confdescription "Ghost Blog"author "Your Name"# Start the service after everything loadedstart on (local-filesystems and net-device-up IFACE=eth0)stop on shutdown# Automatically restart servicerespawnrespawn limit 99 5script# Navigate to your app directorycd /var/www# Run the script with Node.js and output to a logexport NODE_ENV=productionexec /usr/local/bin/npm start /var/www 2>&1 >> /var/log/ghost.logend script    
-```
+#/etc/init/ghost.conf  
+description "Ghost Blog"  
+author "Your Name"  
+\# Start the service after everything loaded  
+start on (local-filesystems and net-device-up IFACE=eth0)  
+stop on shutdown  
+\# Automatically restart service  
+respawn  
+respawn limit 99 5  
+script  
+\# Navigate to your app directory  
+cd /var/www  
+  
+\# Run the script with Node.js and output to a log  
+export NODE\_ENV=production  
+exec /usr/local/bin/npm start /var/www 2>&1 >> /var/log/ghost.log  
+end script      
 
   
   
 之后就可以通过下列命令控制Ghost service：  
   
 
-```
-sudo service ghost startsudo service ghost stopsudo service ghost restartsudo service ghost status
-```
+sudo service ghost start  
+sudo service ghost stop  
+sudo service ghost restart  
+sudo service ghost status  
 
   
   
@@ -111,9 +131,7 @@ sudo service ghost startsudo service ghost stopsudo service ghost restartsudo se
 由于Ghost博客是根据服务器时区来显示文章发布时间，而DigitalOcean的VPS默认了美国东部时区，即使是新加坡的机房也是如此，因此导致Ghost博客显示时间错乱。Ghost管理界面目前没有可以更改时区的选项，因此在服务器端修改Ubuntu默认时区，使之同实际时区一致。使用下列命令更改Ubuntu默认时区:  
   
 
-```
-sudo dpkg-reconfigure tzdata    
-```
+sudo dpkg-reconfigure tzdata      
 
   
   
@@ -124,15 +142,13 @@ sudo dpkg-reconfigure tzdata
 可以通过下列命令启动Ghost service：  
   
 
-```
-sudo service ghost start    
-```
+sudo service ghost start      
 
   
   
 **8.博客备份及导入**  
   
-进入[http://zhao.im/ghost/debug](http://zhao.im/ghost/debug) 后台页面，对Ghost博客进行导入、导出备份操作。  
+进入[http://zlog.net/ghost/debug](http://zlog.net/ghost/debug) 后台页面，对Ghost博客进行导入、导出备份操作。  
   
 
 * * *

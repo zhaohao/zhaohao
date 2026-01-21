@@ -1,12 +1,16 @@
 ---
 layout: post 
 title: "About Live Space"
-draft: false 
-date: 2008-07-31
-categories: 
-  - "weblog"
+Date: 2008-07-31T20:42:00.000Z
+pubDatetime: 2008-07-31T20:42:00.000Z
+published: 2008-07-31T20:42:00.000Z
+description: ""
+author: "stardust"
+tags: []
+category: "Default"
+slug: "2008-07-31-about-live-space"
+draft: false
 ---
-
 今天登录Live space 在最上面出现了这样的提示：  
   
 

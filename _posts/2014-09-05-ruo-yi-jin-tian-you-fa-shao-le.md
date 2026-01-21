@@ -1,12 +1,16 @@
 ---
 layout: post 
 title: "若伊今天又发烧了"
-draft: false 
-date: 2014-09-05
-categories: 
-  - "weblog"
+Date: 2014-09-05T22:04:00.000Z
+pubDatetime: 2014-09-05T22:04:00.000Z
+published: 2014-09-05T22:04:00.000Z
+description: ""
+author: "stardust"
+tags: []
+category: "Default"
+slug: "2014-09-05-ruo-yi-jin-tian-you-fa-shao-le"
+draft: false
 ---
-
 昨天下午有些拉肚子，不严重，晚上仍旧是蹬被子可能又有些受凉。  
 早上起来感觉到有些烫，量了体温38度了。但除了精神有些不振作外也没有感冒的症状，应该是拉肚子引发的发热。  
 再往后又拉了一次，依然是没那么严重的那种。但下午量了体温，居然高到了39度，精神更差了些，有些严重的感觉。  

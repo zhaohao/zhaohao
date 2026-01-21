@@ -1,12 +1,16 @@
 ---
 layout: post 
 title: "只言片语二零一零年十月"
-draft: false 
-date: 2010-10-31
-categories: 
-  - "weblog"
+Date: 2010-10-31T19:46:00.000Z
+pubDatetime: 2010-10-31T19:46:00.000Z
+published: 2010-10-31T19:46:00.000Z
+description: ""
+author: "stardust"
+tags: []
+category: "Default"
+slug: "2010-10-31-zhi-yan-pian-yu-er-ling-yi-ling-nian-shi-yue"
+draft: false
 ---
-
 2010-10-31 十月最后一天了~  
   
 2010-10-31 躺在沙发上，听着一首首熟悉的歌，时间静悄悄的流过~  

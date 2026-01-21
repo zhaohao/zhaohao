@@ -1,12 +1,16 @@
 ---
 layout: post 
 title: "又是一年毕业时"
-draft: false 
-date: 2006-06-23
-categories: 
-  - "weblog"
+Date: 2006-06-23T11:35:00.000Z
+pubDatetime: 2006-06-23T11:35:00.000Z
+published: 2006-06-23T11:35:00.000Z
+description: ""
+author: "stardust"
+tags: []
+category: "Default"
+slug: "2006-06-23-you-shi-yi-nian-bi-ye-shi"
+draft: false
 ---
-
 今天的小礼堂分外的热闹，在中区草坪上看到了好多师兄师姐穿上了学位服，在为最后的分别留下美丽的瞬间，中山先生的铜像屹立在那里，送走了一批又一批充满了幻想的他们，而他们也似乎突然之间都变得成熟很多，即将踏入社会，他们此时心中不知道在想些什么。  
   
 祝愿他们！想到明年的此时我也要站在那个位置，不禁感慨时间过得真得好快，似乎记忆还留在珠海的两年无忧无虑的生活之中，转眼之间已经又过了一年。  

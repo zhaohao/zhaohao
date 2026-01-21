@@ -1,12 +1,16 @@
 ---
 layout: post 
 title: "莫名其妙这是怎么着了……"
-draft: false 
-date: 2008-12-02
-categories: 
-  - "weblog"
+Date: 2008-12-02T23:00:00.000Z
+pubDatetime: 2008-12-02T23:00:00.000Z
+published: 2008-12-02T23:00:00.000Z
+description: ""
+author: "stardust"
+tags: []
+category: "Default"
+slug: "2008-12-02-mo-ming-qi-miao-zhe-shi-zen-me-zhao-le"
+draft: false
 ---
-
 昨天晚上做梦，梦到回到家了，不知怎么的就又飘到另外一个环境，似乎是天寒地冻，要过一条马路。  
   
 整个冰封的马路，身体不由自主的滑到了路中间，于是清晰的，眼睁睁的看着一辆白色的车朝自己冲来，然后自己就虚无的飞了起来，砸到车顶上，再落到地上。  

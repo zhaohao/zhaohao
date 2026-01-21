@@ -1,12 +1,16 @@
 ---
 layout: post 
 title: "五四的半天假今年也省了"
-draft: false 
-date: 2010-05-04
-categories: 
-  - "weblog"
+Date: 2010-05-04T10:34:00.000Z
+pubDatetime: 2010-05-04T10:34:00.000Z
+published: 2010-05-04T10:34:00.000Z
+description: ""
+author: "stardust"
+tags: []
+category: "Default"
+slug: "2010-05-04-wu-si-de-ban-tian-jia-jin-nian-ye-sheng-le"
+draft: false
 ---
-
   
 
 需要换换地方了……

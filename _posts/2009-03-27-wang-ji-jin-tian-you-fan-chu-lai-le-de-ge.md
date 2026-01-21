@@ -1,12 +1,16 @@
 ---
 layout: post 
 title: "忘记-今天又翻出来了的歌"
-draft: false 
-date: 2009-03-27
-categories: 
-  - "weblog"
+Date: 2009-03-27T19:22:00.000Z
+pubDatetime: 2009-03-27T19:22:00.000Z
+published: 2009-03-27T19:22:00.000Z
+description: ""
+author: "stardust"
+tags: []
+category: "Default"
+slug: "2009-03-27-wang-ji-jin-tian-you-fan-chu-lai-le-de-ge"
+draft: false
 ---
-
 有太多往事就别喝下太少酒精，太珍惜生命就别随便掏心，舍不得看破就别张开眼睛，想开心就要舍得伤心。  
   
 有太多行李就别单独旅行，不能够离开就不要接近，舍不得结束就别开始一段感情，想忘记就要一切归零。  

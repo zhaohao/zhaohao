@@ -1,12 +1,16 @@
 ---
 layout: post 
 title: "半夜下起大雨来了"
-draft: false 
-date: 2008-07-06
-categories: 
-  - "weblog"
+Date: 2008-07-06T02:54:00.000Z
+pubDatetime: 2008-07-06T02:54:00.000Z
+published: 2008-07-06T02:54:00.000Z
+description: ""
+author: "stardust"
+tags: []
+category: "Default"
+slug: "2008-07-06-ban-ye-xia-qi-da-yu-lai-le"
+draft: false
 ---
-
 广州这几天真的够热的，熬夜到两点多，仍然感觉热气时刻包围着自己。  
   
 躺到床上，身体接触到的地方全是热乎乎一片，习惯性的看一下接下来的天气怎样，手机屏幕中缓慢的出现了天气页面，却与昨天的预报完全不同了，今天变成了有大雨，而昨天预报今天仍是炎热的晴天。  

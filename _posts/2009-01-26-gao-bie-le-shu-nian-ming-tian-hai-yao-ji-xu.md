@@ -1,12 +1,16 @@
 ---
 layout: post 
 title: "告别了鼠年，明天还要继续"
-draft: false 
-date: 2009-01-26
-categories: 
-  - "weblog"
+Date: 2009-01-26T21:24:00.000Z
+pubDatetime: 2009-01-26T21:24:00.000Z
+published: 2009-01-26T21:24:00.000Z
+description: ""
+author: "stardust"
+tags: []
+category: "Default"
+slug: "2009-01-26-gao-bie-le-shu-nian-ming-tian-hai-yao-ji-xu"
+draft: false
 ---
-
 看了些六七年前的东西，怔怔的 看了好久，似乎是有很多很多的感触，但脑中却是空空的，大片大片的空白……  
   
 今天是春节，鼠年最后的一点点小尾巴也已经过去了，已经站在牛年的日子里了。在鼠年的小尾巴上，经历了一些小小的波折，使得身心都很疲惫。没有六岁时候的记忆，只知道十二岁，十八岁，二十四岁都有那么一点点的不顺利。  

@@ -1,12 +1,16 @@
 ---
 layout: post 
 title: "恍然之间毕业许久……"
-draft: false 
-date: 2007-11-15
-categories: 
-  - "weblog"
+Date: 2007-11-15T23:20:00.000Z
+pubDatetime: 2007-11-15T23:20:00.000Z
+published: 2007-11-15T23:20:00.000Z
+description: ""
+author: "stardust"
+tags: []
+category: "Default"
+slug: "2007-11-15-huang-ran-zhi-jian-bi-ye-xu-jiu"
+draft: false
 ---
-
 今天接到同学的电话，让我突然又想起了那许久未去的校园和遗忘很久的argo，虽然在曾经在那里只是一个寂寞的旁观者，但终究那是一个承载了四年时光积淀和我“考研”找工心酸的地方……  
   
 

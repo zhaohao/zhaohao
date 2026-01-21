@@ -1,12 +1,16 @@
 ---
 layout: post 
 title: "好孕的健康分享 第十八周"
-draft: false 
-date: 2012-09-05
-categories: 
-  - "weblog"
+Date: 2012-09-05T15:45:00.000Z
+pubDatetime: 2012-09-05T15:45:00.000Z
+published: 2012-09-05T15:45:00.000Z
+description: ""
+author: "stardust"
+tags: []
+category: "Default"
+slug: "2012-09-05-hao-yun-de-jian-kang-fen-xiang-di-shi-ba-zhou"
+draft: false
 ---
-
 进入孕18周，宝宝现在大概有14厘米长，重160-198克。  
   
 骨骼几乎全部是类似橡胶似的软骨，以后会变得越来越硬。  

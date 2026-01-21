@@ -1,12 +1,16 @@
 ---
 layout: post 
 title: "能干的不听话"
-draft: false 
-date: 2008-04-02
-categories: 
-  - "weblog"
+Date: 2008-04-02T21:47:00.000Z
+pubDatetime: 2008-04-02T21:47:00.000Z
+published: 2008-04-02T21:47:00.000Z
+description: ""
+author: "stardust"
+tags: []
+category: "Default"
+slug: "2008-04-02-neng-gan-de-bu-ting-hua"
+draft: false
 ---
-
 FROM:布珞阁 <2007.04.5 21:15 bruce>  
   
 看一个人力资源管理的视频教学，开场白有块地方讲得真是得体  

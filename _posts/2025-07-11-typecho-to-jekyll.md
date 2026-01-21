@@ -1,12 +1,16 @@
 ---
 layout: post 
 title: "从Typecho导出到Jekyll"
-draft: false 
-date: 2025-07-11
-categories: 
-  - "memos"
+Date: 2025-07-11T03:51:00.000Z
+pubDatetime: 2025-07-11T03:51:00.000Z
+published: 2025-07-11T03:51:00.000Z
+description: ""
+author: "stardust"
+tags: []
+category: "Memos"
+slug: "2025-07-11-typecho-to-jekyll"
+draft: false
 ---
-
 今天又翻看域名，想起以前设置的Astro博客和Jekyll博客，然后就再次试图在几个系统之间进行同步，搜到了Typecho上的Tp2MD插件，可以将typecho的文章转换为Jekyll适用的md文件，遂尝试使用。
 
 修改了下适合自用的一些字段和格式，基本一切顺利转换完成，尝试Jekyll编译几个文件也挺正常。但是把全部文件编译时候，却总是出错：

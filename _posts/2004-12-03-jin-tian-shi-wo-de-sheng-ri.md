@@ -1,12 +1,16 @@
 ---
 layout: post 
 title: "今天是我的生日"
-draft: false 
-date: 2004-12-03
-categories: 
-  - "weblog"
+Date: 2004-12-03T23:55:00.000Z
+pubDatetime: 2004-12-03T23:55:00.000Z
+published: 2004-12-03T23:55:00.000Z
+description: ""
+author: "stardust"
+tags: []
+category: "Default"
+slug: "2004-12-03-jin-tian-shi-wo-de-sheng-ri"
+draft: false
 ---
-
 今天是我的生日，现在已经十一点多了，马上就要进入另一岁了，感觉好令人惋惜，转眼之间已经度过了二十个春夏秋冬了，可是还是这样的不懂事，不了解自己的感情，真是没有办法。  
   
 很久以前，是高中的时间，感到自己好想什么都明白了，什么东西都看透了的样子，现在回想起来，那时真的比现在幼稚，而现在实际上已经很幼稚了，那时可想而知是多么的无知。  

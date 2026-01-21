@@ -1,12 +1,16 @@
 ---
 layout: post 
 title: "两首歌-六月最后一天"
-draft: false 
-date: 2008-06-30
-categories: 
-  - "weblog"
+Date: 2008-06-30T21:47:00.000Z
+pubDatetime: 2008-06-30T21:47:00.000Z
+published: 2008-06-30T21:47:00.000Z
+description: ""
+author: "stardust"
+tags: []
+category: "Default"
+slug: "2008-06-30-liang-shou-ge-liu-yue-zui-hou-yi-tian"
+draft: false
 ---
-
 一生何求-陈百强 What I need In My Life  
   
 冷暖哪可休，回头多少个秋。寻遍了却偏失去，未盼却在手。  

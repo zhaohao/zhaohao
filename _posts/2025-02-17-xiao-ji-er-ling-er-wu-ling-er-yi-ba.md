@@ -1,0 +1,15 @@
+---
+layout: post 
+title: "小记二〇二五〇二一八"
+Date: 2025-02-17T16:09:40.000Z
+pubDatetime: 2025-02-17T16:09:40.000Z
+published: 2025-02-17T16:09:40.000Z
+description: ""
+author: "stardust"
+tags: []
+category: "Memos"
+slug: "2025-02-17-xiao-ji-er-ling-er-wu-ling-er-yi-ba"
+draft: false
+---
+早晨五点五十闹钟，艰难的从挤的满满当当的车库里挪出车，六点多天还完全黑蒙蒙，一路上就有了很多的大货车，这在以前这个时间点过这条路的经验里是一路空旷的。  
+安置了两小只吃早餐上学，要去找地方停车了，前面是停在路边，附近的停车场都是天天塞满，包括路边所有地方都是停满了车，很麻烦。

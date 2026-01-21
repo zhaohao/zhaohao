@@ -1,12 +1,16 @@
 ---
 layout: post 
 title: "你不是真正的快乐"
-draft: false 
-date: 2008-12-01
-categories: 
-  - "weblog"
+Date: 2008-12-01T23:33:00.000Z
+pubDatetime: 2008-12-01T23:33:00.000Z
+published: 2008-12-01T23:33:00.000Z
+description: ""
+author: "stardust"
+tags: []
+category: "Default"
+slug: "2008-12-01-ni-bu-shi-zhen-zheng-de-kuai-le"
+draft: false
 ---
-
 人群中哭着，你只想变成透明的颜色。你再也不会梦或痛或心动了，你已经决定了，你已经决定了  
   
 你静静忍着，紧紧把昨天在拳心握着。而回忆越是甜就是越伤人了，越是在手心留下密密麻麻深深浅浅的刀割。  

@@ -1,12 +1,16 @@
 ---
 layout: post 
 title: "隔世离空的红颜"
-draft: false 
-date: 2008-06-01
-categories: 
-  - "weblog"
+Date: 2008-06-01T22:40:00.000Z
+pubDatetime: 2008-06-01T22:40:00.000Z
+published: 2008-06-01T22:40:00.000Z
+description: ""
+author: "stardust"
+tags: []
+category: "Default"
+slug: "2008-06-01-ge-shi-li-kong-de-hong-yan"
+draft: false
 ---
-
 谁会相信雨滴会变成一杯咖啡，种子会开成鲜丽的玫瑰。孤寂的旅途是单程的约会，相近 相识后各自而飞。  
   
 多么想让你走进我的心扉，一同承受心灵的忏悔，人生的路上你我紧紧相随，爱过，恨过后独自去面对。  

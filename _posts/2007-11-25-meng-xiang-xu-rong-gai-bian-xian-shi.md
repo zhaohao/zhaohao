@@ -1,12 +1,16 @@
 ---
 layout: post 
 title: "梦想虚荣-改变-现实"
-draft: false 
-date: 2007-11-25
-categories: 
-  - "weblog"
+Date: 2007-11-25T01:20:00.000Z
+pubDatetime: 2007-11-25T01:20:00.000Z
+published: 2007-11-25T01:20:00.000Z
+description: ""
+author: "stardust"
+tags: []
+category: "Default"
+slug: "2007-11-25-meng-xiang-xu-rong-gai-bian-xian-shi"
+draft: false
 ---
-
 不知道如果再这样继续下去，会有个什么样的结局，会不会就这么庸庸碌碌一辈子？我不会甘心。  
 或许太过追求虚名，又不能做到身体力行，结果长久迷惘在不切实际的幻想之中不能自拔，心中的梦想离现实似乎越来越过遥远，心中的那种痛却随着时间的流逝越来越深，让人不敢去想……  
   

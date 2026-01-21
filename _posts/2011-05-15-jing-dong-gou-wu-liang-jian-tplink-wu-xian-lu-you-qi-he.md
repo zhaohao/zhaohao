@@ -1,12 +1,16 @@
 ---
 layout: post 
 title: "京东购物两件TP-LINK无线路由器和SAMSUNG内存"
-draft: false 
-date: 2011-05-15
-categories: 
-  - "weblog"
+Date: 2011-05-15T10:26:00.000Z
+pubDatetime: 2011-05-15T10:26:00.000Z
+published: 2011-05-15T10:26:00.000Z
+description: ""
+author: "stardust"
+tags: []
+category: "Default"
+slug: "2011-05-15-jing-dong-gou-wu-liang-jian-tplink-wu-xian-lu-you-qi-he"
+draft: false
 ---
-
 订单编号：54995429  
 订单状态：等待确认收货  
 订单总金额：￥248.00  

@@ -1,12 +1,16 @@
 ---
 layout: post 
 title: "转载: 拖延症 (Procrastination)"
-draft: false 
-date: 2011-05-31
-categories: 
-  - "weblog"
+Date: 2011-05-31T13:48:00.000Z
+pubDatetime: 2011-05-31T13:48:00.000Z
+published: 2011-05-31T13:48:00.000Z
+description: ""
+author: "stardust"
+tags: []
+category: "Default"
+slug: "2011-05-31-zhuan-zai-tuo-yan-zheng-procrastination"
+draft: false
 ---
-
 拖延症，英文Procrastination。取意"将之前的事情放置明天"。拖延症总是表现在各种小事上，但日积月累，特别影响个人发展。拖延现象现已成为管理学家和心理学家研究的一个重要课题。  
   
 该词的最初亮相是在爱德华·霍尔出版于1542年的书里。几乎是相同的年代，正处于明清交替的中国，一位名叫钱鹤滩的学者写下了脍炙人口的《明日歌》："明日复明日，明日何其多。我生待明日，万事成蹉跎。"圣经从希腊文翻译为英文的过程中，拖延更多被译成"罪过（sin）"，直到工业革命后，拖延才逐渐具有了现在的含义，被视为"以推迟的方式逃避执行任务或做决定的一种特质或行为倾向，是一种自我阻碍和功能紊乱行为"。不过"拖延症"正式成为病症，国外的研究不过才一二十年。  

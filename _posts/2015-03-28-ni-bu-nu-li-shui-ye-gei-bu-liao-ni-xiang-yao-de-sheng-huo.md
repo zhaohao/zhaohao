@@ -1,12 +1,16 @@
 ---
 layout: post 
 title: "你不努力，谁也给不了你想要的生活[转]"
-draft: false 
-date: 2015-03-28
-categories: 
-  - "weblog"
+Date: 2015-03-28T11:08:00.000Z
+pubDatetime: 2015-03-28T11:08:00.000Z
+published: 2015-03-28T11:08:00.000Z
+description: ""
+author: "stardust"
+tags: []
+category: "Default"
+slug: "2015-03-28-ni-bu-nu-li-shui-ye-gei-bu-liao-ni-xiang-yao-de-sheng-huo"
+draft: false
 ---
-
 **现**在凌晨零点三十八分，我刚挂了电话，与我的好姐妹。  
   
 她拨通电话就兴奋的问：“你猜我在哪里？”  

@@ -1,14 +1,16 @@
 ---
-layout: post
+layout: post 
 title: "重新开始跑步"
-date: 2026-01-13
-categories: 
-  - "default"
-tags: 
-  - "life"
-  - "running"
+Date: 2026-01-13T14:19:58.000Z
+pubDatetime: 2026-01-13T14:19:58.000Z
+published: 2026-01-13T14:19:58.000Z
+description: ""
+author: "stardust"
+tags: ["life", "running"]
+category: "Default"
+slug: "2026-01-13-start-running-again"
+draft: false
 ---
-
 久坐不运动，身体开始表现出各种警讯，各种亚健康状态层出不穷，迫切需要改善这种状态。  
   
 楼下环境太过复杂，可以跑步的道路在几百米外，在加上上楼下楼的对会大量出汗的运动来讲非常不适合，于是从角落翻出尘封已久的跑步机，放在了阳台开始恢复运动。  

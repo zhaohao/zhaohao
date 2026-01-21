@@ -1,12 +1,16 @@
 ---
 layout: post 
 title: "爱乐团-死而无憾"
-draft: false 
-date: 2008-06-30
-categories: 
-  - "weblog"
+Date: 2008-06-30T21:38:00.000Z
+pubDatetime: 2008-06-30T21:38:00.000Z
+published: 2008-06-30T21:38:00.000Z
+description: ""
+author: "stardust"
+tags: []
+category: "Default"
+slug: "2008-06-30-ai-yue-tuan-si-er-wu-han"
+draft: false
 ---
-
 岁月在蒸发，蝴蝶依旧恋着花。  
   
 我笑她太傻，守着枯萎的枝丫；没结果的花 ，它痴恋着沙，风吹散落在天涯。  

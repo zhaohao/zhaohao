@@ -1,12 +1,16 @@
 ---
 layout: post 
 title: "笑忘书"
-draft: false 
-date: 2016-03-30
-categories: 
-  - "weblog"
+Date: 2016-03-30T13:28:00.000Z
+pubDatetime: 2016-03-30T13:28:00.000Z
+published: 2016-03-30T13:28:00.000Z
+description: ""
+author: "stardust"
+tags: []
+category: "Default"
+slug: "2016-03-30-xiao-wang-shu"
+draft: false
 ---
-
 从开始哭着嫉妒，变成了笑着羡慕。时间是怎么样，划过了我皮肤，只有我自己最清楚。  
   
 没，没有蜡烛，就不用勉强庆祝。没，没想到答案，就不要寻找题目。  

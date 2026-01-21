@@ -1,12 +1,16 @@
 ---
 layout: post 
 title: "IPV6设置整理"
-draft: false 
-date: 2010-08-28
-categories: 
-  - "weblog"
+Date: 2010-08-28T12:47:00.000Z
+pubDatetime: 2010-08-28T12:47:00.000Z
+published: 2010-08-28T12:47:00.000Z
+description: ""
+author: "stardust"
+tags: []
+category: "Default"
+slug: "2010-08-28-ipv6-she-zhi-zheng-li"
+draft: false
 ---
-
   
   
   
@@ -17,9 +21,15 @@ categories:
   
   
 
-| CMD : |
-| --- |
-| C:UsersAcui>netsh   netsh>int   netsh interface>ipv6   netsh interface ipv6>isatap   netsh interface ipv6 isatap>set route [isatap.sysu.edu.cn](http://isatap.sysu.edu.cn/)   netsh interface ipv6 isatap>set state enabled   netsh interface ipv6 isatap>quit |
+CMD :
+
+C:UsersAcui>netsh  
+netsh>int  
+netsh interface>ipv6  
+netsh interface ipv6>isatap  
+netsh interface ipv6 isatap>set route [isatap.sysu.edu.cn](http://isatap.sysu.edu.cn/)  
+netsh interface ipv6 isatap>set state enabled  
+netsh interface ipv6 isatap>quit
 
   
   

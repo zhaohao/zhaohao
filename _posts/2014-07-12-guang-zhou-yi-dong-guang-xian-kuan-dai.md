@@ -1,12 +1,16 @@
 ---
 layout: post 
 title: "广州移动光纤宽带"
-draft: false 
-date: 2014-07-12
-categories: 
-  - "weblog"
+Date: 2014-07-12T11:24:00.000Z
+pubDatetime: 2014-07-12T11:24:00.000Z
+published: 2014-07-12T11:24:00.000Z
+description: ""
+author: "stardust"
+tags: []
+category: "Default"
+slug: "2014-07-12-guang-zhou-yi-dong-guang-xian-kuan-dai"
+draft: false
 ---
-
 从搬到家这边住就开通了电信的ADSL宽带，从最初的4Mb下行速率到后来6Mb再到8Mb一路走来，用了整整4年。  
   
 今年五月底又到续费的时间，但发现了电信坑爹的问题，新装宽带远远比已有续费更加优惠，1780元的价格对于光纤入户的带宽已经能到100Mb的速率了，而自己要续费的话还只能使用电话线而且限制到了10Mb带宽，怎么算怎么不值得，于是开始有了换宽带的打算。  

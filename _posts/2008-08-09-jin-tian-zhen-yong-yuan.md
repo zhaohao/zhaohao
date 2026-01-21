@@ -1,12 +1,16 @@
 ---
 layout: post 
 title: "今天-真永远"
-draft: false 
-date: 2008-08-09
-categories: 
-  - "weblog"
+Date: 2008-08-09T20:56:00.000Z
+pubDatetime: 2008-08-09T20:56:00.000Z
+published: 2008-08-09T20:56:00.000Z
+description: ""
+author: "stardust"
+tags: []
+category: "Default"
+slug: "2008-08-09-jin-tian-zhen-yong-yuan"
+draft: false
 ---
-
 走过岁月我才发现世界多不完美，成功或失败都有一些错觉  
 沧海有多广 江湖有多深，局中人才了解  
   

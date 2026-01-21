@@ -1,20 +1,24 @@
 ---
 layout: post 
 title: "一些小事202109"
-draft: false 
-date: 2021-09-21
-categories: 
-  - "memos"
+Date: 2021-09-21T07:16:00.000Z
+pubDatetime: 2021-09-21T07:16:00.000Z
+published: 2021-09-21T07:16:00.000Z
+description: ""
+author: "stardust"
+tags: []
+category: "Memos"
+slug: "2021-09-21-er-ling-er-yi-jiu-yue"
+draft: false
 ---
-
 为了使用 Callkit 功能，把两个微信号绑定+1 的 GV号码转区到了WeChat ，点了一堆的协议。
 
 刚过一号零点，申领了驾驶证电子版。以后越来越用不到纸质证件了。
 
-![](/images/2021-09-01-fanfou-wordpress.jpg)
+![](/images/2021/2021-09-21-6c8fe27d.jpg)
 
 2021.09.21 下单了理想 ONE 🚗
 
-![](/images/2021-09-21-E_zDJskUcAM2jpj-473x1024.jpeg)
+![](/images/2021/2021-09-21-61ee333e.jpeg)
 
-![](/images/2021-09-21-E_zDJsnVkAAfzug-473x1024.jpeg)
+![](/images/2021/2021-09-21-da628702.jpeg)

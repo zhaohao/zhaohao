@@ -1,12 +1,16 @@
 ---
 layout: post 
 title: "闲逛Blogger发现"
-draft: false 
-date: 2007-03-01
-categories: 
-  - "weblog"
+Date: 2007-03-01T12:52:00.000Z
+pubDatetime: 2007-03-01T12:52:00.000Z
+published: 2007-03-01T12:52:00.000Z
+description: ""
+author: "stardust"
+tags: []
+category: "Default"
+slug: "2007-03-01-xian-guang-blogger-fa-xian"
+draft: false
 ---
-
   
 
   
@@ -40,7 +44,7 @@ _posted by hao @ 8:45 PM_ 0 comments
   
 
   
-\-- 
+\--  
 由 hao 于 3/01/2007 08:52:00 下午 在 [bluestardust](http://haov.blogspot.com/2007/03/blogger.html) 上发表
 
 stardust@live.com

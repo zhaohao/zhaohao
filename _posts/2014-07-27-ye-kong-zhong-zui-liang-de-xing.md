@@ -1,12 +1,16 @@
 ---
 layout: post 
 title: "夜空中最亮的星"
-draft: false 
-date: 2014-07-27
-categories: 
-  - "weblog"
+Date: 2014-07-27T16:04:00.000Z
+pubDatetime: 2014-07-27T16:04:00.000Z
+published: 2014-07-27T16:04:00.000Z
+description: ""
+author: "stardust"
+tags: []
+category: "Default"
+slug: "2014-07-27-ye-kong-zhong-zui-liang-de-xing"
+draft: false
 ---
-
 \[audio mp3="/wp-content/uploads/ykzzldx.mp3"\]\[/audio\]  
 夜空中最亮的星 能否听清  
 那仰望的人心底的孤独和叹息  
@@ -31,6 +35,6 @@ categories:
   
 \[audio mp3="/wp-content/uploads/star.mp3"\]\[/audio\]  
   
-![shinning-star](/images/shinning-star.jpg)
+![shinning-star](/images/2014/2014-07-28-7357452a.jpg)
 
 stardust@live.com

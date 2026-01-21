@@ -1,12 +1,16 @@
 ---
 layout: post 
 title: "永远不回头"
-draft: false 
-date: 2006-12-13
-categories: 
-  - "weblog"
+Date: 2006-12-13T22:18:00.000Z
+pubDatetime: 2006-12-13T22:18:00.000Z
+published: 2006-12-13T22:18:00.000Z
+description: ""
+author: "stardust"
+tags: []
+category: "Default"
+slug: "2006-12-13-yong-yuan-bu-hui-tou"
+draft: false
 ---
-
 在天色破晓之前  
 　　 我想要爬上山巅 仰望星辰  
 　　 向时间祈求永远  

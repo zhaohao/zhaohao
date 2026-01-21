@@ -1,12 +1,16 @@
 ---
 layout: post 
 title: "时间已经快到一点半了，很是安静，风不时吹动窗帘"
-draft: false 
-date: 2009-03-01
-categories: 
-  - "weblog"
+Date: 2009-03-01T01:27:00.000Z
+pubDatetime: 2009-03-01T01:27:00.000Z
+published: 2009-03-01T01:27:00.000Z
+description: ""
+author: "stardust"
+tags: []
+category: "Default"
+slug: "2009-03-01-shi-jian-yi-jing-kuai-dao-yi-dian-ban-le-hen-shi-an-jing"
+draft: false
 ---
-
 两天来第一次下楼…天气有些凉了，让人感觉清醒…  
   
 

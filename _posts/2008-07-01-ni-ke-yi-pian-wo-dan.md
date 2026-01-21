@@ -1,12 +1,16 @@
 ---
 layout: post 
 title: "你可以骗我，但"
-draft: false 
-date: 2008-07-01
-categories: 
-  - "weblog"
+Date: 2008-07-01T23:50:00.000Z
+pubDatetime: 2008-07-01T23:50:00.000Z
+published: 2008-07-01T23:50:00.000Z
+description: ""
+author: "stardust"
+tags: []
+category: "Default"
+slug: "2008-07-01-ni-ke-yi-pian-wo-dan"
+draft: false
 ---
-
 三个月前，这群人还在世界各地挥舞着五星红旗，举着自制的标语横幅，为奥运火炬的荣光而抗争，还在国外的论坛上用不纯熟的英语，驳斥着西方媒体的傲慢和偏见，还在msn和QQ上，用红色的心连成一串，他们高呼：中国加油！北京加油！他们跳进冰冷的水池中，举起五星红旗。  
   
 一个月前，这群人排着队捐钱，抢着献血，抢着奔赴灾区，为素不相识的同胞痛哭不止。他们低头默哀，昂首呐喊，四川挺住！中国加油！  

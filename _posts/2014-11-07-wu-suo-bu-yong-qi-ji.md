@@ -1,13 +1,17 @@
 ---
 layout: post 
 title: "无所不用其极"
-draft: false 
-date: 2014-11-07
-categories: 
-  - "weblog"
+Date: 2014-11-07T16:23:00.000Z
+pubDatetime: 2014-11-07T16:23:00.000Z
+published: 2014-11-07T16:23:00.000Z
+description: ""
+author: "stardust"
+tags: []
+category: "Default"
+slug: "2014-11-07-wu-suo-bu-yong-qi-ji"
+draft: false
 ---
-
-![gate](/images/gate.jpg)  
+![gate](/images/2014/2014-11-08-63811f12.jpg)  
   
 外面的世界很精彩，这里的世界很无奈……  
   

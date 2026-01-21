@@ -1,13 +1,17 @@
 ---
 layout: post 
 title: "Fwd: An invitation to ifttt"
-draft: false 
-date: 2011-07-28
-categories: 
-  - "weblog"
+Date: 2011-07-28T21:12:00.000Z
+pubDatetime: 2011-07-28T21:12:00.000Z
+published: 2011-07-28T21:12:00.000Z
+description: ""
+author: "stardust"
+tags: []
+category: "Default"
+slug: "2011-07-28-fwd-an-invitation-to-ifttt"
+draft: false
 ---
-
-\---------- Forwarded message ---------- 
+\---------- Forwarded message ----------  
 From: ifttt <[invitation@ifttt.com](mailto:invitation@ifttt.com)\>  
 Date: Thu, Jul 28, 2011 at 02:16  
 Subject: An invitation to ifttt  

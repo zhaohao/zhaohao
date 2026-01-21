@@ -1,12 +1,16 @@
 ---
 layout: post 
 title: "Lenovo ThinkStation E32 TVT & DELL P2214H"
-draft: false 
-date: 2014-08-03
-categories: 
-  - "weblog"
+Date: 2014-08-03T21:33:00.000Z
+pubDatetime: 2014-08-03T21:33:00.000Z
+published: 2014-08-03T21:33:00.000Z
+description: ""
+author: "stardust"
+tags: []
+category: "Default"
+slug: "2014-08-03-lenovo-thinkstation-e32-tvt-dell-p2214h"
+draft: false
 ---
-
 电脑型号 联想 98002993 Tower  
 操作系统 Windows 8.1 专业版 32位 ( DirectX 11 )  
   
@@ -20,6 +24,6 @@ categories:
 声卡 瑞昱 ALC662 @ 英特尔 Haswell 高保真音频  
 网卡 英特尔 Ethernet Connection I217-LM / 联想  
   
-![Nikon 2014-08-03 21-03-13](/images/Nikon-2014-08-03-21-03-13.jpg) ![Nikon 2014-08-03 21-12-11](/images/Nikon-2014-08-03-21-12-11.jpg)
+![Nikon 2014-08-03 21-03-13](/images/2014/2014-08-04-9e47503a.jpg) ![Nikon 2014-08-03 21-12-11](/images/2014/2014-08-04-a79be66d.jpg)
 
 stardust@live.com

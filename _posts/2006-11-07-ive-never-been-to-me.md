@@ -1,12 +1,16 @@
 ---
 layout: post 
 title: "I've never been to me"
-draft: false 
-date: 2006-11-07
-categories: 
-  - "weblog"
+Date: 2006-11-07T00:03:00.000Z
+pubDatetime: 2006-11-07T00:03:00.000Z
+published: 2006-11-07T00:03:00.000Z
+description: ""
+author: "stardust"
+tags: []
+category: "Default"
+slug: "2006-11-07-ive-never-been-to-me"
+draft: false
 ---
-
   
   
 background music:I've never been to me  
